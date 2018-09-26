@@ -1,0 +1,9235 @@
+
+
+Query number :  1
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0345
+F-measure :   0.0370 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.1034
+F-measure :   0.1111 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.0690
+F-measure :   0.0741 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.1034
+F-measure :   0.1111 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.1034
+F-measure :   0.1111 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.1379
+F-measure :   0.1481 
+
+
+
+Query number :  2
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+
+
+Query number :  1
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.0690
+F-measure :   0.0741 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0345
+F-measure :   0.0370 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.0690
+F-measure :   0.0741 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0345
+F-measure :   0.0370 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.1034
+F-measure :   0.1111 
+
+
+
+Query number :  2
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0400
+F-measure :   0.0400 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0400
+F-measure :   0.0400 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  3
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.6667
+F-measure :   0.3529 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.6667
+F-measure :   0.3529 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.6667
+F-measure :   0.3529 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2800
+Recall :   0.7778
+F-measure :   0.4118 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   0.7778
+F-measure :   0.4118 
+
+
+
+Query number :  4
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+
+
+Query number :  5
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.8000
+F-measure :   0.2667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.8000
+F-measure :   0.2667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+
+
+Query number :  6
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  7
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+
+
+Query number :  8
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.3333
+F-measure :   0.2162 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.3333
+F-measure :   0.2162 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.3333
+F-measure :   0.2162 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1667
+F-measure :   0.1081 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2500
+F-measure :   0.1622 
+
+
+
+Query number :  9
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+
+
+Query number :  10
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.4444
+F-measure :   0.2353 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3333
+F-measure :   0.1765 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.4444
+F-measure :   0.2353 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3333
+F-measure :   0.1765 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3333
+F-measure :   0.1765 
+
+
+
+Query number :  11
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+
+
+Query number :  12
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+
+
+Query number :  13
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+
+
+Query number :  14
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+
+
+Query number :  15
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+
+
+Query number :  16
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+
+
+Query number :  17
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+
+
+Query number :  18
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+
+
+Query number :  19
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  20
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.6000
+F-measure :   0.3429 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.6000
+F-measure :   0.3429 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.6000
+F-measure :   0.3429 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.6000
+F-measure :   0.3429 
+
+
+
+Query number :  21
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+
+
+Query number :  22
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  23
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.0606
+F-measure :   0.0690 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.0606
+F-measure :   0.0690 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.0606
+F-measure :   0.0690 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.0606
+F-measure :   0.0690 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.0909
+F-measure :   0.1034 
+
+
+
+Query number :  24
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+
+
+Query number :  25
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2800
+Recall :   0.7000
+F-measure :   0.4000 
+
+Use Cosine similarity measure:
+Precision :   0.3200
+Recall :   0.8000
+F-measure :   0.4571 
+
+
+
+Query number :  26
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+
+
+Query number :  27
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+
+
+Query number :  28
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  29
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.6000
+F-measure :   0.3429 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.6000
+F-measure :   0.3429 
+
+
+
+Query number :  30
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  31
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.5000
+F-measure :   0.0741 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.5000
+F-measure :   0.0741 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.5000
+F-measure :   0.0741 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.5000
+F-measure :   0.0741 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.5000
+F-measure :   0.0741 
+
+
+
+Query number :  32
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+
+
+Query number :  33
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   1.0000
+F-measure :   0.2759 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   1.0000
+F-measure :   0.2759 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   1.0000
+F-measure :   0.2759 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   1.0000
+F-measure :   0.2759 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   1.0000
+F-measure :   0.2759 
+
+
+
+Query number :  34
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+
+
+Query number :  35
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  36
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  37
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+
+
+Query number :  38
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  39
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+
+
+Query number :  40
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0769
+F-measure :   0.0526 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0769
+F-measure :   0.0526 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0769
+F-measure :   0.0526 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0769
+F-measure :   0.0526 
+
+
+
+Query number :  41
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+
+
+Query number :  42
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+
+
+Query number :  43
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+
+
+Query number :  44
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  45
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2308
+F-measure :   0.1579 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.2308
+F-measure :   0.1579 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2308
+F-measure :   0.1579 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.2308
+F-measure :   0.1579 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2308
+F-measure :   0.1579 
+
+
+
+Query number :  46
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1250
+F-measure :   0.0976 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0625
+F-measure :   0.0488 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0625
+F-measure :   0.0488 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.1875
+F-measure :   0.1463 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.2500
+F-measure :   0.1951 
+
+
+
+Query number :  47
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.3600
+Recall :   0.6000
+F-measure :   0.4500 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2800
+Recall :   0.4667
+F-measure :   0.3500 
+
+Use Cosine similarity measure:
+Precision :   0.3600
+Recall :   0.6000
+F-measure :   0.4500 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.4000
+F-measure :   0.3000 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.4000
+F-measure :   0.3000 
+
+
+
+Query number :  48
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.3333
+F-measure :   0.2162 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.3333
+F-measure :   0.2162 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.3333
+F-measure :   0.2162 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.2500
+F-measure :   0.1622 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2500
+F-measure :   0.1622 
+
+
+
+Query number :  49
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+
+
+Query number :  50
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+
+
+Query number :  51
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0909
+F-measure :   0.0556 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0909
+F-measure :   0.0556 
+
+
+
+Query number :  52
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.8000
+F-measure :   0.2667 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.8000
+F-measure :   0.2667 
+
+
+
+Query number :  53
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2727
+F-measure :   0.1667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0909
+F-measure :   0.0556 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1818
+F-measure :   0.1111 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.2727
+F-measure :   0.1667 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2727
+F-measure :   0.1667 
+
+
+
+Query number :  54
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2000
+F-measure :   0.1143 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2000
+F-measure :   0.1143 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+
+
+Query number :  55
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2727
+F-measure :   0.1667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1818
+F-measure :   0.1111 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2727
+F-measure :   0.1667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1818
+F-measure :   0.1111 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1818
+F-measure :   0.1111 
+
+
+
+Query number :  56
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.3636
+F-measure :   0.2222 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.3636
+F-measure :   0.2222 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.3636
+F-measure :   0.2222 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1818
+F-measure :   0.1111 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1818
+F-measure :   0.1111 
+
+
+
+Query number :  57
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0667
+F-measure :   0.0500 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0667
+F-measure :   0.0500 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0667
+F-measure :   0.0500 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.2000
+F-measure :   0.1500 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2000
+F-measure :   0.1500 
+
+
+
+Query number :  58
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2000
+F-measure :   0.1143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+
+
+Query number :  59
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  60
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+
+
+Query number :  61
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+
+
+Query number :  62
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  63
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  64
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  65
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0625
+F-measure :   0.0488 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   0.4375
+F-measure :   0.3415 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2800
+Recall :   0.4375
+F-measure :   0.3415 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   0.4375
+F-measure :   0.3415 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.3750
+F-measure :   0.2927 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.3750
+F-measure :   0.2927 
+
+
+
+Query number :  66
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+
+
+Query number :  67
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0667
+F-measure :   0.0500 
+
+Use Cosine similarity measure:
+Precision :   0.3200
+Recall :   0.5333
+F-measure :   0.4000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2800
+Recall :   0.4667
+F-measure :   0.3500 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   0.4667
+F-measure :   0.3500 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.3333
+F-measure :   0.2500 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.4000
+F-measure :   0.3000 
+
+
+
+Query number :  68
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+
+
+Query number :  69
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  70
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2727
+F-measure :   0.1667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1818
+F-measure :   0.1111 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2727
+F-measure :   0.1667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0909
+F-measure :   0.0556 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0909
+F-measure :   0.0556 
+
+
+
+Query number :  71
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+
+
+Query number :  72
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1111
+F-measure :   0.0930 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1111
+F-measure :   0.0930 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1111
+F-measure :   0.0930 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  73
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.1905
+F-measure :   0.1739 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.1905
+F-measure :   0.1739 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.1905
+F-measure :   0.1739 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.2381
+F-measure :   0.2174 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.2381
+F-measure :   0.2174 
+
+
+
+Query number :  74
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+
+
+Query number :  75
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+
+
+Query number :  76
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+
+
+Query number :  77
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+
+
+Query number :  78
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+
+
+Query number :  79
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+
+
+Query number :  80
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+
+
+Query number :  81
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+
+
+Query number :  82
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+
+
+Query number :  83
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  84
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  85
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  86
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+
+
+Query number :  87
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  88
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   1.0000
+F-measure :   0.4375 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2800
+Recall :   1.0000
+F-measure :   0.4375 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   1.0000
+F-measure :   0.4375 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2800
+Recall :   1.0000
+F-measure :   0.4375 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   1.0000
+F-measure :   0.4375 
+
+
+
+Query number :  89
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+
+
+Query number :  90
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.2143
+F-measure :   0.1538 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2143
+F-measure :   0.1538 
+
+
+
+Query number :  91
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1000
+F-measure :   0.0571 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1000
+F-measure :   0.0571 
+
+
+
+Query number :  92
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.4286
+F-measure :   0.3077 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.4286
+F-measure :   0.3077 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.4286
+F-measure :   0.3077 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.3200
+Recall :   0.5714
+F-measure :   0.4103 
+
+Use Cosine similarity measure:
+Precision :   0.3600
+Recall :   0.6429
+F-measure :   0.4615 
+
+
+
+Query number :  93
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   1.0000
+F-measure :   0.1481 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   1.0000
+F-measure :   0.1481 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   1.0000
+F-measure :   0.1481 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   1.0000
+F-measure :   0.1481 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   1.0000
+F-measure :   0.1481 
+
+
+
+Query number :  94
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.3077
+F-measure :   0.2105 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.3077
+F-measure :   0.2105 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.3077
+F-measure :   0.2105 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.4615
+F-measure :   0.3158 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   0.5385
+F-measure :   0.3684 
+
+
+
+Query number :  95
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+
+
+Query number :  96
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.4286
+F-measure :   0.3077 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.4286
+F-measure :   0.3077 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.4286
+F-measure :   0.3077 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2143
+F-measure :   0.1538 
+
+
+
+Query number :  97
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  98
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+
+
+Query number :  99
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+
+
+Query number :  100
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+
+
+Query number :  101
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+
+
+Query number :  102
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+
+
+Query number :  103
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+
+
+Query number :  104
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+
+
+Query number :  105
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+
+
+Query number :  106
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+
+
+Query number :  107
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.6250
+F-measure :   0.3030 
+
+
+
+Query number :  108
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2800
+Recall :   0.8750
+F-measure :   0.4242 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   0.8750
+F-measure :   0.4242 
+
+
+
+Query number :  109
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  110
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  111
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+
+
+Query number :  112
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+
+
+Query number :  113
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+
+
+Query number :  114
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+
+
+Query number :  115
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  116
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+
+
+Query number :  117
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  118
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+
+
+Query number :  119
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   1.0000
+F-measure :   0.1481 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   1.0000
+F-measure :   0.1481 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   1.0000
+F-measure :   0.1481 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   1.0000
+F-measure :   0.1481 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   1.0000
+F-measure :   0.1481 
+
+
+
+Query number :  120
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   0.7000
+F-measure :   0.4000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2800
+Recall :   0.7000
+F-measure :   0.4000 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   0.7000
+F-measure :   0.4000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.6000
+F-measure :   0.3429 
+
+
+
+Query number :  121
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1250
+F-measure :   0.0606 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1250
+F-measure :   0.0606 
+
+
+
+Query number :  122
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2000
+F-measure :   0.1143 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2000
+F-measure :   0.1143 
+
+
+
+Query number :  123
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  124
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+
+
+Query number :  125
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0556
+F-measure :   0.0465 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1111
+F-measure :   0.0930 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.1667
+F-measure :   0.1395 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1111
+F-measure :   0.0930 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0556
+F-measure :   0.0465 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  126
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+
+
+Query number :  127
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+
+
+Query number :  128
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+
+
+Query number :  129
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.7500
+F-measure :   0.3636 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.7500
+F-measure :   0.3636 
+
+
+
+Query number :  130
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+
+
+Query number :  131
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3333
+F-measure :   0.1765 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3333
+F-measure :   0.1765 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3333
+F-measure :   0.1765 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3333
+F-measure :   0.1765 
+
+
+
+Query number :  132
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.3125
+F-measure :   0.2439 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.3125
+F-measure :   0.2439 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.3125
+F-measure :   0.2439 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.2500
+F-measure :   0.1951 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.3125
+F-measure :   0.2439 
+
+
+
+Query number :  133
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+
+
+Query number :  134
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+
+
+Query number :  135
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.6667
+F-measure :   0.3529 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.5556
+F-measure :   0.2941 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.6667
+F-measure :   0.3529 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.5556
+F-measure :   0.2941 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.6667
+F-measure :   0.3529 
+
+
+
+Query number :  136
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+
+
+Query number :  137
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+
+
+Query number :  138
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  139
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  140
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+
+
+Query number :  141
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  142
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.5000
+F-measure :   0.0741 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.5000
+F-measure :   0.0741 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.5000
+F-measure :   0.0741 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.5000
+F-measure :   0.0741 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.5000
+F-measure :   0.0741 
+
+
+
+Query number :  143
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+
+
+Query number :  144
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+
+
+Query number :  145
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+
+
+Query number :  146
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+
+
+Query number :  147
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2727
+F-measure :   0.1667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.2727
+F-measure :   0.1667 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2727
+F-measure :   0.1667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.4545
+F-measure :   0.2778 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.4545
+F-measure :   0.2778 
+
+
+
+Query number :  148
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+
+
+Query number :  149
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.2500
+F-measure :   0.1622 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.2500
+F-measure :   0.1622 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1667
+F-measure :   0.1081 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  150
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+
+
+Query number :  151
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  152
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  153
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+
+
+Query number :  154
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+
+
+Query number :  155
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+
+
+Query number :  156
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  157
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.1250
+F-measure :   0.1538 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.1250
+F-measure :   0.1538 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.1250
+F-measure :   0.1538 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.0750
+F-measure :   0.0923 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.0750
+F-measure :   0.0923 
+
+
+
+Query number :  158
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3333
+F-measure :   0.1765 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3333
+F-measure :   0.1765 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3333
+F-measure :   0.1765 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+
+
+Query number :  159
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+
+
+Query number :  160
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+
+
+Query number :  161
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+
+
+Query number :  162
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+
+
+Query number :  163
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+
+
+Query number :  164
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.4444
+F-measure :   0.2353 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.4444
+F-measure :   0.2353 
+
+
+
+Query number :  165
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+
+
+Query number :  166
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+
+
+Query number :  167
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  168
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+
+
+Query number :  169
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+
+
+Query number :  170
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.7143
+F-measure :   0.3125 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.8571
+F-measure :   0.3750 
+
+
+
+Query number :  171
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+
+
+Query number :  172
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.8000
+F-measure :   0.2667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.8000
+F-measure :   0.2667 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.8000
+F-measure :   0.2667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.8000
+F-measure :   0.2667 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.8000
+F-measure :   0.2667 
+
+
+
+Query number :  173
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+
+
+Query number :  174
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1667
+F-measure :   0.0645 
+
+
+
+Query number :  175
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.3333
+F-measure :   0.1290 
+
+
+
+Query number :  176
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+
+
+Query number :  177
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.5000
+F-measure :   0.1935 
+
+
+
+Query number :  178
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  179
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+
+
+Query number :  180
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5000
+F-measure :   0.2424 
+
+
+
+Query number :  181
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  182
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.6667
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   1.0000
+F-measure :   0.2143 
+
+
+
+Query number :  183
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0714
+F-measure :   0.0513 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0714
+F-measure :   0.0513 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0714
+F-measure :   0.0513 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0714
+F-measure :   0.0513 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0714
+F-measure :   0.0513 
+
+
+
+Query number :  184
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3750
+F-measure :   0.1818 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2500
+F-measure :   0.1212 
+
+
+
+Query number :  185
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.4000
+F-measure :   0.2286 
+
+
+
+Query number :  186
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  187
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+
+
+Query number :  188
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1667
+F-measure :   0.1081 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0833
+F-measure :   0.0541 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0833
+F-measure :   0.0541 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0833
+F-measure :   0.0541 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0833
+F-measure :   0.0541 
+
+
+
+Query number :  189
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2000
+F-measure :   0.1143 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2000
+F-measure :   0.1143 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2000
+F-measure :   0.1143 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1000
+F-measure :   0.0571 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1000
+F-measure :   0.0571 
+
+
+
+Query number :  190
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.8333
+F-measure :   0.3226 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.6667
+F-measure :   0.2581 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.8333
+F-measure :   0.3226 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.8333
+F-measure :   0.3226 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.8333
+F-measure :   0.3226 
+
+
+
+Query number :  191
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0714
+F-measure :   0.0513 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1429
+F-measure :   0.1026 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  192
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+
+
+Query number :  193
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.5000
+F-measure :   0.2857 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.6000
+F-measure :   0.3429 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   0.7000
+F-measure :   0.4000 
+
+
+
+Query number :  194
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.4286
+F-measure :   0.1875 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2857
+F-measure :   0.1250 
+
+
+
+Query number :  195
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+
+
+Query number :  196
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  197
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.7500
+F-measure :   0.2069 
+
+
+
+Query number :  198
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  199
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1111
+F-measure :   0.0588 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  200
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+
+
+Query number :  201
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.2353
+F-measure :   0.1905 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.1765
+F-measure :   0.1429 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.2353
+F-measure :   0.1905 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.2353
+F-measure :   0.1905 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.2941
+F-measure :   0.2381 
+
+
+
+Query number :  202
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1333
+F-measure :   0.1000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1333
+F-measure :   0.1000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1333
+F-measure :   0.1000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1333
+F-measure :   0.1000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1333
+F-measure :   0.1000 
+
+
+
+Query number :  203
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1333
+F-measure :   0.1000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1333
+F-measure :   0.1000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1333
+F-measure :   0.1000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1333
+F-measure :   0.1000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1333
+F-measure :   0.1000 
+
+
+
+Query number :  204
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0667
+F-measure :   0.0500 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.0667
+F-measure :   0.0500 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.0667
+F-measure :   0.0500 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  205
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  206
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.5000
+F-measure :   0.1379 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2500
+F-measure :   0.0690 
+
+
+
+Query number :  207
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  208
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+Use Cosine similarity measure:
+Precision :   0.1600
+Recall :   0.5714
+F-measure :   0.2500 
+
+
+
+Query number :  209
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  210
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.1429
+F-measure :   0.0625 
+
+
+
+Query number :  211
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  212
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.3200
+Recall :   0.5333
+F-measure :   0.4000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.4000
+F-measure :   0.3000 
+
+Use Cosine similarity measure:
+Precision :   0.2800
+Recall :   0.4667
+F-measure :   0.3500 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2400
+Recall :   0.4000
+F-measure :   0.3000 
+
+Use Cosine similarity measure:
+Precision :   0.2400
+Recall :   0.4000
+F-measure :   0.3000 
+
+
+
+Query number :  213
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.4167
+F-measure :   0.2703 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.4167
+F-measure :   0.2703 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.4167
+F-measure :   0.2703 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.2000
+Recall :   0.4167
+F-measure :   0.2703 
+
+Use Cosine similarity measure:
+Precision :   0.2000
+Recall :   0.4167
+F-measure :   0.2703 
+
+
+
+Query number :  214
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.6000
+F-measure :   0.2000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.4000
+F-measure :   0.1333 
+
+
+
+Query number :  215
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.3333
+F-measure :   0.0714 
+
+
+
+Query number :  216
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  217
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1250
+F-measure :   0.0976 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.1250
+F-measure :   0.0976 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.1250
+F-measure :   0.0976 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  218
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  219
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  220
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  221
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+
+
+Query number :  222
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use Cosine similarity measure:
+Precision :   0.1200
+Recall :   0.3000
+F-measure :   0.1714 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2000
+F-measure :   0.1143 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2000
+F-measure :   0.1143 
+
+
+
+Query number :  223
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+Use Cosine similarity measure:
+Precision :   0.0400
+Recall :   0.2000
+F-measure :   0.0667 
+
+
+
+Query number :  224
+Limit to elevant documents :  25 
+
+Use  binary  representation. 
+
+Use Euclidean distance:
+Precision :   0.0000
+Recall :   0.0000
+F-measure :   0.0000 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use  TF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use  TF-IDF  representation. 
+
+Use Euclidean distance:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
+Use Cosine similarity measure:
+Precision :   0.0800
+Recall :   0.2222
+F-measure :   0.1176 
+
