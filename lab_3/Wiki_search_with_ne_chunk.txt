@@ -1,0 +1,42 @@
+detected entity using nltk.ne_chunk and wiki search
+Words that have multiple meanings at the end 
+
+
+California  -  is a state 
+
+Santa Clara Valley  -  runs south-southeast 
+
+Miller  -  is a person 
+
+Newfoundland  -  is the 
+
+Curly  -  is a surname 
+
+Seattle  -  is a seaport city 
+
+Southland  -  is an American television crime drama series 
+
+Francois  -  is a French masculine 
+
+Tana Buck  -  is a list 
+
+Billee  -  is a commune 
+
+Solleks  -  is a river 
+
+Sheep Camp  -  is a ghost town 
+
+Lake Laberge  -  is a widening 
+
+Thirty Mile River  -  is a sortable table 
+
+Hootalinqua  -  is a major watercourse 
+
+Dyea  -  is a former town 
+
+Yukon River  -  is a major watercourse 
+
+New Lead  -  is a chemical element 
+
+Skagway  -  is a first-class borough 
+

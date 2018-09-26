@@ -1,0 +1,1111 @@
+NER with custom patterns. RegexpParser. 
+entity matched with an adjective (optional) and proper noun (singular/plural)
+The rule: “NP: {<JJ>* <NN|NNS>}” 
+
+
+10  most common entities
+dogs: 60
+man: 40
+men: 34
+dog: 25
+day: 25
+other dogs: 20
+night: 19
+river: 17
+club: 16
+wolf: 16
+
+ All entities: 
+
+
+ American men
+
+ Buck
+
+ Call
+
+ Canadian government
+
+ Chapter
+
+ Everyone
+
+ Fingers
+
+ Half
+
+ Hope
+
+ Indian village
+
+ Indians
+
+ Men
+
+ Nobody
+
+ Nonsense
+
+ Nothing
+
+ Other times
+
+ Other wolves
+
+ People
+
+ Perrault
+
+ Pike
+
+ Place
+
+ Scottish sheepdog
+
+ Soon
+
+ Things
+
+ Wild animals
+
+ Wolves
+
+ afternoon
+
+ air
+
+ ancestors
+
+ anger
+
+ animals
+
+ anything
+
+ arm
+
+ arms
+
+ arrow
+
+ arrows
+
+ ate
+
+ attention
+
+ aurora
+
+ axe
+
+ axe ready
+
+ back
+
+ backroom
+
+ bad dog
+
+ bad dreams
+
+ bag
+
+ baggage
+
+ bank
+
+ beautiful day
+
+ behind
+
+ big family
+
+ big fight
+
+ big friendly dog
+
+ big gardens
+
+ big house
+
+ big moose
+
+ big piece
+
+ big white dog
+
+ birds
+
+ bit
+
+ bites
+
+ blood
+
+ boat
+
+ body
+
+ bone
+
+ borealis
+
+ box
+
+ bread
+
+ bridges
+
+ broken bones
+
+ brothers
+
+ call
+
+ camp
+
+ canyon
+
+ car
+
+ care
+
+ center
+
+ certain valley
+
+ champion
+
+ chance
+
+ change
+
+ chapter
+
+ children
+
+ circle
+
+ city
+
+ clever
+
+ club
+
+ clubs
+
+ cold gray afternoon
+
+ colder
+
+ comfortable life
+
+ corner
+
+ courier
+
+ crate
+
+ crazy dogs
+
+ cruel man
+
+ cuts
+
+ danger
+
+ dangerous part
+
+ dark
+
+ dark skin
+
+ daughters
+
+ day
+
+ days
+
+ dead body
+
+ dead dog
+
+ dead moose
+
+ death
+
+ devil
+
+ devils
+
+ different places
+
+ difficulties
+
+ dinner
+
+ doctor
+
+ dog
+
+ dogs
+
+ dollars
+
+ doom
+
+ dozen
+
+ drank
+
+ dreaming
+
+ dreams
+
+ driver
+
+ ear
+
+ ears
+
+ east
+
+ eat
+
+ end
+
+ enemy
+
+ engines
+
+ enormous antlers
+
+ evening
+
+ everything
+
+ excellent dog
+
+ excellent lead-dog
+
+ excitement
+
+ exciting stories
+
+ eye
+
+ eyes
+
+ face
+
+ fall
+
+ fang
+
+ fantastic dog
+
+ fat man
+
+ father
+
+ feet
+
+ few minutes
+
+ few moments
+
+ few years
+
+ fiercer
+
+ fifty dogs
+
+ fifty dollars
+
+ fifty miles
+
+ fifty pounds
+
+ fight
+
+ fire
+
+ firewood
+
+ first day
+
+ first snow
+
+ first step
+
+ first time
+
+ fish
+
+ fishing
+
+ food
+
+ forest
+
+ forty
+
+ forty huskies
+
+ forty years
+
+ found lots
+
+ fourteen days
+
+ fourth day
+
+ friend
+
+ friendly bark
+
+ friendly voice
+
+ friends
+
+ friendship
+
+ front
+
+ fruit
+
+ full moon
+
+ furry coats
+
+ future
+
+ garden
+
+ gardener
+
+ gift
+
+ gold
+
+ golden-brown wolf
+
+ good care
+
+ good condition
+
+ good dog
+
+ good dogs
+
+ good friends
+
+ good imagination
+
+ good price
+
+ good trail
+
+ government
+
+ grandsons
+
+ gray coats
+
+ great anger
+
+ great danger
+
+ great fighter
+
+ great strength
+
+ ground
+
+ group
+
+ hair
+
+ half
+
+ hand
+
+ hands
+
+ handsome dog
+
+ happiness
+
+ happy life
+
+ hard journey
+
+ hard work
+
+ harder
+
+ harness
+
+ harnesses
+
+ harsh conditions
+
+ hatchet
+
+ hats
+
+ head
+
+ heard
+
+ heavy club
+
+ helper
+
+ high wall
+
+ ho
+
+ hole
+
+ home
+
+ hope
+
+ horse
+
+ horses
+
+ hour
+
+ hours
+
+ house
+
+ howls
+
+ http
+
+ hundred dollars
+
+ hundred miles
+
+ hundred thin
+
+ hundred yards
+
+ hungry dogs
+
+ hunting
+
+ hurry
+
+ huskies
+
+ husky
+
+ husky bit
+
+ i
+
+ ice
+
+ icy
+
+ illness
+
+ important documents
+
+ important letters
+
+ instinct
+
+ intelligence
+
+ interesting life
+
+ job
+
+ journey
+
+ kinds
+
+ king
+
+ lakes
+
+ last minute
+
+ last time
+
+ law
+
+ lazy animals
+
+ lead position
+
+ leader
+
+ left
+
+ left leg
+
+ leg
+
+ legs
+
+ lesson
+
+ letter
+
+ life
+
+ like fire
+
+ little food
+
+ little shoes
+
+ long howl
+
+ long knife
+
+ long periods
+
+ long rest
+
+ long stick
+
+ lost gold
+
+ lot
+
+ loud growl
+
+ love
+
+ mail
+
+ man
+
+ many Yeehats
+
+ many big bags
+
+ many dogs
+
+ many hours
+
+ many men
+
+ many mistakes
+
+ many problems
+
+ many things
+
+ many wounds
+
+ master
+
+ meat
+
+ men
+
+ middle
+
+ miles
+
+ mine
+
+ miners
+
+ minute
+
+ minutes
+
+ mistakes
+
+ moment
+
+ money
+
+ months
+
+ moon
+
+ moonlight
+
+ moose
+
+ morning
+
+ mother
+
+ mountain
+
+ mountains
+
+ mouth
+
+ move
+
+ much energy
+
+ much suffering
+
+ mush
+
+ mystery
+
+ name
+
+ natural forces
+
+ nature
+
+ neck
+
+ new life
+
+ newspapers
+
+ next day
+
+ next moment
+
+ next morning
+
+ next part
+
+ night
+
+ nights
+
+ noise
+
+ noises
+
+ north
+
+ nose
+
+ noses
+
+ nothing
+
+ o'clock
+
+ old cabin
+
+ old friend
+
+ old husky
+
+ old place
+
+ old position
+
+ old wolf
+
+ one
+
+ only confusion
+
+ open sky
+
+ open space
+
+ opportunity
+
+ orders
+
+ other animals
+
+ other dog
+
+ other dogs
+
+ other huskies
+
+ other man
+
+ other men
+
+ other wolf
+
+ other wolves
+
+ others
+
+ outside
+
+ own neck
+
+ pack
+
+ pain
+
+ parents
+
+ part
+
+ pass
+
+ patient
+
+ peace
+
+ people
+
+ perfect condition
+
+ perfect master
+
+ piece
+
+ pieces
+
+ pistol
+
+ place
+
+ places
+
+ pool
+
+ poor dog
+
+ poor dogs
+
+ pound
+
+ pounds
+
+ price
+
+ primitive spirit
+
+ prisoner
+
+ problem
+
+ rabbit
+
+ railway
+
+ ran
+
+ reading
+
+ red sweater
+
+ red tongue
+
+ red-eyed devil
+
+ rest
+
+ right
+
+ right leg
+
+ right moment
+
+ river
+
+ rivers
+
+ rock
+
+ rocks
+
+ rope
+
+ sad howl
+
+ saloon
+
+ saloon-keeper
+
+ same result
+
+ saw
+
+ scene
+
+ second day
+
+ sharp fangs
+
+ sharp teeth
+
+ ship
+
+ shoe
+
+ shoes
+
+ shook
+
+ short man
+
+ shot
+
+ shoulders
+
+ show
+
+ side
+
+ sign
+
+ silent circle
+
+ sixty dogs
+
+ sixty miles
+
+ skeletons
+
+ sky
+
+ sled
+
+ sled dog
+
+ sleep
+
+ slept
+
+ small animals
+
+ small boats
+
+ small dog
+
+ small man
+
+ smell
+
+ snow
+
+ snow flat
+
+ snow rabbit
+
+ snowshoes
+
+ soft snow
+
+ someone
+
+ something
+
+ song
+
+ sons
+
+ sound
+
+ sounds
+
+ spirit
+
+ splendid body
+
+ splendid dog
+
+ spring
+
+ star
+
+ stars
+
+ station
+
+ steal meat
+
+ step
+
+ story
+
+ strange
+
+ strange feeling
+
+ strange song
+
+ stream
+
+ streams
+
+ street
+
+ strength
+
+ strong body
+
+ strong dog
+
+ strong dogs
+
+ summer
+
+ sunny Southland
+
+ surprise
+
+ swam
+
+ table
+
+ tail
+
+ tall trees
+
+ taste
+
+ teachers
+
+ team
+
+ teeth
+
+ temperature
+
+ tent
+
+ terrible anger
+
+ terrible fight
+
+ terrible thirty miles
+
+ thin ice
+
+ thing
+
+ third man
+
+ third time
+
+ thought
+
+ thousand
+
+ thousands
+
+ throat
+
+ time
+
+ times
+
+ tired dogs
+
+ tongue
+
+ top
+
+ towards
+
+ trail
+
+ train
+
+ trees
+
+ trouble
+
+ twelve
+
+ twenty
+
+ understood
+
+ unhappy team
+
+ unknown country
+
+ valley
+
+ visitor
+
+ voices
+
+ walk
+
+ war
+
+ warm
+
+ warm hole
+
+ warm spring
+
+ watch
+
+ water
+
+ weather
+
+ week
+
+ wet tongue
+
+ while
+
+ whip
+
+ white moonlight
+
+ white stuff
+
+ wife
+
+ wild
+
+ wild brother
+
+ wild eyes
+
+ wind
+
+ windy outside
+
+ winner
+
+ winter
+
+ wolf
+
+ wolves
+
+ wood
+
+ woods
+
+ work
+
+ world
+
+ wounds
+
+ wrong way
+
+ yards
+
+ year
+
+ years
+
+ yellow butter
+
+ yellow metal
+
+ yellow stream
+
+ young man
+
+ zero

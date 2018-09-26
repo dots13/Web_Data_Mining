@@ -1,0 +1,161 @@
+NER with entity classification (using nltk.ne_chunk) 
+
+
+
+ Southland Buck :  LOCATION
+
+ California :  GPE
+
+ Men :  PERSON
+
+ Klondike :  ORGANIZATION
+
+ Buck :  GPE
+
+ Santa Clara Valley :  PERSON
+
+ Miller :  PERSON
+
+ Place :  PERSON
+
+ Bernard :  PERSON
+
+ Scottish :  GPE
+
+ Manuel :  PERSON
+
+ San Francisco :  GPE
+
+ Northland :  GPE
+
+ Seattle :  GPE
+
+ Life :  PERSON
+
+ English :  GPE
+
+ Perrault :  PERSON
+
+ Newfoundland :  GPE
+
+ Curly :  GPE
+
+ Narwhal :  ORGANIZATION
+
+ Southland :  GPE
+
+ Francois :  GPE
+
+ Spitz :  PERSON
+
+ Dave :  PERSON
+
+ Club :  ORGANIZATION
+
+ Tana Buck :  PERSON
+
+ Dyea Beach :  FACILITY
+
+ Soon Buck :  PERSON
+
+ Billee :  PERSON
+
+ Joe :  PERSON
+
+ Solleks :  PERSON
+
+ Canadian :  GPE
+
+ Dyea Canyon :  ORGANIZATION
+
+ Sheep Camp :  PERSON
+
+ Lake Bennett :  FACILITY
+
+ Pike :  PERSON
+
+ Lake Laberge :  FACILITY
+
+ Indian :  GPE
+
+ Dawson :  ORGANIZATION
+
+ Thirty Mile :  ORGANIZATION
+
+ Hootalinqua :  GPE
+
+ Pelly :  GPE
+
+ Dolly :  PERSON
+
+ Dawson City :  PERSON
+
+ Dyea :  PERSON
+
+ Yukon River :  ORGANIZATION
+
+ Dub :  PERSON
+
+ Northwest :  LOCATION
+
+ New :  ORGANIZATION
+
+ Skagway :  GPE
+
+ American :  GPE
+
+ Hal :  PERSON
+
+ Charles :  PERSON
+
+ Mercedes :  PERSON
+
+ Love :  ORGANIZATION
+
+ John Thornton :  PERSON
+
+ Teek :  PERSON
+
+ Thornton :  PERSON
+
+ White River :  FACILITY
+
+ Skeet :  PERSON
+
+ Nig :  GPE
+
+ Pete :  PERSON
+
+ Circle City :  GPE
+
+ Burton :  PERSON
+
+ Hans :  PERSON
+
+ Eldorado Saloon :  ORGANIZATION
+
+ Matthewson :  PERSON
+
+ Nobody :  PERSON
+
+ Jim O'Brien :  PERSON
+
+ Jim :  PERSON
+
+ Ready :  PERSON
+
+ Stewart River :  PERSON
+
+ Mackenzie Mountains :  ORGANIZATION
+
+ Old :  ORGANIZATION
+
+ Call :  ORGANIZATION
+
+ Yeehat Indians :  ORGANIZATION
+
+ Indians :  GPE
+
+ Ghost Dog :  PERSON
+
+ Yeehats :  ORGANIZATION

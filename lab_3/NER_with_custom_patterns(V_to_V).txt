@@ -1,0 +1,123 @@
+NER with custom patterns. RegexpParser. 
+Exploring Text Corpora. V to V
+The rule: "NP: {<V.*> <TO> <V.*>}” 
+
+
+10  most common entities
+wanted to be: 4
+want to fight: 3
+wanted to make: 2
+started to go: 2
+wanted to destroy: 1
+tried to take: 1
+learned to eat: 1
+went to get: 1
+wanted to return: 1
+started to harness: 1
+
+ All entities: 
+
+
+ began to change
+
+ began to sleep
+
+ came to look
+
+ came to make
+
+ came to talk
+
+ continued to travel
+
+ decided to return
+
+ decided to work
+
+ going to take
+
+ learned to eat
+
+ learned to fight
+
+ learned to love
+
+ learned to stop
+
+ learning to live
+
+ liked to howl
+
+ loved to rest
+
+ started to attack
+
+ started to go
+
+ started to harness
+
+ started to pull
+
+ tried to attack
+
+ tried to bite
+
+ tried to enter
+
+ tried to put
+
+ tried to sleep
+
+ tried to start
+
+ tried to stop
+
+ tried to take
+
+ turned to watch
+
+ walk to get
+
+ want to fight
+
+ want to get
+
+ want to leave
+
+ want to move
+
+ want to stand
+
+ want to start
+
+ want to try
+
+ wanted to answer
+
+ wanted to be
+
+ wanted to destroy
+
+ wanted to fight
+
+ wanted to find
+
+ wanted to get
+
+ wanted to go
+
+ wanted to hunt
+
+ wanted to make
+
+ wanted to return
+
+ wanted to speak
+
+ wanted to start
+
+ went to get
+
+ went to sit
+
+ went to sleep

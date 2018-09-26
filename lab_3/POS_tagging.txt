@@ -1,0 +1,18714 @@
+Part-Of-Speech Tagging 
+
+10  most common words:
+
+the: 462
+and: 354
+Buck: 277
+was: 266
+a: 166
+He: 164
+to: 160
+he: 120
+his: 112
+The: 105
+
+ 10  most common parts of speech: 
+
+VBD: 1142
+NN: 1009
+DT: 884
+NNP: 741
+IN: 685
+PRP: 635
+JJ: 494
+RB: 477
+CC: 450
+NNS: 349
+
+ All: 
+
+('chapter', 'NN') 
+
+('one', 'CD') 
+
+('The', 'DT') 
+
+('Southland', 'NNP') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('read', 'VB') 
+
+('the', 'DT') 
+
+('newspapers', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('know', 'VB') 
+
+('that', 'IN') 
+
+('there', 'EX') 
+
+('was', 'VBD') 
+
+('trouble', 'NN') 
+
+('for', 'IN') 
+
+('every', 'DT') 
+
+('big', 'JJ') 
+
+(',', ',') 
+
+('strong', 'JJ') 
+
+('dog', 'NN') 
+
+('in', 'IN') 
+
+('California', 'NNP') 
+
+('.', '.') 
+
+('Men', 'NN') 
+
+('found', 'VBD') 
+
+('a', 'DT') 
+
+('yellow', 'JJ') 
+
+('metal', 'NN') 
+
+('called', 'VBD') 
+
+('gold', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('Klondike', 'NNP') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('needed', 'VBD') 
+
+('big', 'JJ') 
+
+(',', ',') 
+
+('strong', 'JJ') 
+
+('dogs', 'NNS') 
+
+('with', 'IN') 
+
+('furry', 'JJ') 
+
+('coats', 'NNS') 
+
+('to', 'TO') 
+
+('work', 'VB') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('north', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('lived', 'VBD') 
+
+('in', 'IN') 
+
+('a', 'DT') 
+
+('big', 'JJ') 
+
+('house', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('sunny', 'JJ') 
+
+('Santa', 'NNP') 
+
+('Clara', 'NNP') 
+
+('Valley', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('house', 'NN') 
+
+('was', 'VBD') 
+
+('called', 'VBN') 
+
+('Judge', 'NNP') 
+
+('Miller', 'NNP') 
+
+("'s", 'POS') 
+
+('Place', 'NNP') 
+
+('.', '.') 
+
+('Around', 'IN') 
+
+('the', 'DT') 
+
+('house', 'NN') 
+
+('there', 'EX') 
+
+('were', 'VBD') 
+
+('big', 'JJ') 
+
+('gardens', 'NNS') 
+
+(',', ',') 
+
+('fruit', 'NN') 
+
+('trees', 'NNS') 
+
+('and', 'CC') 
+
+('horses', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('born', 'VBN') 
+
+('here', 'RB') 
+
+('and', 'CC') 
+
+('now', 'RB') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('four', 'CD') 
+
+('years', 'NNS') 
+
+('old', 'JJ') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('were', 'VBD') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('too', 'RB') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('not', 'RB') 
+
+('important', 'JJ') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('king', 'NN') 
+
+('!', '.') 
+
+('Judge', 'NNP') 
+
+('Miller', 'NNP') 
+
+("'s", 'POS') 
+
+('Place', 'NN') 
+
+('was', 'VBD') 
+
+('his', 'PRP$') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('swam', 'VBD') 
+
+('and', 'CC') 
+
+('hunted', 'VBD') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('Judge', 'NNP') 
+
+("'s", 'POS') 
+
+('sons', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('walked', 'VBD') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('Judge', 'NNP') 
+
+("'s", 'POS') 
+
+('daughters', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('carried', 'VBD') 
+
+('the', 'DT') 
+
+('Judge', 'NNP') 
+
+("'s", 'POS') 
+
+('grandsons', 'NNS') 
+
+('on', 'IN') 
+
+('his', 'PRP$') 
+
+('back', 'NN') 
+
+('and', 'CC') 
+
+('played', 'VBN') 
+
+('with', 'IN') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('winter', 'NN') 
+
+('Buck', 'NNP') 
+
+('sat', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('Judge', 'NNP') 
+
+("'s", 'POS') 
+
+('feet', 'NNS') 
+
+('in', 'IN') 
+
+('front', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('fire', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('father', 'NN') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('big', 'JJ') 
+
+('St', 'NNP') 
+
+('Bernard', 'NNP') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('mother', 'NN') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('Scottish', 'JJ') 
+
+('sheepdog', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('weighed', 'VBD') 
+
+('one', 'CD') 
+
+('hundred', 'CD') 
+
+('and', 'CC') 
+
+('forty', 'VB') 
+
+('pounds', 'NNS') 
+
+('arid', 'IN') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('happy', 'JJ') 
+
+('and', 'CC') 
+
+('handsome', 'JJ') 
+
+('dog', 'NN') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('fall', 'NN') 
+
+('of', 'IN') 
+
+('1897', 'CD') 
+
+('men', 'NNS') 
+
+('from', 'IN') 
+
+('all', 'DT') 
+
+('over', 'IN') 
+
+('the', 'DT') 
+
+('world', 'NN') 
+
+('went', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('Klondike', 'NNP') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('find', 'VB') 
+
+('gold', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('read', 'VB') 
+
+('the', 'DT') 
+
+('newspapers', 'NNS') 
+
+('.', '.') 
+
+('Manuel', 'NNP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('gardener', 'NN') 
+
+("'s", 'POS') 
+
+('helper', 'NN') 
+
+(',', ',') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('needed', 'VBD') 
+
+('money', 'NN') 
+
+('for', 'IN') 
+
+('his', 'PRP$') 
+
+('big', 'JJ') 
+
+('family', 'NN') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('evening', 'VBG') 
+
+('the', 'DT') 
+
+('Judge', 'NNP') 
+
+('was', 'VBD') 
+
+('out', 'IN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('house', 'NN') 
+
+('and', 'CC') 
+
+('Manuel', 'NNP') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('went', 'VBD') 
+
+('for', 'IN') 
+
+('a', 'DT') 
+
+('walk', 'NN') 
+
+('.', '.') 
+
+('No', 'DT') 
+
+('one', 'NN') 
+
+('saw', 'VBD') 
+
+('them', 'PRP') 
+
+('leave', 'VB') 
+
+('and', 'CC') 
+
+('only', 'RB') 
+
+('one', 'CD') 
+
+('man', 'NN') 
+
+('saw', 'VBD') 
+
+('them', 'PRP') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('railway', 'NN') 
+
+('station', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('man', 'NN') 
+
+('talked', 'VBD') 
+
+('to', 'TO') 
+
+('Manuel', 'NNP') 
+
+('and', 'CC') 
+
+('gave', 'VBD') 
+
+('him', 'PRP') 
+
+('some', 'DT') 
+
+('money', 'NN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('Manuel', 'NNP') 
+
+('tied', 'VBD') 
+
+('a', 'DT') 
+
+('rope', 'NN') 
+
+('around', 'IN') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('neck', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('let', 'VBD') 
+
+('Manuel', 'NNP') 
+
+('put', 'VB') 
+
+('the', 'DT') 
+
+('rope', 'NN') 
+
+('around', 'IN') 
+
+('his', 'PRP$') 
+
+('neck', 'NN') 
+
+('because', 'IN') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('his', 'PRP$') 
+
+('friend', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('when', 'WRB') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('man', 'NN') 
+
+('pulled', 'VBD') 
+
+('the', 'DT') 
+
+('rope', 'NN') 
+
+('Buck', 'NNP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('breathe', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('angry', 'JJ') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('jumped', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('man', 'NN') 
+
+('caught', 'VBD') 
+
+('him', 'PRP') 
+
+('and', 'CC') 
+
+('suddenly', 'RB') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('on', 'IN') 
+
+('his', 'PRP$') 
+
+('back', 'NN') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('tongue', 'NN') 
+
+('was', 'VBD') 
+
+('out', 'IN') 
+
+('of', 'IN') 
+
+('his', 'PRP$') 
+
+('mouth', 'NN') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('unable', 'JJ') 
+
+('to', 'TO') 
+
+('move', 'VB') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('past', 'JJ') 
+
+('no', 'DT') 
+
+('one', 'NN') 
+
+('ever', 'RB') 
+
+('did', 'VBD') 
+
+('this', 'DT') 
+
+('to', 'TO') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('two', 'CD') 
+
+('men', 'NNS') 
+
+('put', 'VBD') 
+
+('him', 'PRP') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('train', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('baggage', 'NN') 
+
+('car', 'NN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Buck', 'NNP') 
+
+('woke', 'VBD') 
+
+('up', 'RP') 
+
+('the', 'DT') 
+
+('train', 'NN') 
+
+('was', 'VBD') 
+
+('moving', 'VBG') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('angry', 'JJ') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('man', 'NN') 
+
+('watched', 'VBD') 
+
+('him', 'PRP') 
+
+('but', 'CC') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('too', 'RB') 
+
+('quick', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('bit', 'VBD') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+("'s", 'POS') 
+
+('hand', 'NN') 
+
+('.', '.') 
+
+('That', 'IN') 
+
+('evening', 'VBG') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('took', 'VBD') 
+
+('Buck', 'NNP') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('backroom', 'NN') 
+
+('of', 'IN') 
+
+('a', 'DT') 
+
+('saloon', 'NN') 
+
+('in', 'IN') 
+
+('San', 'NNP') 
+
+('Francisco', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('saloon-keeper', 'JJ') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('his', 'PRP$') 
+
+('hand', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('i', 'JJ') 
+
+('only', 'RB') 
+
+('got', 'VBD') 
+
+('fifty', 'JJ') 
+
+('dollars', 'NNS') 
+
+('for', 'IN') 
+
+('it', 'PRP') 
+
+("'", "''") 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('said', 'VBD') 
+
+('.', '.') 
+
+('``', '``') 
+
+('How', 'WRB') 
+
+('much', 'RB') 
+
+('did', 'VBD') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('man', 'NN') 
+
+('get', 'VB') 
+
+('?', '.') 
+
+("''", "''") 
+
+('the', 'DT') 
+
+('saloon-keeper', 'JJ') 
+
+('asked', 'VBD') 
+
+('.', '.') 
+
+('``', '``') 
+
+('a', 'DT') 
+
+('hundred', 'JJ') 
+
+('dollars', 'NNS') 
+
+('.', '.') 
+
+("''", "''") 
+
+('``', '``') 
+
+('That', 'DT') 
+
+('makes', 'VBZ') 
+
+('a', 'DT') 
+
+('hundred', 'JJ') 
+
+('and', 'CC') 
+
+('fifty', 'JJ') 
+
+('.', '.') 
+
+('That', 'DT') 
+
+("'s", 'VBZ') 
+
+('a', 'DT') 
+
+('good', 'JJ') 
+
+('price', 'NN') 
+
+('for', 'IN') 
+
+('a', 'DT') 
+
+('dog', 'NN') 
+
+('like', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Come', 'VB') 
+
+('on', 'IN') 
+
+(',', ',') 
+
+('help', 'VB') 
+
+('me', 'PRP') 
+
+('put', 'VB') 
+
+('him', 'PRP') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('crate', 'NN') 
+
+('.', '.') 
+
+("''", "''") 
+
+('Buck', 'NNP') 
+
+('tried', 'VBD') 
+
+('to', 'TO') 
+
+('attack', 'VB') 
+
+('the', 'DT') 
+
+('two', 'CD') 
+
+('men', 'NNS') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('they', 'PRP') 
+
+('pulled', 'VBD') 
+
+('the', 'DT') 
+
+('rope', 'NN') 
+
+('again', 'RB') 
+
+('and', 'CC') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('suffered', 'VBD') 
+
+('terribly', 'RB') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('neck', 'NN') 
+
+(',', ',') 
+
+('throat', 'NN') 
+
+('and', 'CC') 
+
+('tongue', 'NN') 
+
+('hurt', 'VBP') 
+
+('a', 'DT') 
+
+('lot', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('men', 'NNS') 
+
+('took', 'VBD') 
+
+('off', 'RP') 
+
+('the', 'DT') 
+
+('rope', 'NN') 
+
+('and', 'CC') 
+
+('threw', 'VBD') 
+
+('him', 'PRP') 
+
+('into', 'IN') 
+
+('a', 'DT') 
+
+('crate', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('spent', 'VBD') 
+
+('the', 'DT') 
+
+('night', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('backroom', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('saloon', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('angry', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('understand', 'VB') 
+
+('why', 'WRB') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('there', 'RB') 
+
+('.', '.') 
+
+('What', 'WP') 
+
+('did', 'VBD') 
+
+('these', 'DT') 
+
+('strange', 'VB') 
+
+('men', 'NNS') 
+
+('want', 'VB') 
+
+('?', '.') 
+
+('Why', 'WRB') 
+
+('was', 'VBD') 
+
+('he', 'PRP') 
+
+('a', 'DT') 
+
+('prisoner', 'NN') 
+
+('in', 'IN') 
+
+('a', 'DT') 
+
+('crate', 'NN') 
+
+('?', '.') 
+
+('Where', 'WRB') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('Judge', 'NNP') 
+
+('?', '.') 
+
+('The', 'DT') 
+
+('next', 'JJ') 
+
+('morning', 'NN') 
+
+('four', 'CD') 
+
+('men', 'NNS') 
+
+('took', 'VBD') 
+
+('the', 'DT') 
+
+('crate', 'NN') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('railway', 'NN') 
+
+('station', 'NN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('put', 'VBD') 
+
+('it', 'PRP') 
+
+('on', 'IN') 
+
+('a', 'DT') 
+
+('train', 'NN') 
+
+('that', 'WDT') 
+
+('was', 'VBD') 
+
+('going', 'VBG') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('north', 'NN') 
+
+('.', '.') 
+
+('For', 'IN') 
+
+('two', 'CD') 
+
+('days', 'NNS') 
+
+('and', 'CC') 
+
+('two', 'CD') 
+
+('nights', 'NNS') 
+
+('Buck', 'NNPS') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('eat', 'VB') 
+
+('or', 'CC') 
+
+('drink', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('confused', 'VBN') 
+
+('and', 'CC') 
+
+('angry', 'JJ') 
+
+('.', '.') 
+
+('Men', 'NN') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('train', 'NN') 
+
+('laughed', 'VBD') 
+
+('at', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('threw', 'VBD') 
+
+('himself', 'PRP') 
+
+('against', 'IN') 
+
+('the', 'DT') 
+
+('crate', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('growled', 'VBD') 
+
+('and', 'CC') 
+
+('barked', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('men', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('thirsty', 'JJ') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('had', 'VBD') 
+
+('no', 'DT') 
+
+('water', 'NN') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('tongue', 'NN') 
+
+('and', 'CC') 
+
+('throat', 'NN') 
+
+('were', 'VBD') 
+
+('very', 'RB') 
+
+('dry', 'JJ') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('eyes', 'NNS') 
+
+('were', 'VBD') 
+
+('red', 'JJ') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('anger', 'NN') 
+
+('grew', 'VBD') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('glad', 'JJ') 
+
+('for', 'IN') 
+
+('one', 'CD') 
+
+('thing', 'NN') 
+
+(':', ':') 
+
+('the', 'DT') 
+
+('rope', 'NN') 
+
+('was', 'VBD') 
+
+('off', 'IN') 
+
+('his', 'PRP$') 
+
+('neck', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('want', 'VB') 
+
+('another', 'DT') 
+
+('rope', 'NN') 
+
+('around', 'IN') 
+
+('his', 'PRP$') 
+
+('neck', 'NN') 
+
+('.', '.') 
+
+('chapter', 'NN') 
+
+('two', 'CD') 
+
+('The', 'DT') 
+
+('Northland', 'NNP') 
+
+('In', 'IN') 
+
+('Seattle', 'NNP') 
+
+('four', 'CD') 
+
+('men', 'NNS') 
+
+('carried', 'VBD') 
+
+('the', 'DT') 
+
+('crate', 'NN') 
+
+('to', 'TO') 
+
+('a', 'DT') 
+
+('garden', 'NN') 
+
+('with', 'IN') 
+
+('a', 'DT') 
+
+('high', 'JJ') 
+
+('wall', 'NN') 
+
+('.', '.') 
+
+('a', 'DT') 
+
+('fat', 'JJ') 
+
+('man', 'NN') 
+
+('with', 'IN') 
+
+('a', 'DT') 
+
+('red', 'JJ') 
+
+('sweater', 'NN') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('threw', 'VBD') 
+
+('himself', 'PRP') 
+
+('against', 'IN') 
+
+('the', 'DT') 
+
+('crate', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('growled', 'VBD') 
+
+('and', 'CC') 
+
+('barked', 'VBD') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('man', 'NN') 
+
+('brought', 'VBD') 
+
+('a', 'DT') 
+
+('hatchet', 'NN') 
+
+('and', 'CC') 
+
+('a', 'DT') 
+
+('club', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Are', 'VBP') 
+
+('you', 'PRP') 
+
+('going', 'VBG') 
+
+('to', 'TO') 
+
+('take', 'VB') 
+
+('him', 'PRP') 
+
+('out', 'RP') 
+
+('now', 'RB') 
+
+('?', '.') 
+
+("''", "''") 
+
+('asked', 'VBD') 
+
+('one', 'CD') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('men', 'NNS') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Sure', 'JJ') 
+
+(',', ',') 
+
+("''", "''") 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('said', 'VBD') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('hit', 'VBD') 
+
+('the', 'DT') 
+
+('crate', 'NN') 
+
+('with', 'IN') 
+
+('a', 'DT') 
+
+('hatchet', 'NN') 
+
+('to', 'TO') 
+
+('open', 'VB') 
+
+('it', 'PRP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('four', 'CD') 
+
+('men', 'NNS') 
+
+('ran', 'VBD') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('went', 'VBD') 
+
+('to', 'TO') 
+
+('sit', 'VB') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('high', 'JJ') 
+
+('wall', 'NN') 
+
+('to', 'TO') 
+
+('watch', 'VB') 
+
+('the', 'DT') 
+
+('show', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('threw', 'VBD') 
+
+('himself', 'PRP') 
+
+('against', 'IN') 
+
+('the', 'DT') 
+
+('wood', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('crate', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('bit', 'VBD') 
+
+('it', 'PRP') 
+
+('and', 'CC') 
+
+('growled', 'VBD') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('get', 'VB') 
+
+('out', 'RP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('man', 'NN') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('hatchet', 'NN') 
+
+('opened', 'VBD') 
+
+('the', 'DT') 
+
+('crate', 'NN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('he', 'PRP') 
+
+('put', 'VBD') 
+
+('down', 'RP') 
+
+('the', 'DT') 
+
+('hatchet', 'NN') 
+
+('and', 'CC') 
+
+('took', 'VBD') 
+
+('the', 'DT') 
+
+('club', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('really', 'RB') 
+
+('a', 'DT') 
+
+('red-eyed', 'JJ') 
+
+('devil', 'NN') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('hair', 'NN') 
+
+('stood', 'VBD') 
+
+('up', 'RP') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('eyes', 'NNS') 
+
+('were', 'VBD') 
+
+('red', 'JJ') 
+
+('with', 'IN') 
+
+('anger', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('jumped', 'VBD') 
+
+('straight', 'RB') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('mouth', 'NN') 
+
+('was', 'VBD') 
+
+('ready', 'JJ') 
+
+('to', 'TO') 
+
+('bite', 'VB') 
+
+('.', '.') 
+
+('At', 'IN') 
+
+('that', 'DT') 
+
+('moment', 'NN') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('hit', 'VBD') 
+
+('him', 'PRP') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('club', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('fell', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('ground', 'NN') 
+
+('on', 'IN') 
+
+('his', 'PRP$') 
+
+('back', 'NN') 
+
+('.', '.') 
+
+('This', 'DT') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('first', 'JJ') 
+
+('time', 'NN') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('hit', 'VBN') 
+
+('with', 'IN') 
+
+('a', 'DT') 
+
+('club', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('understand', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('jumped', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('And', 'CC') 
+
+('again', 'RB') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('hit', 'VBD') 
+
+('him', 'PRP') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('club', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('fell', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('ground', 'NN') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('This', 'DT') 
+
+('time', 'NN') 
+
+('Buck', 'NNP') 
+
+('knew', 'VBD') 
+
+('that', 'IN') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('club', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('his', 'PRP$') 
+
+('anger', 'NN') 
+
+('was', 'VBD') 
+
+('so', 'RB') 
+
+('great', 'JJ') 
+
+('that', 'IN') 
+
+('he', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('stop', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('jumped', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('a', 'DT') 
+
+('dozen', 'NN') 
+
+('times', 'NNS') 
+
+('.', '.') 
+
+('And', 'CC') 
+
+('a', 'DT') 
+
+('dozen', 'NN') 
+
+('times', 'VBZ') 
+
+('the', 'DT') 
+
+('club', 'NN') 
+
+('hit', 'VBD') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('was', 'VBD') 
+
+('blood', 'NN') 
+
+('on', 'IN') 
+
+('his', 'PRP$') 
+
+('nose', 'NN') 
+
+(',', ',') 
+
+('mouth', 'NN') 
+
+('and', 'CC') 
+
+('ears', 'NNS') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('hit', 'VBD') 
+
+('him', 'PRP') 
+
+('very', 'RB') 
+
+('hard', 'RB') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('nose', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('pain', 'NN') 
+
+('was', 'VBD') 
+
+('terrible', 'JJ') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('agony', 'JJ') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('jumped', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('again', 'RB') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('threw', 'VBD') 
+
+('him', 'PRP') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('ground', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('move', 'VB') 
+
+('for', 'IN') 
+
+('some', 'DT') 
+
+('time', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('He', 'PRP') 
+
+('knows', 'VBZ') 
+
+('how', 'WRB') 
+
+('to', 'TO') 
+
+('teach', 'VB') 
+
+('a', 'DT') 
+
+('dog', 'NN') 
+
+('a', 'DT') 
+
+('lesson', 'NN') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('one', 'CD') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('four', 'CD') 
+
+('men', 'NNS') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('they', 'PRP') 
+
+('returned', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('train', 'NN') 
+
+('station', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('slowly', 'RB') 
+
+('opened', 'VBD') 
+
+('his', 'PRP$') 
+
+('eyes', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('move', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('watched', 'VBD') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('red', 'JJ') 
+
+('sweater', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('fat', 'JJ') 
+
+('man', 'NN') 
+
+('was', 'VBD') 
+
+('reading', 'VBG') 
+
+('the', 'DT') 
+
+('saloon-keeper', 'NN') 
+
+("'s", 'POS') 
+
+('letter', 'NN') 
+
+('and', 'CC') 
+
+('said', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('Your', 'PRP$') 
+
+('name', 'NN') 
+
+('is', 'VBZ') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('Well', 'NNP') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+(',', ',') 
+
+("''", "''") 
+
+('he', 'PRP') 
+
+('said', 'VBD') 
+
+('in', 'IN') 
+
+('a', 'DT') 
+
+('friendly', 'JJ') 
+
+('voice', 'NN') 
+
+(',', ',') 
+
+('``', '``') 
+
+('now', 'RB') 
+
+('you', 'PRP') 
+
+('know', 'VBP') 
+
+('your', 'PRP$') 
+
+('place', 'NN') 
+
+('.', '.') 
+
+('Be', 'VB') 
+
+('a', 'DT') 
+
+('good', 'JJ') 
+
+('dog', 'NN') 
+
+('and', 'CC') 
+
+('we', 'PRP') 
+
+('will', 'MD') 
+
+('be', 'VB') 
+
+('friends', 'NNS') 
+
+('.', '.') 
+
+('Be', 'VB') 
+
+('a', 'DT') 
+
+('bad', 'JJ') 
+
+('dog', 'NN') 
+
+('and', 'CC') 
+
+('i', 'NN') 
+
+('must', 'MD') 
+
+('use', 'VB') 
+
+('my', 'PRP$') 
+
+('club', 'NN') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('Understand', 'VB') 
+
+('?', '.') 
+
+("''", "''") 
+
+('As', 'IN') 
+
+('he', 'PRP') 
+
+('spoke', 'VBD') 
+
+('he', 'PRP') 
+
+('touched', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('head', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('angry', 'JJ') 
+
+('inside', 'RB') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('move', 'VB') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('brought', 'VBD') 
+
+('him', 'PRP') 
+
+('water', 'NN') 
+
+('and', 'CC') 
+
+('meat', 'NN') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+('drank', 'NN') 
+
+('and', 'CC') 
+
+('ate', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('learned', 'VBD') 
+
+('that', 'IN') 
+
+('a', 'DT') 
+
+('man', 'NN') 
+
+('with', 'IN') 
+
+('a', 'DT') 
+
+('club', 'NN') 
+
+('was', 'VBD') 
+
+('stronger', 'JJR') 
+
+('than', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('never', 'RB') 
+
+('forgot', 'VBD') 
+
+('it', 'PRP') 
+
+('.', '.') 
+
+('Life', 'NNP') 
+
+('was', 'VBD') 
+
+('now', 'RB') 
+
+('fiercer', 'RB') 
+
+('.', '.') 
+
+('Each', 'DT') 
+
+('day', 'NN') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('came', 'VBD') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('man', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('red', 'JJ') 
+
+('sweater', 'NN') 
+
+('hit', 'VBD') 
+
+('many', 'JJ') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('understood', 'VBD') 
+
+('that', 'IN') 
+
+('a', 'DT') 
+
+('dog', 'NN') 
+
+('must', 'MD') 
+
+('obey', 'VB') 
+
+('a', 'DT') 
+
+('man', 'NN') 
+
+('with', 'IN') 
+
+('a', 'DT') 
+
+('club', 'NN') 
+
+(':', ':') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('master', 'NN') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('dog', 'NN') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('obey', 'VB') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('killed', 'VBN') 
+
+('.', '.') 
+
+('Men', 'NNS') 
+
+('often', 'RB') 
+
+('came', 'VBD') 
+
+('to', 'TO') 
+
+('talk', 'VB') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('red', 'JJ') 
+
+('sweater', 'NN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('they', 'PRP') 
+
+('paid', 'VBD') 
+
+('money', 'NN') 
+
+('the', 'DT') 
+
+('men', 'NNS') 
+
+('took', 'VBD') 
+
+('one', 'CD') 
+
+('or', 'CC') 
+
+('more', 'JJR') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('Those', 'DT') 
+
+('dogs', 'NNS') 
+
+('never', 'RB') 
+
+('came', 'VBD') 
+
+('back', 'RB') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Where', 'WRB') 
+
+('did', 'VBD') 
+
+('they', 'PRP') 
+
+('go', 'VB') 
+
+('?', '.') 
+
+("''", "''") 
+
+('Buck', 'NNP') 
+
+('thought', 'VBD') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('afraid', 'JJ') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('future', 'NN') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('day', 'NN') 
+
+('a', 'DT') 
+
+('short', 'JJ') 
+
+('man', 'NN') 
+
+('came', 'VBD') 
+
+('to', 'TO') 
+
+('look', 'VB') 
+
+('at', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('man', 'NN') 
+
+('spoke', 'VBD') 
+
+('bad', 'JJ') 
+
+('English', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('That', 'DT') 
+
+("'s", 'VBZ') 
+
+('a', 'DT') 
+
+('strong', 'JJ') 
+
+('dog', 'NN') 
+
+('!', '.') 
+
+('How', 'WRB') 
+
+('much', 'JJ') 
+
+('?', '.') 
+
+("''", "''") 
+
+('``', '``') 
+
+('Three', 'CD') 
+
+('hundred', 'CD') 
+
+('dollars', 'NNS') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('red', 'JJ') 
+
+('sweater', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('And', 'CC') 
+
+('it', 'PRP') 
+
+("'s", 'VBZ') 
+
+('a', 'DT') 
+
+('gift', 'NN') 
+
+('at', 'IN') 
+
+('that', 'DT') 
+
+('price', 'NN') 
+
+('.', '.') 
+
+("''", "''") 
+
+('Perrault', 'NN') 
+
+('smiled', 'VBD') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('price', 'NN') 
+
+('of', 'IN') 
+
+('dogs', 'NNS') 
+
+('was', 'VBD') 
+
+('high', 'JJ') 
+
+('at', 'IN') 
+
+('that', 'DT') 
+
+('time', 'NN') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('knew', 'VBD') 
+
+('dogs', 'NNS') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('knew', 'VBD') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('an', 'DT') 
+
+('excellent', 'JJ') 
+
+('dog', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('saw', 'VBD') 
+
+('money', 'NN') 
+
+('pass', 'NN') 
+
+('between', 'IN') 
+
+('the', 'DT') 
+
+('two', 'CD') 
+
+('men', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('surprised', 'JJ') 
+
+('when', 'WRB') 
+
+('he', 'PRP') 
+
+('and', 'CC') 
+
+('a', 'DT') 
+
+('Newfoundland', 'NNP') 
+
+('dog', 'NN') 
+
+('called', 'VBD') 
+
+('Curly', 'NNP') 
+
+('were', 'VBD') 
+
+('taken', 'VBN') 
+
+('away', 'RB') 
+
+('by', 'IN') 
+
+('the', 'DT') 
+
+('small', 'JJ') 
+
+('man', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('took', 'VBD') 
+
+('them', 'PRP') 
+
+('to', 'TO') 
+
+('a', 'DT') 
+
+('ship', 'NN') 
+
+('called', 'VBN') 
+
+('the', 'DT') 
+
+('Narwhal', 'NNP') 
+
+('.', '.') 
+
+('From', 'IN') 
+
+('the', 'DT') 
+
+('ship', 'NN') 
+
+('he', 'PRP') 
+
+('and', 'CC') 
+
+('Curly', 'NNP') 
+
+('looked', 'VBD') 
+
+('back', 'RB') 
+
+('at', 'IN') 
+
+('Seattle', 'NNP') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('last', 'JJ') 
+
+('time', 'NN') 
+
+('they', 'PRP') 
+
+('saw', 'VBD') 
+
+('the', 'DT') 
+
+('warm', 'JJ') 
+
+('Southland', 'NNP') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('took', 'VBD') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('Curly', 'NNP') 
+
+('to', 'TO') 
+
+('Francois', 'NNP') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('French-Canadian', 'JJ') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('Francois', 'NNP') 
+
+('was', 'VBD') 
+
+('half-Indian', 'JJ') 
+
+('and', 'CC') 
+
+('had', 'VBD') 
+
+('very', 'RB') 
+
+('dark', 'JJ') 
+
+('skin', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('like', 'IN') 
+
+('these', 'DT') 
+
+('men', 'NNS') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('respected', 'VBD') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('learned', 'VBD') 
+
+('that', 'IN') 
+
+('Perrault', 'NNP') 
+
+('and', 'CC') 
+
+('Francois', 'NNP') 
+
+('were', 'VBD') 
+
+('calm', 'JJ') 
+
+('and', 'CC') 
+
+('fair', 'JJ') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('knew', 'VBD') 
+
+('everything', 'NN') 
+
+('about', 'IN') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('were', 'VBD') 
+
+('two', 'CD') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('ship', 'NN') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('big', 'JJ') 
+
+('white', 'JJ') 
+
+('dog', 'NN') 
+
+('called', 'VBN') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('seemed', 'VBD') 
+
+('friendly', 'RB') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('honest', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('smiled', 'VBD') 
+
+('when', 'WRB') 
+
+('he', 'PRP') 
+
+('tried', 'VBD') 
+
+('to', 'TO') 
+
+('take', 'VB') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('food', 'NN') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('was', 'VBD') 
+
+('fast', 'RB') 
+
+('and', 'CC') 
+
+('hit', 'VB') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('From', 'IN') 
+
+('this', 'DT') 
+
+('moment', 'NN') 
+
+('Buck', 'NNP') 
+
+('began', 'VBD') 
+
+('to', 'TO') 
+
+('like', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('other', 'JJ') 
+
+('dog', 'NN') 
+
+('was', 'VBD') 
+
+('called', 'VBN') 
+
+('Dave', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('unfriendly', 'RB') 
+
+('and', 'CC') 
+
+('always', 'RB') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('be', 'VB') 
+
+('alone', 'RB') 
+
+('.', '.') 
+
+('Dave', 'NNP') 
+
+('ate', 'NN') 
+
+('and', 'CC') 
+
+('slept', 'NN') 
+
+('and', 'CC') 
+
+('was', 'VBD') 
+
+('interested', 'JJ') 
+
+('in', 'IN') 
+
+('nothing', 'NN') 
+
+('.', '.') 
+
+('Day', 'NNP') 
+
+('and', 'CC') 
+
+('night', 'NN') 
+
+('the', 'DT') 
+
+('ship', 'NN') 
+
+('sailed', 'VBD') 
+
+('.', '.') 
+
+('Every', 'DT') 
+
+('day', 'NN') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('same', 'JJ') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('Buck', 'NNP') 
+
+('noticed', 'VBD') 
+
+('that', 'IN') 
+
+('the', 'DT') 
+
+('weather', 'NN') 
+
+('was', 'VBD') 
+
+('colder', 'NN') 
+
+('.', '.') 
+
+('Finally', 'RB') 
+
+('one', 'CD') 
+
+('morning', 'NN') 
+
+('the', 'DT') 
+
+('Narwhal', 'NNP') 
+
+("'s", 'POS') 
+
+('engines', 'NNS') 
+
+('stopped', 'VBD') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('excited', 'VBN') 
+
+('.', '.') 
+
+('Something', 'VBG') 
+
+('was', 'VBD') 
+
+('happening', 'VBG') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('leashed', 'VBD') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('and', 'CC') 
+
+('took', 'VBD') 
+
+('them', 'PRP') 
+
+('outside', 'RP') 
+
+('.', '.') 
+
+('At', 'IN') 
+
+('the', 'DT') 
+
+('first', 'JJ') 
+
+('step', 'NN') 
+
+('``', '``') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('feet', 'NNS') 
+
+('went', 'VBD') 
+
+('down', 'RB') 
+
+('into', 'IN') 
+
+('something', 'NN') 
+
+('white', 'JJ') 
+
+('and', 'CC') 
+
+('soft', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('jumped', 'VBD') 
+
+('back', 'RB') 
+
+('.', '.') 
+
+('More', 'JJR') 
+
+('of', 'IN') 
+
+('this', 'DT') 
+
+('white', 'JJ') 
+
+('stuff', 'NN') 
+
+('was', 'VBD') 
+
+('falling', 'VBG') 
+
+('from', 'IN') 
+
+('the', 'DT') 
+
+('sky', 'NN') 
+
+('and', 'CC') 
+
+('fell', 'VBD') 
+
+('on', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('shook', 'VBD') 
+
+('himself', 'PRP') 
+
+('but', 'CC') 
+
+('more', 'JJR') 
+
+('fell', 'VBD') 
+
+('on', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('smelled', 'VBD') 
+
+('it', 'PRP') 
+
+('curiously', 'RB') 
+
+(',', ',') 
+
+('then', 'RB') 
+
+('tasted', 'VBD') 
+
+('some', 'DT') 
+
+('on', 'IN') 
+
+('his', 'PRP$') 
+
+('tongue', 'NN') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('like', 'JJ') 
+
+('fire', 'NN') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('next', 'JJ') 
+
+('moment', 'NN') 
+
+('it', 'PRP') 
+
+('disappeared', 'VBD') 
+
+('.', '.') 
+
+('This', 'DT') 
+
+('confused', 'VBD') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('tried', 'VBD') 
+
+('it', 'PRP') 
+
+('again', 'RB') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('same', 'JJ') 
+
+('result', 'NN') 
+
+('.', '.') 
+
+('People', 'NNS') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('him', 'PRP') 
+
+('and', 'CC') 
+
+('laughed', 'VBD') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('his', 'PRP$') 
+
+('first', 'JJ') 
+
+('snow', 'NN') 
+
+('.', '.') 
+
+('chapter', 'NN') 
+
+('three', 'CD') 
+
+('The', 'DT') 
+
+('Law', 'NNP') 
+
+('of', 'IN') 
+
+('Club', 'NNP') 
+
+('and', 'CC') 
+
+('Tana', 'NNP') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('first', 'JJ') 
+
+('day', 'NN') 
+
+('at', 'IN') 
+
+('Dyea', 'NNP') 
+
+('Beach', 'NNP') 
+
+('was', 'VBD') 
+
+('terrible', 'JJ') 
+
+('.', '.') 
+
+('What', 'WP') 
+
+('a', 'DT') 
+
+('change', 'NN') 
+
+('from', 'IN') 
+
+('his', 'PRP$') 
+
+('comfortable', 'JJ') 
+
+(',', ',') 
+
+('happy', 'JJ') 
+
+('life', 'NN') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('Judge', 'NNP') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('sunny', 'JJ') 
+
+('Southland', 'NN') 
+
+('!', '.') 
+
+('Here', 'RB') 
+
+('there', 'EX') 
+
+('was', 'VBD') 
+
+('no', 'DT') 
+
+('peace', 'NN') 
+
+('or', 'CC') 
+
+('rest', 'NN') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('was', 'VBD') 
+
+('only', 'JJ') 
+
+('confusion', 'NN') 
+
+('and', 'CC') 
+
+('noise', 'NN') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('was', 'VBD') 
+
+('danger', 'NN') 
+
+('everywhere', 'RB') 
+
+('because', 'IN') 
+
+('these', 'DT') 
+
+('dogs', 'NNS') 
+
+('and', 'CC') 
+
+('men', 'NNS') 
+
+('were', 'VBD') 
+
+('not', 'RB') 
+
+('city', 'NN') 
+
+('dogs', 'NNS') 
+
+('and', 'CC') 
+
+('men', 'NNS') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('only', 'RB') 
+
+('knew', 'VBD') 
+
+('the', 'DT') 
+
+('law', 'NN') 
+
+('of', 'IN') 
+
+('club', 'NN') 
+
+('and', 'CC') 
+
+('fang', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('never', 'RB') 
+
+('saw', 'VBD') 
+
+('dogs', 'NNS') 
+
+('like', 'IN') 
+
+('these', 'DT') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('fought', 'VBP') 
+
+('like', 'IN') 
+
+('wolves', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('learned', 'VBD') 
+
+('this', 'DT') 
+
+('by', 'IN') 
+
+('watching', 'VBG') 
+
+('Curly', 'NNP') 
+
+('.', '.') 
+
+('She', 'PRP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('make', 'VB') 
+
+('friends', 'NNS') 
+
+('with', 'IN') 
+
+('a', 'DT') 
+
+('husky', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('husky', 'NN') 
+
+('jumped', 'VBD') 
+
+('on', 'IN') 
+
+('Curly', 'NNP') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('tore', 'VBD') 
+
+('her', 'PRP') 
+
+('face', 'NN') 
+
+('from', 'IN') 
+
+('eye', 'NN') 
+
+('to', 'TO') 
+
+('mouth', 'VB') 
+
+('.', '.') 
+
+('Wolves', 'NNS') 
+
+('and', 'CC') 
+
+('huskies', 'NNS') 
+
+('fight', 'VBP') 
+
+('like', 'IN') 
+
+('this', 'DT') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('attack', 'VBP') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('jump', 'VB') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('this', 'DT') 
+
+('fight', 'NN') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('finished', 'VBN') 
+
+('.', '.') 
+
+('Thirty', 'NNP') 
+
+('or', 'CC') 
+
+('forty', 'JJ') 
+
+('huskies', 'NNS') 
+
+('came', 'VBD') 
+
+('and', 'CC') 
+
+('made', 'VBD') 
+
+('a', 'DT') 
+
+('circle', 'NN') 
+
+('around', 'IN') 
+
+('the', 'DT') 
+
+('fight', 'NN') 
+
+('.', '.') 
+
+('Curly', 'RB') 
+
+('attacked', 'VBD') 
+
+('her', 'PRP') 
+
+('enemy', 'NN') 
+
+('but', 'CC') 
+
+('the', 'DT') 
+
+('husky', 'JJ') 
+
+('bit', 'NN') 
+
+('her', 'PRP$') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('She', 'PRP') 
+
+('fell', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('ground', 'NN') 
+
+('and', 'CC') 
+
+('never', 'RB') 
+
+('stood', 'VBD') 
+
+('up', 'RP') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('other', 'JJ') 
+
+('huskies', 'NNS') 
+
+('moved', 'VBN') 
+
+('in', 'IN') 
+
+('and', 'CC') 
+
+('suddenly', 'RB') 
+
+('she', 'PRP') 
+
+('was', 'VBD') 
+
+('under', 'IN') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('saw', 'VBD') 
+
+('Spitz', 'NNP') 
+
+('run', 'VB') 
+
+('away', 'RP') 
+
+('with', 'IN') 
+
+('his', 'PRP$') 
+
+('red', 'JJ') 
+
+('tongue', 'NN') 
+
+('out', 'IN') 
+
+('of', 'IN') 
+
+('his', 'PRP$') 
+
+('mouth', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('laughing', 'VBG') 
+
+('.', '.') 
+
+('Curly', 'NNP') 
+
+('was', 'VBD') 
+
+('dead', 'JJ') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('snow', 'NN') 
+
+('.', '.') 
+
+('Her', 'PRP$') 
+
+('body', 'NN') 
+
+('was', 'VBD') 
+
+('almost', 'RB') 
+
+('in', 'IN') 
+
+('pieces', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('often', 'RB') 
+
+('saw', 'VBD') 
+
+('this', 'DT') 
+
+('scene', 'NN') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('dreams', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('understood', 'VBD') 
+
+('that', 'IN') 
+
+('when', 'WRB') 
+
+('a', 'DT') 
+
+('dog', 'NN') 
+
+('was', 'VBD') 
+
+('injured', 'VBN') 
+
+(',', ',') 
+
+('that', 'WDT') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('end', 'NN') 
+
+('.', '.') 
+
+('Spitz', 'NNP') 
+
+('laughed', 'VBD') 
+
+('again', 'RB') 
+
+('and', 'CC') 
+
+('from', 'IN') 
+
+('that', 'DT') 
+
+('moment', 'NN') 
+
+('Buck', 'NNP') 
+
+('hated', 'VBD') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Soon', 'NNP') 
+
+('Buck', 'NNP') 
+
+('had', 'VBD') 
+
+('another', 'DT') 
+
+('surprise', 'NN') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('put', 'VBD') 
+
+('a', 'DT') 
+
+('harness', 'NN') 
+
+('on', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('remembered', 'VBD') 
+
+('the', 'DT') 
+
+('harnesses', 'NNS') 
+
+('on', 'IN') 
+
+('horses', 'NNS') 
+
+('at', 'IN') 
+
+('home', 'NN') 
+
+('.', '.') 
+
+('So', 'RB') 
+
+('now', 'RB') 
+
+('he', 'PRP') 
+
+('must', 'MD') 
+
+('work', 'VB') 
+
+('like', 'IN') 
+
+('a', 'DT') 
+
+('horse', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('must', 'MD') 
+
+('pull', 'VB') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('to', 'TO') 
+
+('get', 'VB') 
+
+('firewood', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('offended', 'VBN') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('decided', 'VBD') 
+
+('to', 'TO') 
+
+('work', 'VB') 
+
+('and', 'CC') 
+
+('do', 'VB') 
+
+('his', 'PRP$') 
+
+('best', 'JJS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('worked', 'VBD') 
+
+('with', 'IN') 
+
+('Spitz', 'NNP') 
+
+('and', 'CC') 
+
+('Dave', 'NNP') 
+
+(',', ',') 
+
+('and', 'CC') 
+
+('learned', 'VBD') 
+
+('a', 'DT') 
+
+('lot', 'NN') 
+
+('from', 'IN') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('learned', 'VBD') 
+
+('to', 'TO') 
+
+('stop', 'VB') 
+
+('when', 'WRB') 
+
+('Francois', 'NNP') 
+
+('said', 'VBD') 
+
+('``', '``') 
+
+('ho', 'NN') 
+
+("''", "''") 
+
+(',', ',') 
+
+('and', 'CC') 
+
+('to', 'TO') 
+
+('go', 'VB') 
+
+('when', 'WRB') 
+
+('he', 'PRP') 
+
+('said', 'VBD') 
+
+('``', '``') 
+
+('mush', 'NN') 
+
+("''", "''") 
+
+('.', '.') 
+
+('``', '``') 
+
+('Those', 'DT') 
+
+('three', 'CD') 
+
+('are', 'VBP') 
+
+('very', 'RB') 
+
+('good', 'JJ') 
+
+('dogs', 'NNS') 
+
+(',', ',') 
+
+("''", "''") 
+
+('Francois', 'NNP') 
+
+('told', 'VBD') 
+
+('Perrault', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Buck', 'NNP') 
+
+('pulls', 'VBZ') 
+
+('well', 'RB') 
+
+('and', 'CC') 
+
+('learns', 'VBZ') 
+
+('quickly', 'RB') 
+
+('.', '.') 
+
+("''", "''") 
+
+('That', 'DT') 
+
+('afternoon', 'NN') 
+
+('Perrault', 'NNP') 
+
+('bought', 'VBD') 
+
+('two', 'CD') 
+
+('huskies', 'NNS') 
+
+('called', 'VBN') 
+
+('Billee', 'NNP') 
+
+('and', 'CC') 
+
+('Joe', 'NNP') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('were', 'VBD') 
+
+('brothers', 'NNS') 
+
+('.', '.') 
+
+('Billee', 'NNP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('friendly', 'JJ') 
+
+('but', 'CC') 
+
+('Joe', 'NNP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('opposite', 'JJ') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('evening', 'NN') 
+
+(',', ',') 
+
+('Perrault', 'NNP') 
+
+('bought', 'VBD') 
+
+('another', 'DT') 
+
+('dog', 'NN') 
+
+('called', 'VBN') 
+
+('Solleks', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('an', 'DT') 
+
+('old', 'JJ') 
+
+('husky', 'NN') 
+
+('with', 'IN') 
+
+('only', 'RB') 
+
+('one', 'CD') 
+
+('eye', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('made', 'VBD') 
+
+('no', 'DT') 
+
+('friends', 'NNS') 
+
+('and', 'CC') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('be', 'VB') 
+
+('alone', 'RB') 
+
+('.', '.') 
+
+('That', 'DT') 
+
+('night', 'NN') 
+
+('Buck', 'NNP') 
+
+('had', 'VBD') 
+
+('another', 'DT') 
+
+('problem', 'NN') 
+
+('.', '.') 
+
+('Where', 'WRB') 
+
+('could', 'MD') 
+
+('he', 'PRP') 
+
+('sleep', 'VB') 
+
+('?', '.') 
+
+('Francois', 'NNP') 
+
+('and', 'CC') 
+
+('Perrault', 'NNP') 
+
+('were', 'VBD') 
+
+('in', 'IN') 
+
+('their', 'PRP$') 
+
+('tent', 'NN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Buck', 'NNP') 
+
+('tried', 'VBD') 
+
+('to', 'TO') 
+
+('enter', 'VB') 
+
+('they', 'PRP') 
+
+('shouted', 'VBD') 
+
+('angrily', 'RB') 
+
+('at', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('terribly', 'RB') 
+
+('cold', 'JJ') 
+
+('and', 'CC') 
+
+('windy', 'JJ') 
+
+('outside', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('tried', 'VBD') 
+
+('to', 'TO') 
+
+('sleep', 'VB') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('snow', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('too', 'RB') 
+
+('cold', 'JJ') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('walked', 'VBD') 
+
+('sadly', 'RB') 
+
+('around', 'IN') 
+
+('the', 'DT') 
+
+('tent', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('looked', 'VBD') 
+
+('for', 'IN') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('find', 'VB') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('Where', 'WRB') 
+
+('were', 'VBD') 
+
+('they', 'PRP') 
+
+('?', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('cold', 'JJ') 
+
+('and', 'CC') 
+
+('unhappy', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('know', 'VB') 
+
+('what', 'WP') 
+
+('to', 'TO') 
+
+('do', 'VB') 
+
+('.', '.') 
+
+('Suddenly', 'RB') 
+
+('he', 'PRP') 
+
+('fell', 'VBD') 
+
+('into', 'IN') 
+
+('a', 'DT') 
+
+('hole', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('felt', 'VBD') 
+
+('something', 'NN') 
+
+('move', 'NN') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('heard', 'VB') 
+
+('a', 'DT') 
+
+('friendly', 'JJ') 
+
+('bark', 'NN') 
+
+('.', '.') 
+
+('Under', 'IN') 
+
+('the', 'DT') 
+
+('snow', 'NN') 
+
+(',', ',') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('warm', 'JJ') 
+
+('hole', 'NN') 
+
+('he', 'PRP') 
+
+('saw', 'VBD') 
+
+('Billee', 'NNP') 
+
+('.', '.') 
+
+('Billee', 'NNP') 
+
+('licked', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('face', 'NN') 
+
+('with', 'IN') 
+
+('his', 'PRP$') 
+
+('warm', 'NN') 
+
+(',', ',') 
+
+('wet', 'JJ') 
+
+('tongue', 'NN') 
+
+('.', '.') 
+
+('Another', 'DT') 
+
+('lesson', 'NN') 
+
+('.', '.') 
+
+('So', 'IN') 
+
+('that', 'DT') 
+
+('was', 'VBD') 
+
+('how', 'WRB') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('slept', 'VBD') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('chose', 'VBD') 
+
+('a', 'DT') 
+
+('place', 'NN') 
+
+('and', 'CC') 
+
+('made', 'VBD') 
+
+('a', 'DT') 
+
+('hole', 'NN') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('a', 'DT') 
+
+('minute', 'NN') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('warm', 'JJ') 
+
+('and', 'CC') 
+
+('asleep', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('slept', 'VBD') 
+
+('well', 'RB') 
+
+('but', 'CC') 
+
+('had', 'VBD') 
+
+('bad', 'JJ') 
+
+('dreams', 'NNS') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('noises', 'NNS') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('camp', 'NN') 
+
+('woke', 'VBD') 
+
+('him', 'PRP') 
+
+('up', 'RP') 
+
+('the', 'DT') 
+
+('next', 'JJ') 
+
+('morning', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('What', 'WP') 
+
+('did', 'VBD') 
+
+('i', 'JJ') 
+
+('say', 'VBP') 
+
+(',', ',') 
+
+("''", "''") 
+
+('Francois', 'NNP') 
+
+('shouted', 'VBD') 
+
+('to', 'TO') 
+
+('Perrault', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('That', 'DT') 
+
+('Buck', 'NNP') 
+
+('learns', 'VBZ') 
+
+('quickly', 'RB') 
+
+('.', '.') 
+
+("''", "''") 
+
+('Perrault', 'NN') 
+
+('smiled', 'VBD') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('courier', 'NN') 
+
+('for', 'IN') 
+
+('the', 'DT') 
+
+('Canadian', 'JJ') 
+
+('Government', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('transported', 'VBD') 
+
+('important', 'JJ') 
+
+('documents', 'NNS') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('needed', 'VBD') 
+
+('the', 'DT') 
+
+('best', 'JJS') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('bought', 'VBD') 
+
+('three', 'CD') 
+
+('dogs', 'NNS') 
+
+('that', 'IN') 
+
+('morning', 'NN') 
+
+('.', '.') 
+
+('Now', 'RB') 
+
+('there', 'EX') 
+
+('were', 'VBD') 
+
+('nine', 'CD') 
+
+('dogs', 'NNS') 
+
+('in', 'IN') 
+
+('a', 'DT') 
+
+('harness', 'NN') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('going', 'VBG') 
+
+('up', 'RP') 
+
+('the', 'DT') 
+
+('Dyea', 'NNP') 
+
+('Canyon', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('work', 'NN') 
+
+('was', 'VBD') 
+
+('hard', 'JJ') 
+
+('but', 'CC') 
+
+('Buck', 'NNP') 
+
+('liked', 'VBD') 
+
+('it', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('surprised', 'JJ') 
+
+('that', 'IN') 
+
+('Dave', 'NNP') 
+
+('and', 'CC') 
+
+('Solleks', 'NNP') 
+
+('were', 'VBD') 
+
+('not', 'RB') 
+
+('bored', 'VBN') 
+
+('now', 'RB') 
+
+('.', '.') 
+
+('Pulling', 'VBG') 
+
+('in', 'IN') 
+
+('a', 'DT') 
+
+('harness', 'NN') 
+
+('was', 'VBD') 
+
+('their', 'PRP$') 
+
+('job', 'NN') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('happy', 'JJ') 
+
+('.', '.') 
+
+('All', 'PDT') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('alert', 'JJ') 
+
+('and', 'CC') 
+
+('active', 'JJ') 
+
+('.', '.') 
+
+('Billee', 'NNP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('sled', 'JJ') 
+
+('dog', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('nearest', 'RB') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('.', '.') 
+
+('Dave', 'NNP') 
+
+('was', 'VBD') 
+
+('in', 'IN') 
+
+('front', 'NN') 
+
+('of', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('there', 'EX') 
+
+('was', 'VBD') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('front', 'NN') 
+
+('of', 'IN') 
+
+('them', 'PRP') 
+
+('were', 'VBD') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('Spitz', 'NNP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('leader', 'NN') 
+
+('in', 'IN') 
+
+('front', 'NN') 
+
+('.', '.') 
+
+('Dave', 'NNP') 
+
+('and', 'CC') 
+
+('Solleks', 'NNP') 
+
+('were', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('teachers', 'NNS') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Buck', 'NNP') 
+
+('pulled', 'VBD') 
+
+('the', 'DT') 
+
+('wrong', 'JJ') 
+
+('way', 'NN') 
+
+('Dave', 'NNP') 
+
+('always', 'RB') 
+
+('bit', 'VBD') 
+
+('his', 'PRP$') 
+
+('leg', 'NN') 
+
+('lightly', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('learned', 'VBD') 
+
+('quickly', 'RB') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('hard', 'JJ') 
+
+('journey', 'NN') 
+
+('up', 'IN') 
+
+('the', 'DT') 
+
+('canyon', 'NN') 
+
+(',', ',') 
+
+('through', 'IN') 
+
+('Sheep', 'NNP') 
+
+('Camp', 'NNP') 
+
+('and', 'CC') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('mountains', 'NNS') 
+
+('.', '.') 
+
+('That', 'DT') 
+
+('night', 'NN') 
+
+('they', 'PRP') 
+
+('camped', 'VBD') 
+
+('at', 'IN') 
+
+('Lake', 'NNP') 
+
+('Bennett', 'NNP') 
+
+('.', '.') 
+
+('Thousands', 'NNP') 
+
+('of', 'IN') 
+
+('gold', 'NN') 
+
+('miners', 'NNS') 
+
+('were', 'VBD') 
+
+('there', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('made', 'VBD') 
+
+('his', 'PRP$') 
+
+('hole', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('snow', 'NN') 
+
+('and', 'CC') 
+
+('slept', 'NN') 
+
+('well', 'RB') 
+
+('.', '.') 
+
+('Very', 'RB') 
+
+('early', 'RB') 
+
+('the', 'DT') 
+
+('next', 'JJ') 
+
+('morning', 'NN') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('team', 'NN') 
+
+('started', 'VBD') 
+
+('pulling', 'VBG') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('That', 'DT') 
+
+('day', 'NN') 
+
+('they', 'PRP') 
+
+('traveled', 'VBD') 
+
+('forty', 'NN') 
+
+('miles', 'NNS') 
+
+('on', 'IN') 
+
+('a', 'DT') 
+
+('good', 'JJ') 
+
+('trail', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('the', 'DT') 
+
+('next', 'JJ') 
+
+('day', 'NN') 
+
+('there', 'EX') 
+
+('was', 'VBD') 
+
+('no', 'DT') 
+
+('trail', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('worked', 'VBN') 
+
+('harder', 'JJR') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('traveled', 'VBD') 
+
+('slowly', 'RB') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('usually', 'RB') 
+
+('went', 'VBD') 
+
+('in', 'IN') 
+
+('front', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('With', 'IN') 
+
+('his', 'PRP$') 
+
+('snowshoes', 'NNS') 
+
+('he', 'PRP') 
+
+('made', 'VBD') 
+
+('the', 'DT') 
+
+('snow', 'JJ') 
+
+('flat', 'NN') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('guided', 'VBD') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('from', 'IN') 
+
+('behind', 'NN') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('was', 'VBD') 
+
+('in', 'IN') 
+
+('a', 'DT') 
+
+('hurry', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('knew', 'VBD') 
+
+('all', 'DT') 
+
+('about', 'IN') 
+
+('ice', 'NN') 
+
+('and', 'CC') 
+
+('this', 'DT') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('important', 'JJ') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('fall', 'NN') 
+
+('the', 'DT') 
+
+('ice', 'NN') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('thin', 'JJ') 
+
+('.', '.') 
+
+('Day', 'NNP') 
+
+('after', 'IN') 
+
+('day', 'NN') 
+
+('Buck', 'NNP') 
+
+('worked', 'VBD') 
+
+('hard', 'JJ') 
+
+('and', 'CC') 
+
+('pulled', 'VBD') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('started', 'VBD') 
+
+('before', 'IN') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('light', 'JJ') 
+
+('and', 'CC') 
+
+('stopped', 'VBD') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('evening', 'NN') 
+
+('after', 'IN') 
+
+('dark', 'NN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('ate', 'VBD') 
+
+('a', 'DT') 
+
+('piece', 'NN') 
+
+('of', 'IN') 
+
+('fish', 'NN') 
+
+('and', 'CC') 
+
+('went', 'VBD') 
+
+('to', 'TO') 
+
+('sleep', 'VB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('always', 'RB') 
+
+('hungry', 'JJ') 
+
+('.', '.') 
+
+('Everyday', 'CC') 
+
+('he', 'PRP') 
+
+('ate', 'VBD') 
+
+('a', 'DT') 
+
+('pound', 'NN') 
+
+('and', 'CC') 
+
+('a', 'DT') 
+
+('half', 'NN') 
+
+('of', 'IN') 
+
+('fish', 'JJ') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('never', 'RB') 
+
+('enough', 'RB') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('day', 'NN') 
+
+('he', 'PRP') 
+
+('saw', 'VBD') 
+
+('another', 'DT') 
+
+('dog', 'NN') 
+
+('called', 'VBN') 
+
+('Pike', 'NNP') 
+
+('steal', 'JJ') 
+
+('meat', 'NN') 
+
+('from', 'IN') 
+
+('Perrault', 'NNP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('the', 'DT') 
+
+('same', 'JJ') 
+
+('the', 'DT') 
+
+('next', 'JJ') 
+
+('day', 'NN') 
+
+('and', 'CC') 
+
+('no', 'DT') 
+
+('one', 'NN') 
+
+('saw', 'VBD') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('learning', 'VBG') 
+
+('to', 'TO') 
+
+('live', 'VB') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('hostile', 'JJ') 
+
+('Northland', 'NNP') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('Southland', 'NNP') 
+
+('he', 'PRP') 
+
+('never', 'RB') 
+
+('stole', 'VBD') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('never', 'RB') 
+
+('hungry', 'JJ') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('Southland', 'NNP') 
+
+('there', 'EX') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('law', 'NN') 
+
+('of', 'IN') 
+
+('love', 'NN') 
+
+('and', 'CC') 
+
+('friendship', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('man', 'NN') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('red', 'JJ') 
+
+('sweater', 'NN') 
+
+('taught', 'VBD') 
+
+('him', 'PRP') 
+
+('the', 'DT') 
+
+('law', 'NN') 
+
+('of', 'IN') 
+
+('club', 'NN') 
+
+('and', 'CC') 
+
+('fang', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('learned', 'VBD') 
+
+('to', 'TO') 
+
+('eat', 'VB') 
+
+('all', 'DT') 
+
+('kinds', 'NNS') 
+
+('of', 'IN') 
+
+('food', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('learned', 'VBD') 
+
+('to', 'TO') 
+
+('fight', 'VB') 
+
+('and', 'CC') 
+
+('became', 'VBD') 
+
+('very', 'RB') 
+
+('clever', 'RB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('became', 'VBD') 
+
+('stronger', 'JJR') 
+
+('and', 'CC') 
+
+('more', 'RBR') 
+
+('primitive', 'JJ') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('natural', 'JJ') 
+
+('forces', 'NNS') 
+
+('inside', 'IN') 
+
+('of', 'IN') 
+
+('him', 'PRP') 
+
+('became', 'VBD') 
+
+('alive', 'JJ') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('easy', 'JJ') 
+
+('for', 'IN') 
+
+('Buck', 'NNP') 
+
+('to', 'TO') 
+
+('fight', 'VB') 
+
+('like', 'IN') 
+
+('a', 'DT') 
+
+('wolf', 'NN') 
+
+('because', 'IN') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('blood', 'NN') 
+
+('.', '.') 
+
+('At', 'IN') 
+
+('night', 'NN') 
+
+('he', 'PRP') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('a', 'DT') 
+
+('star', 'NN') 
+
+('and', 'CC') 
+
+('howled', 'VBD') 
+
+(',', ',') 
+
+('like', 'IN') 
+
+('his', 'PRP$') 
+
+('ancestors', 'NNS') 
+
+('did', 'VBD') 
+
+('long', 'RB') 
+
+('ago', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('following', 'VBG') 
+
+('his', 'PRP$') 
+
+('instinct', 'NN') 
+
+('.', '.') 
+
+('chapter', 'NN') 
+
+('four', 'CD') 
+
+('The', 'DT') 
+
+('Attack', 'NNP') 
+
+('The', 'DT') 
+
+('primitive', 'JJ') 
+
+('spirit', 'NN') 
+
+('of', 'IN') 
+
+('his', 'PRP$') 
+
+('ancestors', 'NNS') 
+
+('was', 'VBD') 
+
+('strong', 'JJ') 
+
+('in', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('And', 'CC') 
+
+('under', 'IN') 
+
+('the', 'DT') 
+
+('harsh', 'JJ') 
+
+('conditions', 'NNS') 
+
+('of', 'IN') 
+
+('is', 'VBZ') 
+
+('new', 'JJ') 
+
+('life', 'NN') 
+
+('this', 'DT') 
+
+('spirit', 'NN') 
+
+('grew', 'VBD') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('hated', 'VBD') 
+
+('Spitz', 'NNP') 
+
+('more', 'JJR') 
+
+('and', 'CC') 
+
+('more', 'RBR') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('want', 'VB') 
+
+('to', 'TO') 
+
+('start', 'VB') 
+
+('a', 'DT') 
+
+('fight', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('careful', 'JJ') 
+
+(',', ',') 
+
+('he', 'PRP') 
+
+('did', 'VBD') 
+
+('nothing', 'NN') 
+
+('without', 'IN') 
+
+('thinking', 'VBG') 
+
+('.', '.') 
+
+('Spitz', 'NNP') 
+
+('always', 'RB') 
+
+('showed', 'VBD') 
+
+('his', 'PRP$') 
+
+('teeth', 'NNS') 
+
+('to', 'TO') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('start', 'VB') 
+
+('a', 'DT') 
+
+('fight', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('knew', 'VBD') 
+
+('that', 'IN') 
+
+('a', 'DT') 
+
+('fight', 'NN') 
+
+('meant', 'VBD') 
+
+('the', 'DT') 
+
+('death', 'NN') 
+
+('of', 'IN') 
+
+('one', 'CD') 
+
+('or', 'CC') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('night', 'NN') 
+
+('the', 'DT') 
+
+('fight', 'NN') 
+
+('almost', 'RB') 
+
+('happened', 'VBN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('stopped', 'VBD') 
+
+('at', 'IN') 
+
+('Lake', 'NNP') 
+
+('Laberge', 'NNP') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('snowing', 'VBG') 
+
+('heavily', 'RB') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('wind', 'NN') 
+
+('was', 'VBD') 
+
+('strong', 'JJ') 
+
+('and', 'CC') 
+
+('cold', 'JJ') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('and', 'CC') 
+
+('Francois', 'NNP') 
+
+('made', 'VBD') 
+
+('a', 'DT') 
+
+('fire', 'NN') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('ice', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('made', 'VBD') 
+
+('a', 'DT') 
+
+('hole', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('snow', 'NN') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('warm', 'JJ') 
+
+('and', 'CC') 
+
+('comfortable', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('want', 'VB') 
+
+('to', 'TO') 
+
+('leave', 'VB') 
+
+('it', 'PRP') 
+
+('to', 'TO') 
+
+('get', 'VB') 
+
+('his', 'PRP$') 
+
+('piece', 'NN') 
+
+('of', 'IN') 
+
+('fish', 'NN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Buck', 'NNP') 
+
+('finished', 'VBD') 
+
+('eating', 'VBG') 
+
+('the', 'DT') 
+
+('fish', 'NN') 
+
+('he', 'PRP') 
+
+('went', 'VBD') 
+
+('back', 'RB') 
+
+('to', 'TO') 
+
+('his', 'PRP$') 
+
+('hole', 'NN') 
+
+('and', 'CC') 
+
+('found', 'VBD') 
+
+('Spitz', 'NNP') 
+
+('in', 'IN') 
+
+('it', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('want', 'VB') 
+
+('to', 'TO') 
+
+('fight', 'VB') 
+
+('with', 'IN') 
+
+('Spitz', 'NNP') 
+
+('but', 'CC') 
+
+('this', 'DT') 
+
+('was', 'VBD') 
+
+('too', 'RB') 
+
+('much', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('jumped', 'VBD') 
+
+('on', 'IN') 
+
+('Spitz', 'NNP') 
+
+('with', 'IN') 
+
+('great', 'JJ') 
+
+('anger', 'NN') 
+
+('.', '.') 
+
+('Spitz', 'NNP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('surprised', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('knew', 'VBD') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('big', 'JJ') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('know', 'VB') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('so', 'RB') 
+
+('wild', 'JJ') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('was', 'VBD') 
+
+('surprised', 'VBN') 
+
+('too', 'RB') 
+
+('.', '.') 
+
+('``', '``') 
+
+('A-a-ah', 'JJ') 
+
+('!', '.') 
+
+("''", "''") 
+
+('he', 'PRP') 
+
+('cried', 'VBD') 
+
+('to', 'TO') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Give', 'VB') 
+
+('it', 'PRP') 
+
+('to', 'TO') 
+
+('him', 'PRP') 
+
+('!', '.') 
+
+('Give', 'VB') 
+
+('it', 'PRP') 
+
+('to', 'TO') 
+
+('him', 'PRP') 
+
+('!', '.') 
+
+("''", "''") 
+
+('Both', 'DT') 
+
+('dogs', 'NNS') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('fight', 'VB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('circled', 'VBD') 
+
+('each', 'DT') 
+
+('other', 'JJ') 
+
+('and', 'CC') 
+
+('waited', 'VBD') 
+
+('for', 'IN') 
+
+('a', 'DT') 
+
+('chance', 'NN') 
+
+('to', 'TO') 
+
+('jump', 'VB') 
+
+('in', 'IN') 
+
+('.', '.') 
+
+('Suddenly', 'RB') 
+
+('Perrault', 'NNP') 
+
+('shouted', 'VBD') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('saw', 'VBD') 
+
+('about', 'IN') 
+
+('a', 'DT') 
+
+('hundred', 'JJ') 
+
+('thin', 'NN') 
+
+(',', ',') 
+
+('hungry', 'JJ') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('came', 'VBD') 
+
+('from', 'IN') 
+
+('an', 'DT') 
+
+('Indian', 'JJ') 
+
+('village', 'NN') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('looking', 'VBG') 
+
+('for', 'IN') 
+
+('food', 'NN') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('and', 'CC') 
+
+('Francois', 'NNP') 
+
+('hit', 'VBD') 
+
+('them', 'PRP') 
+
+('with', 'IN') 
+
+('their', 'PRP$') 
+
+('clubs', 'NNS') 
+
+('but', 'CC') 
+
+('the', 'DT') 
+
+('hungry', 'JJ') 
+
+('dogs', 'NNS') 
+
+('showed', 'VBD') 
+
+('their', 'PRP$') 
+
+('teeth', 'NNS') 
+
+('and', 'CC') 
+
+('attacked', 'VBD') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('dog', 'NN') 
+
+('found', 'VBD') 
+
+('the', 'DT') 
+
+('food', 'NN') 
+
+('box', 'NN') 
+
+('and', 'CC') 
+
+('in', 'IN') 
+
+('a', 'DT') 
+
+('moment', 'NN') 
+
+('twenty', 'NN') 
+
+('dogs', 'NNS') 
+
+('ate', 'VBP') 
+
+('the', 'DT') 
+
+('bread', 'NN') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('meat', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('smell', 'NN') 
+
+('of', 'IN') 
+
+('food', 'NN') 
+
+('made', 'VBN') 
+
+('them', 'PRP') 
+
+('crazy', 'JJ') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('looked', 'VBD') 
+
+('like', 'IN') 
+
+('skeletons', 'NNS') 
+
+('with', 'IN') 
+
+('wild', 'JJ') 
+
+('eyes', 'NNS') 
+
+('and', 'CC') 
+
+('sharp', 'JJ') 
+
+('fangs', 'NNS') 
+
+('.', '.') 
+
+('Three', 'CD') 
+
+('of', 'IN') 
+
+('them', 'PRP') 
+
+('attacked', 'VBD') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('bit', 'VB') 
+
+('his', 'PRP$') 
+
+('head', 'NN') 
+
+('and', 'CC') 
+
+('shoulders', 'NNS') 
+
+('.', '.') 
+
+('Dave', 'NNP') 
+
+('and', 'CC') 
+
+('Solleks', 'NNP') 
+
+('fought', 'VBD') 
+
+('courageously', 'RB') 
+
+('side', 'VBN') 
+
+('by', 'IN') 
+
+('side', 'NN') 
+
+('.', '.') 
+
+('Joe', 'NNP') 
+
+('attacked', 'VBD') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('too', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('bit', 'VBD') 
+
+('a', 'DT') 
+
+('dog', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('neck', 'NN') 
+
+('and', 'CC') 
+
+('tasted', 'VBD') 
+
+('its', 'PRP$') 
+
+('blood', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('taste', 'NN') 
+
+('of', 'IN') 
+
+('blood', 'NN') 
+
+('made', 'VBD') 
+
+('him', 'PRP') 
+
+('fiercer', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('jumped', 'VBD') 
+
+('on', 'IN') 
+
+('another', 'DT') 
+
+('dog', 'NN') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('felt', 'VBD') 
+
+('teeth', 'NNS') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('own', 'JJ') 
+
+('neck', 'NN') 
+
+('.', '.') 
+
+('Spitz', 'NNP') 
+
+('was', 'VBD') 
+
+('attacking', 'VBG') 
+
+('him', 'PRP') 
+
+('from', 'IN') 
+
+('the', 'DT') 
+
+('side', 'NN') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('and', 'CC') 
+
+('Francois', 'NNP') 
+
+('came', 'VBD') 
+
+('with', 'IN') 
+
+('clubs', 'NNS') 
+
+('to', 'TO') 
+
+('help', 'VB') 
+
+('their', 'PRP$') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('hungry', 'JJ') 
+
+('dogs', 'NNS') 
+
+('ran', 'VBD') 
+
+('away', 'RB') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('only', 'RB') 
+
+('for', 'IN') 
+
+('a', 'DT') 
+
+('moment', 'NN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('the', 'DT') 
+
+('two', 'CD') 
+
+('men', 'NNS') 
+
+('ran', 'VBD') 
+
+('back', 'RB') 
+
+('to', 'TO') 
+
+('save', 'VB') 
+
+('their', 'PRP$') 
+
+('food', 'NN') 
+
+(',', ',') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('attacked', 'VBD') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('terrible', 'JJ') 
+
+('fight', 'NN') 
+
+('continued', 'VBN') 
+
+('.', '.') 
+
+('Later', 'RB') 
+
+('the', 'DT') 
+
+('nine', 'CD') 
+
+('team-dogs', 'JJ') 
+
+('ran', 'VBD') 
+
+('away', 'RB') 
+
+('and', 'CC') 
+
+('hid', 'VB') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('passed', 'VBD') 
+
+('the', 'DT') 
+
+('night', 'NN') 
+
+('there', 'RB') 
+
+('.', '.') 
+
+('Each', 'DT') 
+
+('dog', 'NN') 
+
+('was', 'VBD') 
+
+('hurt', 'VBN') 
+
+('in', 'IN') 
+
+('four', 'CD') 
+
+('or', 'CC') 
+
+('five', 'CD') 
+
+('places', 'NNS') 
+
+('and', 'CC') 
+
+('Joe', 'NNP') 
+
+('lost', 'VBD') 
+
+('his', 'PRP$') 
+
+('eye', 'NN') 
+
+('.', '.') 
+
+('Early', 'JJ') 
+
+('the', 'DT') 
+
+('next', 'JJ') 
+
+('morning', 'NN') 
+
+('they', 'PRP') 
+
+('slowly', 'VBP') 
+
+('walked', 'VBN') 
+
+('back', 'RB') 
+
+('to', 'TO') 
+
+('camp', 'NN') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('and', 'CC') 
+
+('Francois', 'NNP') 
+
+('were', 'VBD') 
+
+('angry', 'JJ') 
+
+('.', '.') 
+
+('Half', 'NN') 
+
+('of', 'IN') 
+
+('their', 'PRP$') 
+
+('food', 'NN') 
+
+('was', 'VBD') 
+
+('gone', 'VBN') 
+
+('and', 'CC') 
+
+('one', 'CD') 
+
+('dog', 'NN') 
+
+('ate', 'NN') 
+
+('Perrault', 'NNP') 
+
+("'s", 'POS') 
+
+('shoe', 'NN') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('poor', 'JJ') 
+
+('dogs', 'NNS') 
+
+('and', 'CC') 
+
+('said', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('Ah', 'NNP') 
+
+(',', ',') 
+
+('my', 'PRP$') 
+
+('friends', 'NNS') 
+
+(',', ',') 
+
+('perhaps', 'RB') 
+
+('those', 'DT') 
+
+('bites', 'NNS') 
+
+('will', 'MD') 
+
+('make', 'VB') 
+
+('you', 'PRP') 
+
+('crazy', 'JJ') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('What', 'WP') 
+
+('do', 'VBP') 
+
+('you', 'PRP') 
+
+('think', 'VB') 
+
+(',', ',') 
+
+('Perrault', 'NNP') 
+
+('?', '.') 
+
+("''", "''") 
+
+('Perrault', 'NNP') 
+
+('said', 'VBD') 
+
+('nothing', 'NN') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('were', 'VBD') 
+
+('four', 'CD') 
+
+('hundred', 'JJ') 
+
+('miles', 'NNS') 
+
+('between', 'IN') 
+
+('him', 'PRP') 
+
+('and', 'CC') 
+
+('Dawson', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('hoped', 'VBD') 
+
+('his', 'PRP$') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('not', 'RB') 
+
+('crazy', 'JJ') 
+
+('!', '.') 
+
+('After', 'IN') 
+
+('two', 'CD') 
+
+('hours', 'NNS') 
+
+('of', 'IN') 
+
+('hard', 'JJ') 
+
+('work', 'NN') 
+
+('the', 'DT') 
+
+('team', 'NN') 
+
+('started', 'VBD') 
+
+('traveling', 'VBG') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('next', 'JJ') 
+
+('part', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('trail', 'NN') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('most', 'RBS') 
+
+('difficult', 'JJ') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('Thirty', 'NNP') 
+
+('Mile', 'NNP') 
+
+('River', 'NNP') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('frozen', 'JJ') 
+
+('because', 'IN') 
+
+('the', 'DT') 
+
+('water', 'NN') 
+
+('moved', 'VBD') 
+
+('too', 'RB') 
+
+('quickly', 'RB') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('took', 'VBD') 
+
+('six', 'CD') 
+
+('days', 'NNS') 
+
+('to', 'TO') 
+
+('travel', 'VB') 
+
+('those', 'DT') 
+
+('terrible', 'JJ') 
+
+('thirty', 'JJ') 
+
+('miles', 'NNS') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('were', 'VBD') 
+
+('terrible', 'JJ') 
+
+('because', 'IN') 
+
+('every', 'DT') 
+
+('step', 'NN') 
+
+('was', 'VBD') 
+
+('dangerous', 'JJ') 
+
+('for', 'IN') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('men', 'NNS') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('found', 'VBD') 
+
+('twelve', 'NN') 
+
+('ice', 'NN') 
+
+('bridges', 'NNS') 
+
+('across', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('.', '.') 
+
+('And', 'CC') 
+
+('Perrault', 'NNP') 
+
+('fell', 'VBD') 
+
+('through', 'IN') 
+
+('all', 'DT') 
+
+('of', 'IN') 
+
+('them', 'PRP') 
+
+('!', '.') 
+
+('His', 'PRP$') 
+
+('long', 'JJ') 
+
+('stick', 'NN') 
+
+('saved', 'VBD') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('temperature', 'NN') 
+
+('was', 'VBD') 
+
+('50', 'CD') 
+
+('â°f', 'NNP') 
+
+('below', 'IN') 
+
+('zero', 'NNP') 
+
+('.', '.') 
+
+('Each', 'DT') 
+
+('time', 'NN') 
+
+('Perrault', 'NNP') 
+
+('fell', 'VBD') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('icy', 'NN') 
+
+('water', 'NN') 
+
+('he', 'PRP') 
+
+('built', 'VBD') 
+
+('a', 'DT') 
+
+('fire', 'NN') 
+
+('to', 'TO') 
+
+('dry', 'VB') 
+
+('and', 'CC') 
+
+('warm', 'VB') 
+
+('himself', 'PRP') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('afraid', 'JJ') 
+
+('of', 'IN') 
+
+('anything', 'NN') 
+
+('.', '.') 
+
+('This', 'DT') 
+
+('is', 'VBZ') 
+
+('why', 'WRB') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('government', 'NN') 
+
+('courier', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('often', 'RB') 
+
+('in', 'IN') 
+
+('danger', 'NN') 
+
+('.', '.') 
+
+('Once', 'IN') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('with', 'IN') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('Dave', 'NNP') 
+
+('fell', 'VBD') 
+
+('through', 'IN') 
+
+('the', 'DT') 
+
+('ice', 'NN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Perrault', 'NNP') 
+
+('and', 'CC') 
+
+('Francois', 'NNP') 
+
+('pulled', 'VBD') 
+
+('them', 'PRP') 
+
+('out', 'IN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('covered', 'VBN') 
+
+('with', 'IN') 
+
+('ice', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('men', 'NNS') 
+
+('built', 'VBD') 
+
+('a', 'DT') 
+
+('fire', 'NN') 
+
+('to', 'TO') 
+
+('save', 'VB') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('they', 'PRP') 
+
+('arrived', 'VBD') 
+
+('in', 'IN') 
+
+('Hootalinqua', 'NNP') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('exhausted', 'VBN') 
+
+('.', '.') 
+
+('However', 'RB') 
+
+(',', ',') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('late', 'JJ') 
+
+('and', 'CC') 
+
+('Perrault', 'NNP') 
+
+('made', 'VBD') 
+
+('them', 'PRP') 
+
+('run', 'VB') 
+
+('faster', 'RBR') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('three', 'CD') 
+
+('days', 'NNS') 
+
+('they', 'PRP') 
+
+('traveled', 'VBD') 
+
+('one', 'CD') 
+
+('hundred', 'CD') 
+
+('and', 'CC') 
+
+('ten', 'VB') 
+
+('miles', 'NNS') 
+
+('and', 'CC') 
+
+('reached', 'VBD') 
+
+('a', 'DT') 
+
+('place', 'NN') 
+
+('called', 'VBN') 
+
+('Five', 'CD') 
+
+('Fingers', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('feet', 'NNS') 
+
+('were', 'VBD') 
+
+('not', 'RB') 
+
+('as', 'RB') 
+
+('hard', 'RB') 
+
+('as', 'IN') 
+
+('the', 'DT') 
+
+('feet', 'NNS') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('huskies', 'NNS') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('feet', 'NNS') 
+
+('were', 'VBD') 
+
+('still', 'RB') 
+
+('soft', 'JJ') 
+
+('because', 'IN') 
+
+('of', 'IN') 
+
+('his', 'PRP$') 
+
+('comfortable', 'JJ') 
+
+('life', 'NN') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('Judge', 'NNP') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('feet', 'NNS') 
+
+('hurt', 'VBP') 
+
+('a', 'DT') 
+
+('lot', 'NN') 
+
+('all', 'DT') 
+
+('day', 'NN') 
+
+('.', '.') 
+
+('That', 'DT') 
+
+('night', 'NN') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('camp', 'NN') 
+
+('he', 'PRP') 
+
+('lay', 'VBD') 
+
+('down', 'RP') 
+
+('like', 'IN') 
+
+('a', 'DT') 
+
+('dead', 'JJ') 
+
+('dog', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('hungry', 'JJ') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('walk', 'VB') 
+
+('to', 'TO') 
+
+('get', 'VB') 
+
+('his', 'PRP$') 
+
+('fish', 'NN') 
+
+('.', '.') 
+
+('So', 'RB') 
+
+('Francois', 'JJ') 
+
+('brought', 'VBD') 
+
+('it', 'PRP') 
+
+('to', 'TO') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Every', 'NNP') 
+
+('evening', 'NN') 
+
+('after', 'IN') 
+
+('dinner', 'NN') 
+
+('Francois', 'NNP') 
+
+('massaged', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('feet', 'NNS') 
+
+('for', 'IN') 
+
+('half', 'PDT') 
+
+('an', 'DT') 
+
+('hour', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('made', 'VBD') 
+
+('four', 'CD') 
+
+('little', 'JJ') 
+
+('shoes', 'NNS') 
+
+('for', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('Now', 'RB') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('more', 'RBR') 
+
+('comfortable', 'JJ') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('morning', 'NN') 
+
+('Francois', 'NNP') 
+
+('forgot', 'VBD') 
+
+('the', 'DT') 
+
+('shoes', 'NNS') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('lay', 'VBD') 
+
+('on', 'IN') 
+
+('his', 'PRP$') 
+
+('back', 'NN') 
+
+('with', 'IN') 
+
+('his', 'PRP$') 
+
+('feet', 'NNS') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('air', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('want', 'VB') 
+
+('to', 'TO') 
+
+('move', 'VB') 
+
+('without', 'IN') 
+
+('his', 'PRP$') 
+
+('shoes', 'NNS') 
+
+('.', '.') 
+
+('Later', 'NNP') 
+
+('his', 'PRP$') 
+
+('feet', 'NNS') 
+
+('grew', 'VBD') 
+
+('hard', 'RB') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('shoes', 'NNS') 
+
+('were', 'VBD') 
+
+('not', 'RB') 
+
+('necessary', 'JJ') 
+
+('.', '.') 
+
+('chapter', 'NN') 
+
+('five', 'CD') 
+
+('The', 'DT') 
+
+('Big', 'NNP') 
+
+('Fight', 'NNP') 
+
+('At', 'IN') 
+
+('Pelly', 'NNP') 
+
+('River', 'NNP') 
+
+('one', 'CD') 
+
+('morning', 'NN') 
+
+('Dolly', 'NNP') 
+
+('suddenly', 'RB') 
+
+('went', 'VBD') 
+
+('crazy', 'JJ') 
+
+('.', '.') 
+
+('She', 'PRP') 
+
+('howled', 'VBD') 
+
+('like', 'IN') 
+
+('a', 'DT') 
+
+('wolf', 'NN') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('jumped', 'VBD') 
+
+('at', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('knew', 'VBD') 
+
+('this', 'DT') 
+
+('was', 'VBD') 
+
+('something', 'NN') 
+
+('terrible', 'JJ') 
+
+('and', 'CC') 
+
+('ran', 'VBD') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('Dolly', 'NNP') 
+
+('was', 'VBD') 
+
+('behind', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('afraid', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('ran', 'VBD') 
+
+('as', 'RB') 
+
+('fast', 'RB') 
+
+('as', 'IN') 
+
+('he', 'PRP') 
+
+('could', 'MD') 
+
+('through', 'IN') 
+
+('the', 'DT') 
+
+('woods', 'NNS') 
+
+(',', ',') 
+
+('across', 'IN') 
+
+('the', 'DT') 
+
+('ice', 'NN') 
+
+('and', 'CC') 
+
+('back', 'RB') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('.', '.') 
+
+('Dolly', 'NNP') 
+
+('was', 'VBD') 
+
+('one', 'CD') 
+
+('step', 'NN') 
+
+('behind', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('could', 'MD') 
+
+('hear', 'VB') 
+
+('her', 'PRP$') 
+
+('growling', 'VBG') 
+
+('angrily', 'RB') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Buck', 'NNP') 
+
+('!', '.') 
+
+('Buck', 'NN') 
+
+('!', '.') 
+
+("''", "''") 
+
+('Francois', 'NNP') 
+
+('called', 'VBD') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Francois', 'NNP') 
+
+('can', 'MD') 
+
+('save', 'VB') 
+
+('me', 'PRP') 
+
+("'", "''") 
+
+('Buck', 'NNP') 
+
+('thought', 'VBD') 
+
+('and', 'CC') 
+
+('ran', 'VBD') 
+
+('to', 'TO') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('had', 'VBD') 
+
+('an', 'DT') 
+
+('axe', 'JJ') 
+
+('ready', 'NN') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('hand', 'NN') 
+
+('.', '.') 
+
+('As', 'IN') 
+
+('Buck', 'NNP') 
+
+('ran', 'VBD') 
+
+('past', 'IN') 
+
+('him', 'PRP') 
+
+('the', 'DT') 
+
+('axe', 'NN') 
+
+('fell', 'VBD') 
+
+('down', 'RB') 
+
+('on', 'IN') 
+
+('Dolly', 'NNP') 
+
+("'s", 'POS') 
+
+('head', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('lay', 'VBD') 
+
+('down', 'RB') 
+
+('near', 'IN') 
+
+('the', 'DT') 
+
+('sled', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('exhausted', 'VBN') 
+
+('.', '.') 
+
+('This', 'DT') 
+
+('was', 'VBD') 
+
+('Spitz', 'NNP') 
+
+("'s", 'POS') 
+
+('opportunity', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('jumped', 'VBD') 
+
+('at', 'IN') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('bit', 'VBD') 
+
+('him', 'PRP') 
+
+('very', 'RB') 
+
+('hard', 'RB') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('saw', 'VBD') 
+
+('this', 'DT') 
+
+('and', 'CC') 
+
+('hit', 'VBD') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('That', 'DT') 
+
+('Spitz', 'NNP') 
+
+('is', 'VBZ') 
+
+('a', 'DT') 
+
+('devil', 'NN') 
+
+("'", "''") 
+
+('said', 'VBD') 
+
+('Perrault', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Some', 'DT') 
+
+('day', 'NN') 
+
+('he', 'PRP') 
+
+('will', 'MD') 
+
+('kill', 'VB') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+("''", "''") 
+
+('``', '``') 
+
+('Buck', 'NNP') 
+
+('is', 'VBZ') 
+
+('like', 'IN') 
+
+('two', 'CD') 
+
+('devils', 'NNS') 
+
+('.', '.') 
+
+('i', 'NN') 
+
+('know', 'VBP') 
+
+('this', 'DT') 
+
+('for', 'IN') 
+
+('sure', 'JJ') 
+
+('.', '.') 
+
+('Some', 'DT') 
+
+('day', 'NN') 
+
+('Buck', 'NNP') 
+
+('will', 'MD') 
+
+('get', 'VB') 
+
+('very', 'RB') 
+
+('angry', 'JJ') 
+
+('and', 'CC') 
+
+('eat', 'VB') 
+
+('up', 'RP') 
+
+('Spitz', 'NNP') 
+
+("'", 'POS') 
+
+('Francois', 'NNP') 
+
+('said', 'VBD') 
+
+('.', '.') 
+
+('From', 'NNP') 
+
+('then', 'RB') 
+
+('on', 'IN') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('war', 'NN') 
+
+('between', 'IN') 
+
+('Spitz', 'NNP') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('Spitz', 'NNP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('lead-dog', 'JJ') 
+
+('and', 'CC') 
+
+('master', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('team', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('be', 'VB') 
+
+('the', 'DT') 
+
+('lead-dog', 'JJ') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('part', 'NN') 
+
+('of', 'IN') 
+
+('his', 'PRP$') 
+
+('nature', 'NN') 
+
+('.', '.') 
+
+('Spitz', 'NNP') 
+
+('knew', 'VBD') 
+
+('this', 'DT') 
+
+('and', 'CC') 
+
+('hated', 'VBD') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('dangerous', 'JJ') 
+
+('because', 'IN') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('strong', 'JJ') 
+
+(',', ',') 
+
+('clever', 'NN') 
+
+('and', 'CC') 
+
+('patient', 'NN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('made', 'VBD') 
+
+('mistakes', 'NNS') 
+
+('Buck', 'NNP') 
+
+('protected', 'VBD') 
+
+('them', 'PRP') 
+
+('from', 'IN') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('morning', 'NN') 
+
+('Pike', 'NN') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('want', 'VB') 
+
+('to', 'TO') 
+
+('get', 'VB') 
+
+('up', 'RP') 
+
+('and', 'CC') 
+
+('Spitz', 'NNP') 
+
+('looked', 'VBD') 
+
+('for', 'IN') 
+
+('him', 'PRP') 
+
+('everywhere', 'RB') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('he', 'PRP') 
+
+('found', 'VBD') 
+
+('Pike', 'NNP') 
+
+('he', 'PRP') 
+
+('jumped', 'VBD') 
+
+('at', 'IN') 
+
+('him', 'PRP') 
+
+('but', 'CC') 
+
+('Buck', 'NNP') 
+
+('suddenly', 'RB') 
+
+('attacked', 'VBD') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('whipped', 'VBD') 
+
+('Buck', 'NNP') 
+
+('with', 'IN') 
+
+('all', 'PDT') 
+
+('his', 'PRP$') 
+
+('strength', 'NN') 
+
+('.', '.') 
+
+('This', 'DT') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('stop', 'VB') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('whipped', 'VBD') 
+
+('him', 'PRP') 
+
+('again', 'RB') 
+
+('and', 'CC') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('saw', 'VBD') 
+
+('this', 'DT') 
+
+('and', 'CC') 
+
+('it', 'PRP') 
+
+('became', 'VBD') 
+
+('difficult', 'JJ') 
+
+('for', 'IN') 
+
+('Spitz', 'NNP') 
+
+('to', 'TO') 
+
+('lead', 'VB') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('Day', 'NNP') 
+
+('after', 'IN') 
+
+('day', 'NN') 
+
+('Buck', 'NNP') 
+
+('protected', 'VBD') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('from', 'IN') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('it', 'PRP') 
+
+('``', '``') 
+
+('secretly', 'RB') 
+
+('when', 'WRB') 
+
+('Francois', 'NNP') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('looking', 'VBG') 
+
+('.', '.') 
+
+('Things', 'NNS') 
+
+('began', 'VBD') 
+
+('to', 'TO') 
+
+('change', 'VB') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('team', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('respect', 'VB') 
+
+('or', 'CC') 
+
+('obey', 'VB') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('team', 'NN') 
+
+('became', 'VBD') 
+
+('worse', 'JJR') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('was', 'VBD') 
+
+('always', 'RB') 
+
+('more', 'RBR') 
+
+('trouble', 'NN') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('responsible', 'JJ') 
+
+('for', 'IN') 
+
+('it', 'PRP') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('was', 'VBD') 
+
+('worried', 'VBN') 
+
+('about', 'IN') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Those', 'DT') 
+
+('dogs', 'NNS') 
+
+('will', 'MD') 
+
+('have', 'VB') 
+
+('a', 'DT') 
+
+('big', 'JJ') 
+
+('fight', 'NN') 
+
+('one', 'CD') 
+
+('day', 'NN') 
+
+(',', ',') 
+
+("''", "''") 
+
+('he', 'PRP') 
+
+('thought', 'VBD') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('the', 'DT') 
+
+('days', 'NNS') 
+
+('passed', 'VBN') 
+
+('without', 'IN') 
+
+('a', 'DT') 
+
+('big', 'JJ') 
+
+('fight', 'NN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('arrived', 'VBD') 
+
+('in', 'IN') 
+
+('Dawson', 'NNP') 
+
+('City', 'NNP') 
+
+('on', 'IN') 
+
+('a', 'DT') 
+
+('cold', 'JJ') 
+
+('gray', 'JJ') 
+
+('afternoon', 'NN') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('were', 'VBD') 
+
+('many', 'JJ') 
+
+('men', 'NNS') 
+
+('and', 'CC') 
+
+('dogs', 'NNS') 
+
+('in', 'IN') 
+
+('Dawson', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('did', 'VBD') 
+
+('all', 'DT') 
+
+('kinds', 'NNS') 
+
+('of', 'IN') 
+
+('work', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('met', 'VBD') 
+
+('some', 'DT') 
+
+('Southland', 'NNP') 
+
+('dogs', 'NNS') 
+
+('but', 'CC') 
+
+('most', 'JJS') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('huskies', 'NNS') 
+
+('.', '.') 
+
+('At', 'IN') 
+
+('night', 'NN') 
+
+('there', 'EX') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('aurora', 'NN') 
+
+('borealis', 'NN') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('stars', 'NNS') 
+
+('danced', 'VBD') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('sky', 'NN') 
+
+('.', '.') 
+
+('Every', 'DT') 
+
+('night', 'NN') 
+
+('at', 'IN') 
+
+('nine', 'CD') 
+
+("o'clock", 'NN') 
+
+(',', ',') 
+
+('at', 'IN') 
+
+('twelve', 'NN') 
+
+('and', 'CC') 
+
+('at', 'IN') 
+
+('three', 'CD') 
+
+('all', 'PDT') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('howled', 'VBD') 
+
+('together', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('liked', 'VBD') 
+
+('to', 'TO') 
+
+('howl', 'VB') 
+
+('with', 'IN') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('strange', 'JJ') 
+
+('song', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('night', 'NN') 
+
+('from', 'IN') 
+
+('thousands', 'NNS') 
+
+('of', 'IN') 
+
+('years', 'NNS') 
+
+('ago', 'RB') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('song', 'NN') 
+
+('of', 'IN') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('ancestors', 'NNS') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('about', 'IN') 
+
+('the', 'DT') 
+
+('difficulties', 'NNS') 
+
+('of', 'IN') 
+
+('life', 'NN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('left', 'VBD') 
+
+('Dawson', 'NNP') 
+
+('after', 'IN') 
+
+('seven', 'CD') 
+
+('days', 'NNS') 
+
+('.', '.') 
+
+('Perrault', 'NNP') 
+
+('had', 'VBD') 
+
+('some', 'DT') 
+
+('important', 'JJ') 
+
+('letters', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('return', 'VB') 
+
+('to', 'TO') 
+
+('Dyea', 'NNP') 
+
+('as', 'RB') 
+
+('fast', 'RB') 
+
+('as', 'IN') 
+
+('possible', 'JJ') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('rested', 'VBN') 
+
+('and', 'CC') 
+
+('in', 'IN') 
+
+('good', 'JJ') 
+
+('condition', 'NN') 
+
+('.', '.') 
+
+('On', 'IN') 
+
+('the', 'DT') 
+
+('first', 'JJ') 
+
+('day', 'NN') 
+
+('they', 'PRP') 
+
+('traveled', 'VBD') 
+
+('fifty', 'JJ') 
+
+('miles', 'NNS') 
+
+('and', 'CC') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('second', 'JJ') 
+
+('day', 'NN') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('Yukon', 'NNP') 
+
+('River', 'NNP') 
+
+('near', 'IN') 
+
+('Pelly', 'NNP') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('had', 'VBD') 
+
+('many', 'JJ') 
+
+('problems', 'NNS') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('team', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('work', 'VB') 
+
+('well', 'RB') 
+
+('together', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('Spitz', 'NNP') 
+
+('hated', 'VBD') 
+
+('each', 'DT') 
+
+('other', 'JJ') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('respect', 'VB') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('were', 'VBD') 
+
+('not', 'RB') 
+
+('afraid', 'VBN') 
+
+('of', 'IN') 
+
+('him', 'PRP') 
+
+('anymore', 'RB') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('often', 'RB') 
+
+('stopped', 'VBD') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('because', 'IN') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('fighting', 'VBG') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('knew', 'VBD') 
+
+('that', 'IN') 
+
+('Buck', 'NNP') 
+
+('caused', 'VBD') 
+
+('the', 'DT') 
+
+('trouble', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('clever', 'JJ') 
+
+('and', 'CC') 
+
+('Francois', 'NNP') 
+
+('never', 'RB') 
+
+('saw', 'VBD') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('worked', 'VBD') 
+
+('hard', 'JJ') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('loved', 'VBD') 
+
+('pulling', 'VBG') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('night', 'NN') 
+
+('after', 'IN') 
+
+('dinner', 'NN') 
+
+('Dub', 'NNP') 
+
+('found', 'VBD') 
+
+('a', 'DT') 
+
+('snow', 'JJ') 
+
+('rabbit', 'NN') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('a', 'DT') 
+
+('moment', 'NN') 
+
+('all', 'PDT') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('running', 'VBG') 
+
+('after', 'IN') 
+
+('it', 'PRP') 
+
+('.', '.') 
+
+('Nearby', 'CC') 
+
+('there', 'EX') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('camp', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('Northwest', 'NNP') 
+
+('Police', 'NNP') 
+
+('with', 'IN') 
+
+('fifty', 'JJ') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('fifty', 'JJ') 
+
+('dogs', 'NNS') 
+
+('started', 'VBD') 
+
+('running', 'VBG') 
+
+('after', 'IN') 
+
+('the', 'DT') 
+
+('rabbit', 'NN') 
+
+('too', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('rabbit', 'NN') 
+
+('ran', 'VBD') 
+
+('quickly', 'RB') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('soft', 'JJ') 
+
+('snow', 'NN') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('more', 'RBR') 
+
+('difficult', 'JJ') 
+
+('for', 'IN') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('led', 'VBD') 
+
+('the', 'DT') 
+
+('pack', 'NN') 
+
+('of', 'IN') 
+
+('sixty', 'JJ') 
+
+('dogs', 'NNS') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('happy', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('hunting', 'VBG') 
+
+('his', 'PRP$') 
+
+('food', 'NN') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('felt', 'VBD') 
+
+('alive', 'JJ') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('splendid', 'JJ') 
+
+('body', 'NN') 
+
+('moved', 'VBD') 
+
+('forward', 'RB') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('white', 'JJ') 
+
+('moonlight', 'NN') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('end', 'NN') 
+
+('Spitz', 'NNP') 
+
+('caught', 'VBD') 
+
+('the', 'DT') 
+
+('rabbit', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('broke', 'VBD') 
+
+('its', 'PRP$') 
+
+('back', 'NN') 
+
+('with', 'IN') 
+
+('his', 'PRP$') 
+
+('teeth', 'NNS') 
+
+('and', 'CC') 
+
+('threw', 'VBD') 
+
+('it', 'PRP') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('air', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('attacked', 'VBD') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('fell', 'VBD') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('snow', 'NN') 
+
+('.', '.') 
+
+('Spitz', 'NNP') 
+
+('bit', 'NN') 
+
+('Buck', 'NNP') 
+
+('twice', 'RB') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('jumped', 'VBD') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('watched', 'VBD') 
+
+('Buck', 'NNP') 
+
+('carefully', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('knew', 'VBD') 
+
+('this', 'DT') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('big', 'JJ') 
+
+('fight', 'NN') 
+
+('.', '.') 
+
+('Either', 'CC') 
+
+('he', 'PRP') 
+
+('or', 'CC') 
+
+('Spitz', 'NNP') 
+
+('must', 'MD') 
+
+('die', 'VB') 
+
+('.', '.') 
+
+('Their', 'PRP$') 
+
+('ears', 'NNS') 
+
+('went', 'VBD') 
+
+('back', 'RB') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('growled', 'VBD') 
+
+('angrily', 'RB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('watched', 'VBD') 
+
+('each', 'DT') 
+
+('other', 'JJ') 
+
+('carefully', 'RB') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('circled', 'VBD') 
+
+('slowly', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('night', 'NN') 
+
+('was', 'VBD') 
+
+('silent', 'JJ') 
+
+('and', 'CC') 
+
+('everything', 'NN') 
+
+('was', 'VBD') 
+
+('white', 'JJ') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('moonlight', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('ate', 'VBP') 
+
+('the', 'DT') 
+
+('rabbit', 'NN') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('turned', 'VBD') 
+
+('to', 'TO') 
+
+('watch', 'VB') 
+
+('the', 'DT') 
+
+('fight', 'NN') 
+
+('.', '.') 
+
+('Spitz', 'NNP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('great', 'JJ') 
+
+('fighter', 'NN') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('intelligent', 'JJ') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('tried', 'VBD') 
+
+('to', 'TO') 
+
+('bite', 'VB') 
+
+('his', 'PRP$') 
+
+('throat', 'NN') 
+
+('but', 'CC') 
+
+('Spitz', 'NNP') 
+
+('always', 'RB') 
+
+('defended', 'VBD') 
+
+('himself', 'PRP') 
+
+('.', '.') 
+
+('Every', 'DT') 
+
+('time', 'NN') 
+
+('Buck', 'NNP') 
+
+('attacked', 'VBD') 
+
+(',', ',') 
+
+('Spitz', 'NNP') 
+
+('moved', 'VBD') 
+
+('away', 'RB') 
+
+('and', 'CC') 
+
+('bit', 'VB') 
+
+('him', 'PRP') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('side', 'NN') 
+
+('.', '.') 
+
+('Soon', 'NNP') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('covered', 'VBN') 
+
+('with', 'IN') 
+
+('blood', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('fight', 'NN') 
+
+('was', 'VBD') 
+
+('desperate', 'JJ') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('Buck', 'NNP') 
+
+('had', 'VBD') 
+
+('a', 'DT') 
+
+('good', 'JJ') 
+
+('imagination', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('fought', 'VBD') 
+
+('with', 'IN') 
+
+('his', 'PRP$') 
+
+('instinct', 'NN') 
+
+('but', 'CC') 
+
+('also', 'RB') 
+
+('with', 'IN') 
+
+('his', 'PRP$') 
+
+('head', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('attacked', 'VBD') 
+
+('again', 'RB') 
+
+('but', 'CC') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('last', 'JJ') 
+
+('minute', 'NN') 
+
+('he', 'PRP') 
+
+('went', 'VBD') 
+
+('under', 'IN') 
+
+('Spitz', 'NNP') 
+
+('and', 'CC') 
+
+('bit', 'VB') 
+
+('his', 'PRP$') 
+
+('left', 'JJ') 
+
+('leg', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('bone', 'NN') 
+
+('broke', 'VBD') 
+
+('and', 'CC') 
+
+('Spitz', 'NNP') 
+
+('stood', 'VBD') 
+
+('on', 'IN') 
+
+('three', 'CD') 
+
+('legs', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('attacked', 'VBD') 
+
+('three', 'CD') 
+
+('more', 'JJR') 
+
+('times', 'NNS') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('broke', 'VBD') 
+
+('his', 'PRP$') 
+
+('right', 'JJ') 
+
+('leg', 'NN') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('was', 'VBD') 
+
+('no', 'DT') 
+
+('hope', 'NN') 
+
+('for', 'IN') 
+
+('Spitz', 'NNP') 
+
+('now', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('silent', 'JJ') 
+
+('circle', 'NN') 
+
+('of', 'IN') 
+
+('dogs', 'NNS') 
+
+('moved', 'VBN') 
+
+('closer', 'RB') 
+
+('to', 'TO') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('waited', 'VBD') 
+
+('for', 'IN') 
+
+('the', 'DT') 
+
+('end', 'NN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('Buck', 'NNP') 
+
+('attacked', 'VBD') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('Spitz', 'NNP') 
+
+('fell', 'VBD') 
+
+('down', 'RB') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('snow', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('disappeared', 'VBD') 
+
+('under', 'IN') 
+
+('the', 'DT') 
+
+('circle', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('stood', 'VBD') 
+
+('and', 'CC') 
+
+('watched', 'VBD') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('champion', 'NN') 
+
+('.', '.') 
+
+('chapter', 'NN') 
+
+('six', 'CD') 
+
+('The', 'DT') 
+
+('New', 'NNP') 
+
+('Lead', 'NNP') 
+
+('The', 'DT') 
+
+('next', 'JJ') 
+
+('morning', 'NN') 
+
+('Francois', 'NNP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('find', 'VB') 
+
+('Spitz', 'NNP') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('saw', 'VBD') 
+
+('Buck', 'NNP') 
+
+('covered', 'VBD') 
+
+('with', 'IN') 
+
+('blood', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('What', 'WP') 
+
+('did', 'VBD') 
+
+('i', 'VB') 
+
+('say', 'VB') 
+
+('?', '.') 
+
+('Buck', 'NNP') 
+
+('is', 'VBZ') 
+
+('a', 'DT') 
+
+('great', 'JJ') 
+
+('fighter', 'NN') 
+
+('!', '.') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Francois', 'NNP') 
+
+('.', '.') 
+
+('Perrault', 'NN') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('wounds', 'NNS') 
+
+('on', 'IN') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('body', 'NN') 
+
+('and', 'CC') 
+
+('said', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('That', 'DT') 
+
+('Spitz', 'NNP') 
+
+('fought', 'MD') 
+
+('like', 'VB') 
+
+('a', 'DT') 
+
+('devil', 'NN') 
+
+('.', '.') 
+
+("''", "''") 
+
+('``', '``') 
+
+('And', 'CC') 
+
+('Buck', 'NNP') 
+
+('fought', 'MD') 
+
+('like', 'VB') 
+
+('two', 'CD') 
+
+('devils', 'NNS') 
+
+(',', ',') 
+
+("''", "''") 
+
+('Francois', 'NNP') 
+
+('said', 'VBD') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Now', 'RB') 
+
+('we', 'PRP') 
+
+('can', 'MD') 
+
+('travel', 'VB') 
+
+('faster', 'RBR') 
+
+('.', '.') 
+
+('No', 'DT') 
+
+('more', 'RBR') 
+
+('Spitz', 'NNP') 
+
+(',', ',') 
+
+('no', 'DT') 
+
+('more', 'RBR') 
+
+('trouble', 'NN') 
+
+('.', '.') 
+
+("''", "''") 
+
+('Francois', 'NNP') 
+
+('started', 'VBD') 
+
+('to', 'TO') 
+
+('harness', 'VB') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('walked', 'VBD') 
+
+('to', 'TO') 
+
+('Spitz', 'NNP') 
+
+("'s", 'POS') 
+
+('old', 'JJ') 
+
+('position', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('Francois', 'NNP') 
+
+('put', 'VBD') 
+
+('Solleks', 'NNP') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('lead', 'JJ') 
+
+('position', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('jumped', 'VBD') 
+
+('angrily', 'RB') 
+
+('at', 'IN') 
+
+('Solleks', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Eh', 'NNP') 
+
+('?', '.') 
+
+("''", "''") 
+
+('Francois', 'NNP') 
+
+('cried', 'VBD') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Look', 'VB') 
+
+('at', 'IN') 
+
+('that', 'DT') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('killed', 'VBD') 
+
+('Spitz', 'NNP') 
+
+('and', 'CC') 
+
+('now', 'RB') 
+
+('he', 'PRP') 
+
+('wants', 'VBZ') 
+
+('his', 'PRP$') 
+
+('place', 'NN') 
+
+('.', '.') 
+
+('Go', 'VB') 
+
+('away', 'RB') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+("''", "''") 
+
+('But', 'CC') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('move', 'VB') 
+
+('.', '.') 
+
+('Solleks', 'NNP') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('happy', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('afraid', 'JJ') 
+
+('of', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Francois', 'NNP') 
+
+('turned', 'VBD') 
+
+('his', 'PRP$') 
+
+('back', 'JJ') 
+
+('Buck', 'NNP') 
+
+('pushed', 'VBD') 
+
+('Solleks', 'NNP') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('was', 'VBD') 
+
+('angry', 'JJ') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Now', 'RB') 
+
+(',', ',') 
+
+('i', 'JJ') 
+
+("'ll", 'MD') 
+
+('show', 'VB') 
+
+('you', 'PRP') 
+
+('!', '.') 
+
+("''", "''") 
+
+('He', 'PRP') 
+
+('went', 'VBD') 
+
+('to', 'TO') 
+
+('get', 'VB') 
+
+('a', 'DT') 
+
+('heavy', 'JJ') 
+
+('club', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('remembered', 'VBD') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('red', 'JJ') 
+
+('sweater', 'NN') 
+
+('and', 'CC') 
+
+('moved', 'VBD') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Come', 'NNP') 
+
+('here', 'RB') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Francois', 'NNP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('obey', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('be', 'VB') 
+
+('the', 'DT') 
+
+('lead-dog', 'JJ') 
+
+('because', 'IN') 
+
+('he', 'PRP') 
+
+('won', 'VBD') 
+
+('the', 'DT') 
+
+('fight', 'NN') 
+
+('with', 'IN') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('two', 'CD') 
+
+('men', 'NNS') 
+
+('tried', 'VBD') 
+
+('to', 'TO') 
+
+('put', 'VB') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('harness', 'NN') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('always', 'RB') 
+
+('moved', 'VBD') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Come', 'NNP') 
+
+('here', 'RB') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+(',', ',') 
+
+("''", "''") 
+
+('Perrault', 'NNP') 
+
+('said', 'VBD') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('move', 'VB') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('late', 'RB') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('put', 'VBD') 
+
+('Solleks', 'NNP') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('old', 'JJ') 
+
+('place', 'NN') 
+
+('.', '.') 
+
+('Perrault', 'NN') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('his', 'PRP$') 
+
+('watch', 'NN') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('angry', 'JJ') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Put', 'VBD') 
+
+('down', 'RP') 
+
+('the', 'DT') 
+
+('club', 'NN') 
+
+(',', ',') 
+
+('Francois', 'NNP') 
+
+('!', '.') 
+
+("''", "''") 
+
+('Francois', 'NNP') 
+
+('put', 'VBD') 
+
+('down', 'RP') 
+
+('the', 'DT') 
+
+('club', 'NN') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('came', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('front', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('team', 'NN') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('put', 'VBD') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('harness', 'NN') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('started', 'VBD') 
+
+('moving', 'VBG') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('an', 'DT') 
+
+('excellent', 'JJ') 
+
+('lead-dog', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('moved', 'VBD') 
+
+('and', 'CC') 
+
+('thought', 'VBD') 
+
+('quickly', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('worked', 'VBN') 
+
+('harder', 'NN') 
+
+('with', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('team', 'NN') 
+
+('traveled', 'VBD') 
+
+('faster', 'RBR') 
+
+('and', 'CC') 
+
+('faster', 'RBR') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Buck', 'NNP') 
+
+('is', 'VBZ') 
+
+('the', 'DT') 
+
+('best', 'JJS') 
+
+('dog', 'NN') 
+
+('!', '.') 
+
+('The', 'DT') 
+
+('very', 'RB') 
+
+('best', 'JJS') 
+
+('!', '.') 
+
+("''", "''") 
+
+('Francois', 'NNP') 
+
+('said', 'VBD') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('45â°f', 'CD') 
+
+('below', 'IN') 
+
+('zero', 'NN') 
+
+('.', '.') 
+
+('Some', 'DT') 
+
+('days', 'NNS') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('traveled', 'VBD') 
+
+('sixty', 'JJ') 
+
+('miles', 'NNS') 
+
+('or', 'CC') 
+
+('more', 'JJR') 
+
+('.', '.') 
+
+('After', 'IN') 
+
+('fourteen', 'JJ') 
+
+('days', 'NNS') 
+
+('they', 'PRP') 
+
+('reached', 'VBD') 
+
+('Skagway', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dog', 'NN') 
+
+('team', 'NN') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('center', 'NN') 
+
+('of', 'IN') 
+
+('attention', 'NN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('the', 'DT') 
+
+('two', 'CD') 
+
+('men', 'NNS') 
+
+('received', 'VBD') 
+
+('orders', 'NNS') 
+
+('from', 'IN') 
+
+('the', 'DT') 
+
+('Canadian', 'JJ') 
+
+('government', 'NN') 
+
+('.', '.') 
+
+('Francois', 'NNP') 
+
+('put', 'VBD') 
+
+('his', 'PRP$') 
+
+('arms', 'NNS') 
+
+('around', 'IN') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('cried', 'VBN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('the', 'DT') 
+
+('two', 'CD') 
+
+('men', 'NNS') 
+
+('left', 'VBD') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('see', 'VB') 
+
+('them', 'PRP') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('Another', 'DT') 
+
+('man', 'NN') 
+
+('took', 'VBD') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('team', 'NN') 
+
+('back', 'RB') 
+
+('to', 'TO') 
+
+('Dawson', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('sled', 'NN') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('heavy', 'JJ') 
+
+('because', 'IN') 
+
+('it', 'PRP') 
+
+('carried', 'VBD') 
+
+('mail', 'NN') 
+
+('for', 'IN') 
+
+('the', 'DT') 
+
+('gold', 'NN') 
+
+('miners', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('like', 'IN') 
+
+('it', 'PRP') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('worked', 'VBN') 
+
+('hard', 'RB') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('an', 'DT') 
+
+('interesting', 'JJ') 
+
+('life', 'NN') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('day', 'NN') 
+
+('was', 'VBD') 
+
+('like', 'IN') 
+
+('another', 'DT') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('started', 'VBD') 
+
+('before', 'IN') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('light', 'JJ') 
+
+('.', '.') 
+
+('At', 'IN') 
+
+('night', 'NN') 
+
+('they', 'PRP') 
+
+('camped', 'VBD') 
+
+('arid', 'VB') 
+
+('this', 'DT') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('best', 'JJS') 
+
+('part', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('day', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('ate', 'VBP') 
+
+('some', 'DT') 
+
+('fish', 'NN') 
+
+('and', 'CC') 
+
+('rested', 'VBN') 
+
+('by', 'IN') 
+
+('the', 'DT') 
+
+('fire', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('loved', 'VBD') 
+
+('to', 'TO') 
+
+('rest', 'VB') 
+
+('by', 'IN') 
+
+('the', 'DT') 
+
+('fire', 'NN') 
+
+('.', '.') 
+
+('Sometimes', 'CC') 
+
+('he', 'PRP') 
+
+('thought', 'VBD') 
+
+('of', 'IN') 
+
+('Judge', 'NNP') 
+
+('Miller', 'NNP') 
+
+("'s", 'POS') 
+
+('big', 'JJ') 
+
+('house', 'NN') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('life', 'NN') 
+
+('there', 'RB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('also', 'RB') 
+
+('thought', 'VBD') 
+
+('about', 'IN') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('red', 'JJ') 
+
+('sweater', 'NN') 
+
+(',', ',') 
+
+('the', 'DT') 
+
+('death', 'NN') 
+
+('of', 'IN') 
+
+('Curly', 'NNP') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('big', 'JJ') 
+
+('fight', 'NN') 
+
+('with', 'IN') 
+
+('Spitz', 'NNP') 
+
+('.', '.') 
+
+('Other', 'JJ') 
+
+('times', 'NNS') 
+
+('he', 'PRP') 
+
+('remembered', 'VBD') 
+
+('his', 'PRP$') 
+
+('parents', 'NNS') 
+
+(',', ',') 
+
+('his', 'PRP$') 
+
+('ancestors', 'NNS') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('world', 'NN') 
+
+('of', 'IN') 
+
+('long', 'JJ') 
+
+('ago', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('journey', 'NN') 
+
+('was', 'VBD') 
+
+('hard', 'JJ') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('mail', 'NN') 
+
+('was', 'VBD') 
+
+('heavy', 'JJ') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('tired', 'VBN') 
+
+('and', 'CC') 
+
+('weak', 'JJ') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('needed', 'VBD') 
+
+('a', 'DT') 
+
+('long', 'JJ') 
+
+('rest', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('after', 'IN') 
+
+('only', 'RB') 
+
+('two', 'CD') 
+
+('days', 'NNS') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('traveling', 'VBG') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('men', 'NNS') 
+
+('were', 'VBD') 
+
+('unhappy', 'JJ') 
+
+('.', '.') 
+
+('Each', 'DT') 
+
+('night', 'NN') 
+
+('the', 'DT') 
+
+('men', 'NNS') 
+
+('took', 'VBD') 
+
+('care', 'NN') 
+
+('of', 'IN') 
+
+('their', 'PRP$') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('their', 'PRP$') 
+
+('feet', 'NNS') 
+
+('but', 'CC') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('became', 'VBD') 
+
+('weaker', 'JJR') 
+
+('every', 'DT') 
+
+('day', 'NN') 
+
+('.', '.') 
+
+('Billee', 'NNP') 
+
+('cried', 'VBD') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('sleep', 'NN') 
+
+('and', 'CC') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('unfriendly', 'RB') 
+
+('.', '.') 
+
+('Dave', 'NNP') 
+
+('was', 'VBD') 
+
+('tired', 'VBN') 
+
+('and', 'CC') 
+
+('ill.', 'JJ') 
+
+('Something', 'NNP') 
+
+('was', 'VBD') 
+
+('wrong', 'JJ') 
+
+('with', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('they', 'PRP') 
+
+('stopped', 'VBD') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('evening', 'NN') 
+
+('he', 'PRP') 
+
+('lay', 'VBD') 
+
+('down', 'RB') 
+
+('and', 'CC') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('stand', 'VB') 
+
+('up', 'RP') 
+
+('until', 'IN') 
+
+('morning', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('men', 'NNS') 
+
+('were', 'VBD') 
+
+('worried', 'VBN') 
+
+('about', 'IN') 
+
+('Dave', 'NNP') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('understand', 'VB') 
+
+('his', 'PRP$') 
+
+('illness', 'NN') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('day', 'NN') 
+
+('Dave', 'NNP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('pull', 'VB') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('anymore', 'RB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('cried', 'VBD') 
+
+('sadly', 'RB') 
+
+('when', 'WRB') 
+
+('Solleks', 'NNP') 
+
+('took', 'VBD') 
+
+('his', 'PRP$') 
+
+('place', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('next', 'JJ') 
+
+('morning', 'NN') 
+
+('Dave', 'NNP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('move', 'VB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('driver', 'NN') 
+
+('took', 'VBD') 
+
+('his', 'PRP$') 
+
+('pistol', 'NN') 
+
+('and', 'CC') 
+
+('walked', 'VBD') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('heard', 'VBD') 
+
+('a', 'DT') 
+
+('shot', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('man', 'NN') 
+
+('came', 'VBD') 
+
+('back', 'RB') 
+
+('quickly', 'RB') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('moved', 'VBD') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('knew', 'VBD') 
+
+('what', 'WP') 
+
+('happened', 'VBD') 
+
+('to', 'TO') 
+
+('Dave', 'NNP') 
+
+('.', '.') 
+
+('Thirty', 'NNP') 
+
+('days', 'NNS') 
+
+('after', 'IN') 
+
+('leaving', 'VBG') 
+
+('Dawson', 'NNP') 
+
+('City', 'NNP') 
+
+('the', 'DT') 
+
+('team', 'NN') 
+
+('arrived', 'VBD') 
+
+('in', 'IN') 
+
+('Skagway', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('exhausted', 'VBN') 
+
+('and', 'CC') 
+
+('thin', 'JJ') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('needed', 'VBD') 
+
+('a', 'DT') 
+
+('long', 'JJ') 
+
+('rest', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('men', 'NNS') 
+
+('needed', 'VBD') 
+
+('new', 'JJ') 
+
+(',', ',') 
+
+('strong', 'JJ') 
+
+('dogs', 'NNS') 
+
+('to', 'TO') 
+
+('pull', 'VB') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('sold', 'VBD') 
+
+('the', 'DT') 
+
+('old', 'JJ') 
+
+(',', ',') 
+
+('tired', 'JJ') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('Two', 'CD') 
+
+('American', 'JJ') 
+
+('men', 'NNS') 
+
+('called', 'VBN') 
+
+('Hal', 'NNP') 
+
+('and', 'CC') 
+
+('Charles', 'NNP') 
+
+('bought', 'VBD') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('team', 'NN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('bought', 'VBD') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('too', 'RB') 
+
+('.', '.') 
+
+('Charles', 'NNP') 
+
+('was', 'VBD') 
+
+('forty', 'JJ') 
+
+('years', 'NNS') 
+
+('old', 'JJ') 
+
+('and', 'CC') 
+
+('Hal', 'NNP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('young', 'JJ') 
+
+('man', 'NN') 
+
+('.', '.') 
+
+('Charles', 'NNP') 
+
+("'", 'POS') 
+
+('wife', 'NN') 
+
+('Mercedes', 'NNP') 
+
+('was', 'VBD') 
+
+('also', 'RB') 
+
+('with', 'IN') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('knew', 'VBD') 
+
+('nothing', 'NN') 
+
+('about', 'IN') 
+
+('life', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('Northland', 'NNP') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('made', 'VBD') 
+
+('many', 'JJ') 
+
+('mistakes', 'NNS') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('put', 'VBD') 
+
+('too', 'RB') 
+
+('many', 'JJ') 
+
+('things', 'NNS') 
+
+('on', 'IN') 
+
+('their', 'PRP$') 
+
+('sled', 'VBN') 
+
+('and', 'CC') 
+
+('tried', 'VBN') 
+
+('to', 'TO') 
+
+('start', 'VB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('pulled', 'VBD') 
+
+('hard', 'RB') 
+
+('for', 'IN') 
+
+('a', 'DT') 
+
+('few', 'JJ') 
+
+('moments', 'NNS') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('stopped', 'VBD') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('move', 'VB') 
+
+('it', 'PRP') 
+
+('because', 'IN') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('too', 'RB') 
+
+('heavy', 'JJ') 
+
+('.', '.') 
+
+('``', '``') 
+
+('These', 'DT') 
+
+('lazy', 'JJ') 
+
+('animals', 'NNS') 
+
+('!', '.') 
+
+("''", "''") 
+
+('cried', 'VBD') 
+
+('Hal', 'NNP') 
+
+('with', 'IN') 
+
+('a', 'DT') 
+
+('whip', 'NN') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('hand', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('They', 'PRP') 
+
+("'re", 'VBP') 
+
+('very', 'RB') 
+
+('weak', 'JJ') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('a', 'DT') 
+
+('man', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('They', 'PRP') 
+
+('need', 'VBP') 
+
+('a', 'DT') 
+
+('rest', 'NN') 
+
+('.', '.') 
+
+("''", "''") 
+
+('``', '``') 
+
+('Nonsense', 'NN') 
+
+('!', '.') 
+
+('They', 'PRP') 
+
+("'re", 'VBP') 
+
+('very', 'RB') 
+
+('lazy', 'JJ') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Hal', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Mush', 'JJ') 
+
+('!', '.') 
+
+("''", "''") 
+
+('he', 'PRP') 
+
+('cried', 'VBD') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Mush', 'JJ') 
+
+('!', '.') 
+
+("''", "''") 
+
+('Hal', 'NNP') 
+
+('whipped', 'VBD') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('again', 'RB') 
+
+('and', 'CC') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('Another', 'DT') 
+
+('man', 'NN') 
+
+('said', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('i', 'NN') 
+
+('do', 'VBP') 
+
+("n't", 'RB') 
+
+('care', 'VB') 
+
+('about', 'IN') 
+
+('you', 'PRP') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('i', 'VBZ') 
+
+('care', 'VBP') 
+
+('about', 'IN') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('Break', 'VB') 
+
+('the', 'DT') 
+
+('ice', 'NN') 
+
+('around', 'IN') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+(',', ',') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('can', 'MD') 
+
+('pull', 'VB') 
+
+('.', '.') 
+
+("''", "''") 
+
+('Hal', 'NNP') 
+
+('broke', 'VBD') 
+
+('the', 'DT') 
+
+('ice', 'NN') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('moved', 'VBD') 
+
+('forward', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('unhappy', 'JJ') 
+
+('team', 'NN') 
+
+('moved', 'VBD') 
+
+('on', 'IN') 
+
+('.', '.') 
+
+('Day', 'NNP') 
+
+('after', 'IN') 
+
+('day', 'NN') 
+
+('Hal', 'NNP') 
+
+('whipped', 'VBD') 
+
+('the', 'DT') 
+
+('poor', 'JJ') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('gave', 'VBD') 
+
+('them', 'PRP') 
+
+('little', 'JJ') 
+
+('food', 'NN') 
+
+('to', 'TO') 
+
+('eat', 'VB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('were', 'VBD') 
+
+('very', 'RB') 
+
+('tired', 'JJ') 
+
+('and', 'CC') 
+
+('very', 'RB') 
+
+('hungry', 'JJ') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('looked', 'VBD') 
+
+('like', 'IN') 
+
+('skeletons', 'NNS') 
+
+('.', '.') 
+
+('Dub', 'NNP') 
+
+('hurt', 'VBD') 
+
+('himself', 'PRP') 
+
+('and', 'CC') 
+
+('was', 'VBD') 
+
+('shot', 'VBN') 
+
+('.', '.') 
+
+('Billee', 'NNP') 
+
+('and', 'CC') 
+
+('some', 'DT') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('died', 'VBD') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Soon', 'NNP') 
+
+('we', 'PRP') 
+
+('will', 'MD') 
+
+('all', 'DT') 
+
+('die', 'VB') 
+
+(',', ',') 
+
+("''", "''") 
+
+('Buck', 'NNP') 
+
+('thought', 'VBD') 
+
+('.', '.') 
+
+('chapter', 'NN') 
+
+('seven', 'CD') 
+
+('For', 'IN') 
+
+('the', 'DT') 
+
+('Love', 'NNP') 
+
+('of', 'IN') 
+
+('a', 'DT') 
+
+('Man', 'NNP') 
+
+('Only', 'RB') 
+
+('five', 'CD') 
+
+('dogs', 'NNS') 
+
+('reached', 'VBD') 
+
+('John', 'NNP') 
+
+('Thornton', 'NNP') 
+
+("'s", 'POS') 
+
+('camp', 'NN') 
+
+(':', ':') 
+
+('Joe', 'NNP') 
+
+(',', ',') 
+
+('Pike', 'NNP') 
+
+(',', ',') 
+
+('Solleks', 'NNP') 
+
+(',', ',') 
+
+('Teek', 'NNP') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('fell', 'VBD') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('ground', 'NN') 
+
+('and', 'CC') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('move', 'VB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('were', 'VBD') 
+
+('almost', 'RB') 
+
+('dead', 'JJ') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('nearly', 'RB') 
+
+('the', 'DT') 
+
+('end', 'NN') 
+
+('of', 'IN') 
+
+('winter', 'NN') 
+
+('and', 'CC') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('beautiful', 'JJ') 
+
+('day', 'NN') 
+
+('.', '.') 
+
+('John', 'NNP') 
+
+('Thornton', 'NNP') 
+
+('was', 'VBD') 
+
+('repairing', 'VBG') 
+
+('an', 'DT') 
+
+('axe', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Is', 'VBZ') 
+
+('it', 'PRP') 
+
+('safe', 'JJ') 
+
+('to', 'TO') 
+
+('cross', 'VB') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('here', 'RB') 
+
+('?', '.') 
+
+("''", "''") 
+
+('asked', 'VBD') 
+
+('Hal', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Oh', 'NNP') 
+
+('no', 'DT') 
+
+(',', ',') 
+
+('it', 'PRP') 
+
+("'s", 'VBZ') 
+
+('very', 'RB') 
+
+('dangerous', 'JJ') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('ice', 'NN') 
+
+('is', 'VBZ') 
+
+('too', 'RB') 
+
+('thin', 'JJ') 
+
+(',', ',') 
+
+("''", "''") 
+
+('answered', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('Hal', 'NNP') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('him', 'PRP') 
+
+('and', 'CC') 
+
+('said', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('i', 'NN') 
+
+('do', 'VBP') 
+
+("n't", 'RB') 
+
+('believe', 'VB') 
+
+('you', 'PRP') 
+
+('.', '.') 
+
+('We', 'PRP') 
+
+('must', 'MD') 
+
+('go', 'VB') 
+
+('to', 'TO') 
+
+('Dawson', 'NNP') 
+
+('.', '.') 
+
+("''", "''") 
+
+('He', 'PRP') 
+
+('took', 'VBD') 
+
+('his', 'PRP$') 
+
+('whip', 'NN') 
+
+('and', 'CC') 
+
+('cried', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('Come', 'NNP') 
+
+('on', 'IN') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+('!', '.') 
+
+('Let', 'NNP') 
+
+("'s", 'POS') 
+
+('go', 'VB') 
+
+('!', '.') 
+
+("''", "''") 
+
+('Thornton', 'NNP') 
+
+('knew', 'VBD') 
+
+('these', 'DT') 
+
+('people', 'NNS') 
+
+('were', 'VBD') 
+
+('stupid', 'JJ') 
+
+('and', 'CC') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('understand', 'VB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('team', 'NN') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('move', 'VB') 
+
+('.', '.') 
+
+('After', 'IN') 
+
+('a', 'DT') 
+
+('while', 'NN') 
+
+('Solleks', 'NNP') 
+
+('slowly', 'RB') 
+
+('stood', 'VBD') 
+
+('up', 'RP') 
+
+('.', '.') 
+
+('Joe', 'NNP') 
+
+('was', 'VBD') 
+
+('crying', 'VBG') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('stood', 'VBD') 
+
+('up', 'RP') 
+
+('.', '.') 
+
+('Pike', 'NNP') 
+
+('tried', 'VBD') 
+
+('twice', 'RB') 
+
+('and', 'CC') 
+
+('fell', 'VBD') 
+
+('down', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('third', 'JJ') 
+
+('time', 'NN') 
+
+('he', 'PRP') 
+
+('stood', 'VBD') 
+
+('up', 'RP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('try', 'VB') 
+
+('.', '.') 
+
+('Hal', 'NNP') 
+
+('whipped', 'VBD') 
+
+('him', 'PRP') 
+
+('but', 'CC') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('move', 'VB') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('speak', 'VB') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('.', '.') 
+
+('Hal', 'NNP') 
+
+('was', 'VBD') 
+
+('furious', 'JJ') 
+
+('and', 'CC') 
+
+('took', 'VBD') 
+
+('the', 'DT') 
+
+('club', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('hit', 'VBD') 
+
+('Buck', 'NNP') 
+
+('again', 'RB') 
+
+('and', 'CC') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('want', 'VB') 
+
+('to', 'TO') 
+
+('stand', 'VB') 
+
+('up', 'RP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('had', 'VBD') 
+
+('a', 'DT') 
+
+('strange', 'JJ') 
+
+('feeling', 'NN') 
+
+('of', 'IN') 
+
+('doom', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('saw', 'VBD') 
+
+('thin', 'JJ') 
+
+('ice', 'NN') 
+
+('in', 'IN') 
+
+('front', 'NN') 
+
+('of', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('After', 'IN') 
+
+('so', 'RB') 
+
+('much', 'JJ') 
+
+('suffering', 'NN') 
+
+('he', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('feel', 'VB') 
+
+('the', 'DT') 
+
+('club', 'NN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('suddenly', 'RB') 
+
+('Thornton', 'NNP') 
+
+('jumped', 'VBD') 
+
+('on', 'IN') 
+
+('Hal', 'NNP') 
+
+('and', 'CC') 
+
+('threw', 'VBD') 
+
+('him', 'PRP') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('ground', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Do', 'VBP') 
+
+("n't", 'RB') 
+
+('hit', 'VB') 
+
+('that', 'DT') 
+
+('dog', 'NN') 
+
+('again', 'RB') 
+
+('or', 'CC') 
+
+('i', 'VB') 
+
+("'ll", 'MD') 
+
+('kill', 'VB') 
+
+('you', 'PRP') 
+
+(',', ',') 
+
+("''", "''") 
+
+('Thornton', 'NNP') 
+
+('cried', 'VBD') 
+
+('.', '.') 
+
+('``', '``') 
+
+('It', 'PRP') 
+
+("'s", 'VBZ') 
+
+('my', 'PRP$') 
+
+('dog', 'NN') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Hal', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Go', 'VB') 
+
+('away', 'RB') 
+
+('or', 'CC') 
+
+('i', 'JJ') 
+
+("'ll", 'MD') 
+
+('hit', 'VB') 
+
+('you', 'PRP') 
+
+('too', 'RB') 
+
+('.', '.') 
+
+('i', 'JJ') 
+
+("'m", 'VBP') 
+
+('going', 'VBG') 
+
+('to', 'TO') 
+
+('Dawson', 'NNP') 
+
+('.', '.') 
+
+("''", "''") 
+
+('Thornton', 'NNP') 
+
+('stood', 'VBD') 
+
+('between', 'IN') 
+
+('him', 'PRP') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('Hal', 'NNP') 
+
+('took', 'VBD') 
+
+('out', 'RP') 
+
+('his', 'PRP$') 
+
+('long', 'JJ') 
+
+('knife', 'NN') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('knocked', 'VBD') 
+
+('it', 'PRP') 
+
+('out', 'IN') 
+
+('of', 'IN') 
+
+('Hal', 'NNP') 
+
+("'s", 'POS') 
+
+('hand', 'NN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('Thornton', 'NNP') 
+
+('picked', 'VBD') 
+
+('it', 'PRP') 
+
+('up', 'RP') 
+
+('and', 'CC') 
+
+('cut', 'VB') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('harness', 'NN') 
+
+('.', '.') 
+
+('Hal', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('want', 'VB') 
+
+('to', 'TO') 
+
+('fight', 'VB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('almost', 'RB') 
+
+('dead', 'JJ') 
+
+('.', '.') 
+
+('a', 'DT') 
+
+('few', 'JJ') 
+
+('minutes', 'NNS') 
+
+('later', 'RB') 
+
+('Hal', 'NNP') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('sled', 'JJ') 
+
+('went', 'VBD') 
+
+('along', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('raised', 'VBD') 
+
+('his', 'PRP$') 
+
+('head', 'NN') 
+
+('and', 'CC') 
+
+('saw', 'NN') 
+
+('Pike', 'NNP') 
+
+(',', ',') 
+
+('Solleks', 'NNP') 
+
+(',', ',') 
+
+('Joe', 'NNP') 
+
+('and', 'CC') 
+
+('Teek', 'NNP') 
+
+('pulling', 'VBG') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('examined', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('body', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('looking', 'VBG') 
+
+('for', 'IN') 
+
+('broken', 'JJ') 
+
+('bones', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('terribly', 'RB') 
+
+('thin', 'JJ') 
+
+('and', 'CC') 
+
+('weak', 'JJ') 
+
+('.', '.') 
+
+('``', '``') 
+
+('You', 'PRP') 
+
+('have', 'VBP') 
+
+('many', 'JJ') 
+
+('wounds', 'NNS') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('no', 'DT') 
+
+('broken', 'JJ') 
+
+('bones', 'NNS') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('Both', 'DT') 
+
+('dog', 'NN') 
+
+('and', 'CC') 
+
+('man', 'NN') 
+
+('watched', 'VBD') 
+
+('the', 'DT') 
+
+('sled', 'VBN') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('crossing', 'VBG') 
+
+('the', 'DT') 
+
+('ice', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('middle', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('.', '.') 
+
+('Suddenly', 'RB') 
+
+('the', 'DT') 
+
+('back', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('sled', 'JJ') 
+
+('went', 'VBD') 
+
+('down', 'RB') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('front', 'NN') 
+
+('went', 'VBD') 
+
+('up', 'RB') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('lot', 'NN') 
+
+('of', 'IN') 
+
+('screaming', 'VBG') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('a', 'DT') 
+
+('big', 'JJ') 
+
+('piece', 'NN') 
+
+('of', 'IN') 
+
+('ice', 'NN') 
+
+('broke', 'VBD') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('dogs', 'NNS') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('people', 'NNS') 
+
+('disappeared', 'VBD') 
+
+('.', '.') 
+
+('John', 'NNP') 
+
+('Thornton', 'NNP') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('each', 'DT') 
+
+('other', 'JJ') 
+
+('.', '.') 
+
+('``', '``') 
+
+('You', 'PRP') 
+
+('poor', 'JJ') 
+
+('dog', 'NN') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('licked', 'VBD') 
+
+('his', 'PRP$') 
+
+('hand', 'NN') 
+
+('.', '.') 
+
+('John', 'NNP') 
+
+('Thornton', 'NNP') 
+
+('was', 'VBD') 
+
+('ill', 'RB') 
+
+('all', 'DT') 
+
+('winter', 'NN') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('friends', 'NNS') 
+
+('left', 'VBD') 
+
+('him', 'PRP') 
+
+('at', 'IN') 
+
+('White', 'NNP') 
+
+('River', 'NNP') 
+
+('while', 'IN') 
+
+('they', 'PRP') 
+
+('went', 'VBD') 
+
+('to', 'TO') 
+
+('Dawson', 'NNP') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('had', 'VBD') 
+
+('a', 'DT') 
+
+('lot', 'NN') 
+
+('of', 'IN') 
+
+('food', 'NN') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('comfortable', 'JJ') 
+
+('.', '.') 
+
+('Now', 'RB') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('spring', 'NN') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('better', 'RBR') 
+
+('.', '.') 
+
+('During', 'IN') 
+
+('the', 'DT') 
+
+('warm', 'JJ') 
+
+('spring', 'NN') 
+
+('days', 'NNS') 
+
+('he', 'PRP') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('sat', 'VBN') 
+
+('by', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('watched', 'VBD') 
+
+('the', 'DT') 
+
+('water', 'NN') 
+
+('and', 'CC') 
+
+('listened', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('birds', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('needed', 'VBD') 
+
+('the', 'DT') 
+
+('long', 'JJ') 
+
+('rest', 'NN') 
+
+('.', '.') 
+
+('Slowly', 'RB') 
+
+('he', 'PRP') 
+
+('became', 'VBD') 
+
+('stronger', 'JJR') 
+
+('and', 'CC') 
+
+('fatter', 'RBR') 
+
+('.', '.') 
+
+('John', 'NNP') 
+
+('Thornton', 'NNP') 
+
+('had', 'VBD') 
+
+('two', 'CD') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('Skeet', 'NNP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('small', 'JJ') 
+
+('dog', 'NN') 
+
+('and', 'CC') 
+
+('she', 'PRP') 
+
+('made', 'VBD') 
+
+('friends', 'NNS') 
+
+('with', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('ill', 'JJ') 
+
+('she', 'PRP') 
+
+('took', 'VBD') 
+
+('care', 'NN') 
+
+('of', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('She', 'PRP') 
+
+('washed', 'VBD') 
+
+('his', 'PRP$') 
+
+('cuts', 'NNS') 
+
+('with', 'IN') 
+
+('her', 'PRP$') 
+
+('tongue', 'NN') 
+
+('.', '.') 
+
+('Nig', 'NNP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('big', 'JJ') 
+
+('friendly', 'JJ') 
+
+('dog', 'NN') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('eyes', 'NNS') 
+
+('laughed', 'VBN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Buck', 'NNP') 
+
+('became', 'VBD') 
+
+('stronger', 'JJR') 
+
+('the', 'DT') 
+
+('three', 'CD') 
+
+('dogs', 'NNS') 
+
+('played', 'VBN') 
+
+('together', 'RB') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('sometimes', 'RB') 
+
+('played', 'VBD') 
+
+('with', 'IN') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('days', 'NNS') 
+
+('passed', 'VBD') 
+
+('happily', 'RB') 
+
+('.', '.') 
+
+('For', 'IN') 
+
+('the', 'DT') 
+
+('first', 'JJ') 
+
+('time', 'NN') 
+
+('Buck', 'NNP') 
+
+('learned', 'VBD') 
+
+('to', 'TO') 
+
+('love', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('and', 'CC') 
+
+('Judge', 'NNP') 
+
+('Miller', 'NNP') 
+
+('were', 'VBD') 
+
+('very', 'RB') 
+
+('good', 'JJ') 
+
+('friends', 'NNS') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('love', 'VB') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('John', 'NNP') 
+
+('Thornton', 'NNP') 
+
+('saved', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('life', 'NN') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('perfect', 'JJ') 
+
+('master', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('loved', 'VBD') 
+
+('his', 'PRP$') 
+
+('dogs', 'NNS') 
+
+('and', 'CC') 
+
+('took', 'VBD') 
+
+('good', 'JJ') 
+
+('care', 'NN') 
+
+('of', 'IN') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('were', 'VBD') 
+
+('like', 'IN') 
+
+('his', 'PRP$') 
+
+('children', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('always', 'RB') 
+
+('talked', 'VBD') 
+
+('to', 'TO') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('took', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('head', 'NN') 
+
+('between', 'IN') 
+
+('his', 'PRP$') 
+
+('hands', 'NNS') 
+
+('and', 'CC') 
+
+('shook', 'VB') 
+
+('it', 'PRP') 
+
+('lovingly', 'RB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('adored', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Thornton', 'NNP') 
+
+('touched', 'VBD') 
+
+('him', 'PRP') 
+
+('or', 'CC') 
+
+('spoke', 'VBD') 
+
+('to', 'TO') 
+
+('him', 'PRP') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('wild', 'JJ') 
+
+('with', 'IN') 
+
+('happiness', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('sat', 'VBD') 
+
+('near', 'IN') 
+
+('Thornton', 'NNP') 
+
+('and', 'CC') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('his', 'PRP$') 
+
+('face', 'NN') 
+
+('for', 'IN') 
+
+('hours', 'NNS') 
+
+('.', '.') 
+
+('At', 'IN') 
+
+('first', 'JJ') 
+
+('Buck', 'NNP') 
+
+('followed', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('everywhere', 'RB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('want', 'VB') 
+
+('Thornton', 'NNP') 
+
+('to', 'TO') 
+
+('leave', 'VB') 
+
+('like', 'IN') 
+
+('Francois', 'NNP') 
+
+('and', 'CC') 
+
+('Perrault', 'NNP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('happy', 'JJ') 
+
+('with', 'IN') 
+
+('Thornton', 'NNP') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('dog', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('Northland', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('dreamed', 'VBD') 
+
+('of', 'IN') 
+
+('other', 'JJ') 
+
+('animals', 'NNS') 
+
+('and', 'CC') 
+
+('heard', 'VB') 
+
+('them', 'PRP') 
+
+('calling', 'VBG') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('call', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('wild', 'NN') 
+
+('.', '.') 
+
+('Sometimes', 'RB') 
+
+('Buck', 'NNP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('answer', 'VB') 
+
+('the', 'DT') 
+
+('call', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('often', 'RB') 
+
+('went', 'VBD') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('always', 'RB') 
+
+('returned', 'VBD') 
+
+('to', 'TO') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('interested', 'JJ') 
+
+('in', 'IN') 
+
+('other', 'JJ') 
+
+('men', 'NNS') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Thornton', 'NNP') 
+
+("'s", 'POS') 
+
+('friends', 'NNS') 
+
+('Hans', 'NNPS') 
+
+('and', 'CC') 
+
+('Pete', 'NNP') 
+
+('returned', 'VBD') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('notice', 'VB') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('knew', 'VBD') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('Thornton', 'NNP') 
+
+("'s", 'POS') 
+
+('good', 'JJ') 
+
+('friends', 'NNS') 
+
+('and', 'CC') 
+
+('so', 'RB') 
+
+('he', 'PRP') 
+
+('accepted', 'VBD') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('Hans', 'NNPS') 
+
+('and', 'CC') 
+
+('Pete', 'NNP') 
+
+('saw', 'VBD') 
+
+('that', 'IN') 
+
+('Buck', 'NNP') 
+
+('loved', 'VBD') 
+
+('only', 'RB') 
+
+('Thornton', 'NNP') 
+
+('and', 'CC') 
+
+('no', 'DT') 
+
+('one', 'NN') 
+
+('else', 'RB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('always', 'RB') 
+
+('happy', 'JJ') 
+
+('to', 'TO') 
+
+('obey', 'VB') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('day', 'NN') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('in', 'IN') 
+
+('Circle', 'NNP') 
+
+('City', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Black', 'NNP') 
+
+("''", "''") 
+
+('Burton', 'NNP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('bad', 'JJ') 
+
+('and', 'CC') 
+
+('cruel', 'JJ') 
+
+('man', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('in', 'IN') 
+
+('a', 'DT') 
+
+('saloon', 'NN') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('fighting', 'VBG') 
+
+('with', 'IN') 
+
+('another', 'DT') 
+
+('man', 'NN') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('tried', 'VBD') 
+
+('to', 'TO') 
+
+('stop', 'VB') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('sat', 'VBD') 
+
+('in', 'IN') 
+
+('a', 'DT') 
+
+('corner', 'NN') 
+
+('and', 'CC') 
+
+('watched', 'VBD') 
+
+('.', '.') 
+
+('Burton', 'NNP') 
+
+('hit', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('almost', 'RB') 
+
+('fell', 'VBD') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('loud', 'JJ') 
+
+('growl', 'NN') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('jumped', 'VBD') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('air', 'NN') 
+
+('at', 'IN') 
+
+('Burton', 'NNP') 
+
+("'s", 'POS') 
+
+('throat', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('man', 'NN') 
+
+('put', 'VBD') 
+
+('up', 'RP') 
+
+('his', 'PRP$') 
+
+('arm', 'NN') 
+
+('and', 'CC') 
+
+('saved', 'VBD') 
+
+('his', 'PRP$') 
+
+('life', 'NN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('he', 'PRP') 
+
+('fell', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('ground', 'NN') 
+
+('with', 'IN') 
+
+('Buck', 'NNP') 
+
+('on', 'IN') 
+
+('top', 'NN') 
+
+('of', 'IN') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('bit', 'NN') 
+
+('into', 'IN') 
+
+('his', 'PRP$') 
+
+('throat', 'NN') 
+
+('.', '.') 
+
+('Some', 'DT') 
+
+('people', 'NNS') 
+
+('pulled', 'VBD') 
+
+('Buck', 'NNP') 
+
+('off', 'IN') 
+
+('the', 'DT') 
+
+('man', 'NN') 
+
+('.', '.') 
+
+('a', 'DT') 
+
+('doctor', 'NN') 
+
+('arrived', 'VBN') 
+
+('and', 'CC') 
+
+('examined', 'VBN') 
+
+('Burton', 'NNP') 
+
+("'s", 'POS') 
+
+('throat', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('The', 'DT') 
+
+('dog', 'NN') 
+
+('attacked', 'VBD') 
+
+('only', 'RB') 
+
+('because', 'IN') 
+
+('Thornton', 'NNP') 
+
+('was', 'VBD') 
+
+('in', 'IN') 
+
+('danger', 'NN') 
+
+(',', ',') 
+
+("''", "''") 
+
+('someone', 'NN') 
+
+('said', 'VBD') 
+
+('.', '.') 
+
+('From', 'IN') 
+
+('that', 'DT') 
+
+('day', 'NN') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('name', 'NN') 
+
+('became', 'VBD') 
+
+('famous', 'JJ') 
+
+('all', 'DT') 
+
+('over', 'IN') 
+
+('the', 'DT') 
+
+('Northland', 'NNP') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('fall', 'NN') 
+
+('of', 'IN') 
+
+('that', 'DT') 
+
+('year', 'NN') 
+
+('Buck', 'NNP') 
+
+('saved', 'VBD') 
+
+('Thornton', 'NNP') 
+
+("'s", 'POS') 
+
+('life', 'NN') 
+
+('another', 'DT') 
+
+('time', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('three', 'CD') 
+
+('men', 'NNS') 
+
+('were', 'VBD') 
+
+('going', 'VBG') 
+
+('down', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('was', 'VBD') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('boat', 'NN') 
+
+('and', 'CC') 
+
+('Hans', 'NNPS') 
+
+('and', 'CC') 
+
+('Pete', 'NNP') 
+
+('were', 'VBD') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('bank', 'NN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('were', 'VBD') 
+
+('holding', 'VBG') 
+
+('the', 'DT') 
+
+('boat', 'NN') 
+
+('with', 'IN') 
+
+('a', 'DT') 
+
+('rope', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('bank', 'NN') 
+
+('and', 'CC') 
+
+('watched', 'VBD') 
+
+('his', 'PRP$') 
+
+('master', 'NN') 
+
+('.', '.') 
+
+('Soon', 'NN') 
+
+('they', 'PRP') 
+
+('came', 'VBD') 
+
+('to', 'TO') 
+
+('a', 'DT') 
+
+('dangerous', 'JJ') 
+
+('part', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('boat', 'NN') 
+
+('was', 'VBD') 
+
+('going', 'VBG') 
+
+('too', 'RB') 
+
+('fast', 'RB') 
+
+('because', 'IN') 
+
+('the', 'DT') 
+
+('current', 'JJ') 
+
+('was', 'VBD') 
+
+('strong', 'JJ') 
+
+('.', '.') 
+
+('Hans', 'NNPS') 
+
+('pulled', 'VBD') 
+
+('the', 'DT') 
+
+('rope', 'NN') 
+
+('to', 'TO') 
+
+('stop', 'VB') 
+
+('the', 'DT') 
+
+('boat', 'NN') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('it', 'PRP') 
+
+('turned', 'VBD') 
+
+('over', 'RP') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('fell', 'VBD') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('water', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('jumped', 'VBD') 
+
+('in', 'IN') 
+
+('immediately', 'RB') 
+
+('and', 'CC') 
+
+('swam', 'VB') 
+
+('to', 'TO') 
+
+('his', 'PRP$') 
+
+('master', 'NN') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('took', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('tail', 'NN') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('swam', 'VBP') 
+
+('bravely', 'RB') 
+
+('towards', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('bank', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('they', 'PRP') 
+
+('moved', 'VBD') 
+
+('slowly', 'RB') 
+
+('because', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('pushed', 'VBD') 
+
+('them', 'PRP') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('rocks', 'NNS') 
+
+('.', '.') 
+
+('``', '``') 
+
+('We', 'PRP') 
+
+('ca', 'MD') 
+
+("n't", 'RB') 
+
+('get', 'VB') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('bank', 'NN') 
+
+('because', 'IN') 
+
+('the', 'DT') 
+
+('current', 'JJ') 
+
+('is', 'VBZ') 
+
+('too', 'RB') 
+
+('strong', 'JJ') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('held', 'VBD') 
+
+('onto', 'IN') 
+
+('a', 'DT') 
+
+('rock', 'NN') 
+
+('and', 'CC') 
+
+('let', 'VB') 
+
+('go', 'VB') 
+
+('of', 'IN') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('tail', 'NN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('he', 'PRP') 
+
+('cried', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('Go', 'VB') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+('!', '.') 
+
+('Go', 'VB') 
+
+('!', '.') 
+
+("''", "''") 
+
+('Buck', 'NNP') 
+
+('obeyed', 'VBD') 
+
+('and', 'CC') 
+
+('swam', 'NN') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('bank', 'NN') 
+
+('.', '.') 
+
+('Hans', 'NNPS') 
+
+('and', 'CC') 
+
+('Pete', 'NNP') 
+
+('pulled', 'VBD') 
+
+('him', 'PRP') 
+
+('out', 'IN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('We', 'PRP') 
+
+('must', 'MD') 
+
+('work', 'VB') 
+
+('fast', 'RB') 
+
+('to', 'TO') 
+
+('save', 'VB') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+("'s", 'VBZ') 
+
+('in', 'IN') 
+
+('great', 'JJ') 
+
+('danger', 'NN') 
+
+('!', '.') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Pete', 'NNP') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('tied', 'VBD') 
+
+('a', 'DT') 
+
+('rope', 'NN') 
+
+('around', 'IN') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('jumped', 'VBD') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('river', 'NN') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('river', 'NN') 
+
+('carried', 'VBD') 
+
+('him', 'PRP') 
+
+('past', 'IN') 
+
+('Thornton', 'NNP') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('finally', 'RB') 
+
+('reached', 'VBD') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('held', 'VBD') 
+
+('on', 'IN') 
+
+('to', 'TO') 
+
+('Buck', 'NNP') 
+
+(',', ',') 
+
+('and', 'CC') 
+
+('Hans', 'NNPS') 
+
+('and', 'CC') 
+
+('Pete', 'NNP') 
+
+('pulled', 'VBD') 
+
+('the', 'DT') 
+
+('rope', 'NN') 
+
+('very', 'RB') 
+
+('hard', 'RB') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('disappeared', 'VBD') 
+
+('under', 'IN') 
+
+('the', 'DT') 
+
+('water', 'NN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Hans', 'NNPS') 
+
+('and', 'CC') 
+
+('Pete', 'NNP') 
+
+('pulled', 'VBD') 
+
+('them', 'PRP') 
+
+('out', 'RP') 
+
+('they', 'PRP') 
+
+('both', 'DT') 
+
+('seemed', 'VBD') 
+
+('dead', 'JJ') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('they', 'PRP') 
+
+('slowly', 'RB') 
+
+('opened', 'VBD') 
+
+('their', 'PRP$') 
+
+('eyes', 'NNS') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('examined', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('body', 'NN') 
+
+('and', 'CC') 
+
+('found', 'VBD') 
+
+('three', 'CD') 
+
+('broken', 'JJ') 
+
+('bones', 'NNS') 
+
+('.', '.') 
+
+('``', '``') 
+
+('We', 'PRP') 
+
+('must', 'MD') 
+
+('camp', 'VB') 
+
+('here', 'RB') 
+
+('until', 'IN') 
+
+('Buck', 'NNP') 
+
+('is', 'VBZ') 
+
+('better', 'RBR') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('chapter', 'NN') 
+
+('eight', 'CD') 
+
+('The', 'DT') 
+
+('Winner', 'NNP') 
+
+('At', 'IN') 
+
+('Dawson', 'NNP') 
+
+('that', 'IN') 
+
+('winter', 'NN') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('something', 'NN') 
+
+('that', 'IN') 
+
+('made', 'VBD') 
+
+('him', 'PRP') 
+
+('very', 'RB') 
+
+('famous', 'JJ') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('Northland', 'NNP') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+(',', ',') 
+
+('Hans', 'NNP') 
+
+('and', 'CC') 
+
+('Pete', 'NNP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('go', 'VB') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('east', 'NN') 
+
+('to', 'TO') 
+
+('look', 'VB') 
+
+('for', 'IN') 
+
+('gold', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('they', 'PRP') 
+
+('needed', 'VBD') 
+
+('money', 'NN') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('day', 'NN') 
+
+('they', 'PRP') 
+
+('were', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('Eldorado', 'NNP') 
+
+('Saloon', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('My', 'PRP$') 
+
+('dog', 'NN') 
+
+('can', 'MD') 
+
+('pull', 'VB') 
+
+('a', 'DT') 
+
+('sled', 'VBN') 
+
+('with', 'IN') 
+
+('five', 'CD') 
+
+('hundred', 'CD') 
+
+('pounds', 'NNS') 
+
+('on', 'IN') 
+
+('it', 'PRP') 
+
+("'", "''") 
+
+('said', 'VBD') 
+
+('one', 'CD') 
+
+('man', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Well', 'RB') 
+
+(',', ',') 
+
+('my', 'PRP$') 
+
+('dog', 'NN') 
+
+('can', 'MD') 
+
+('pull', 'VB') 
+
+('six', 'CD') 
+
+('hundred', 'CD') 
+
+('pounds', 'NNS') 
+
+("'", 'POS') 
+
+('said', 'VBD') 
+
+('another', 'DT') 
+
+('man', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Really', 'RB') 
+
+('?', '.') 
+
+('Well', 'UH') 
+
+(',', ',') 
+
+('my', 'PRP$') 
+
+('dog', 'NN') 
+
+('can', 'MD') 
+
+('pull', 'VB') 
+
+('seven', 'CD') 
+
+('hundred', 'CD') 
+
+('pounds', 'NNS') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('a', 'DT') 
+
+('third', 'JJ') 
+
+('man', 'NN') 
+
+('called', 'VBD') 
+
+('Matthewson', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('That', 'DT') 
+
+("'s", 'VBZ') 
+
+('nothing', 'NN') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Buck', 'NNP') 
+
+('can', 'MD') 
+
+('pull', 'VB') 
+
+('a', 'DT') 
+
+('thousand', 'CD') 
+
+('pounds', 'NNS') 
+
+('.', '.') 
+
+("''", "''") 
+
+('``', '``') 
+
+('Can', 'MD') 
+
+('he', 'PRP') 
+
+('move', 'VB') 
+
+('the', 'DT') 
+
+('sled', 'NN') 
+
+('when', 'WRB') 
+
+('it', 'PRP') 
+
+("'s", 'VBZ') 
+
+('frozen', 'JJ') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('ice', 'NN') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('pull', 'VB') 
+
+('it', 'PRP') 
+
+('a', 'DT') 
+
+('hundred', 'JJ') 
+
+('yards', 'NNS') 
+
+('?', '.') 
+
+("''", "''") 
+
+('asked', 'VBD') 
+
+('Matthewson', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Yes', 'UH') 
+
+(',', ',') 
+
+('he', 'PRP') 
+
+('can', 'MD') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Well', 'RB') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+('Matthewson', 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('i', 'JJ') 
+
+("'ve", 'VBP') 
+
+('got', 'VBN') 
+
+('a', 'DT') 
+
+('thousand', 'CD') 
+
+('dollars', 'NNS') 
+
+('here', 'RB') 
+
+(',', ',') 
+
+('and', 'CC') 
+
+('i', 'NNS') 
+
+('say', 'VBP') 
+
+('he', 'PRP') 
+
+('ca', 'MD') 
+
+("n't", 'RB') 
+
+('.', '.') 
+
+("''", "''") 
+
+('He', 'PRP') 
+
+('took', 'VBD') 
+
+('a', 'DT') 
+
+('bag', 'NN') 
+
+('of', 'IN') 
+
+('gold', 'NN') 
+
+('and', 'CC') 
+
+('put', 'VB') 
+
+('it', 'PRP') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('table', 'NN') 
+
+('.', '.') 
+
+('Nobody', 'NN') 
+
+('spoke', 'VBD') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('thought', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('i', 'NN') 
+
+('know', 'VBP') 
+
+('Buck', 'NNP') 
+
+('is', 'VBZ') 
+
+('strong', 'JJ') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('is', 'VBZ') 
+
+('he', 'PRP') 
+
+('really', 'RB') 
+
+('so', 'RB') 
+
+('strong', 'JJ') 
+
+('?', '.') 
+
+("''", "''") 
+
+('The', 'DT') 
+
+('men', 'NNS') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('saloon', 'NN') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('him', 'PRP') 
+
+('silently', 'RB') 
+
+('and', 'CC') 
+
+('waited', 'VBD') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('have', 'VB') 
+
+('a', 'DT') 
+
+('thousand', 'CD') 
+
+('dollars', 'NNS') 
+
+(',', ',') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('friends', 'NNS') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('either', 'RB') 
+
+('.', '.') 
+
+('``', '``') 
+
+('i', 'JJ') 
+
+("'ve", 'VBP') 
+
+('got', 'VBN') 
+
+('a', 'DT') 
+
+('sled', 'VBN') 
+
+('outside', 'NN') 
+
+('with', 'IN') 
+
+('a', 'DT') 
+
+('thousand', 'CD') 
+
+('pounds', 'NNS') 
+
+('on', 'IN') 
+
+('it', 'PRP') 
+
+(',', ',') 
+
+("''", "''") 
+
+('Matthewson', 'NNP') 
+
+('said', 'VBD') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Do', 'VBP') 
+
+('you', 'PRP') 
+
+('want', 'VB') 
+
+('to', 'TO') 
+
+('try', 'VB') 
+
+('?', '.') 
+
+("''", "''") 
+
+('Thornton', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('know', 'VB') 
+
+('what', 'WP') 
+
+('to', 'TO') 
+
+('say', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('all', 'PDT') 
+
+('the', 'DT') 
+
+('men', 'NNS') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('he', 'PRP') 
+
+('saw', 'VBD') 
+
+('his', 'PRP$') 
+
+('old', 'JJ') 
+
+('friend', 'NN') 
+
+('Jim', 'NNP') 
+
+("O'Brien", 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Can', 'NNP') 
+
+('you', 'PRP') 
+
+('lend', 'VBP') 
+
+('me', 'PRP') 
+
+('a', 'DT') 
+
+('thousand', 'CD') 
+
+('dollars', 'NNS') 
+
+(',', ',') 
+
+('Jim', 'NNP') 
+
+('?', '.') 
+
+("''", "''") 
+
+('Thornton', 'NNP') 
+
+('said', 'VBD') 
+
+('softly', 'RB') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Sure', 'JJ') 
+
+(',', ',') 
+
+("''", "''") 
+
+('said', 'VBD') 
+
+("O'Brien", 'NNP') 
+
+('.', '.') 
+
+('``', '``') 
+
+('But', 'CC') 
+
+('i', 'NNS') 
+
+('do', 'VBP') 
+
+("n't", 'RB') 
+
+('think', 'VB') 
+
+('your', 'PRP$') 
+
+('dog', 'NN') 
+
+('can', 'MD') 
+
+('do', 'VB') 
+
+('it', 'PRP') 
+
+('.', '.') 
+
+("''", "''") 
+
+('Everyone', 'NN') 
+
+('went', 'VBD') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('street', 'NN') 
+
+('.', '.') 
+
+('a', 'DT') 
+
+('lot', 'NN') 
+
+('of', 'IN') 
+
+('men', 'NNS') 
+
+('stood', 'VBD') 
+
+('around', 'IN') 
+
+('Matthewson', 'NNP') 
+
+("'s", 'POS') 
+
+('sled', 'VBN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('sled', 'VBN') 
+
+('was', 'VBD') 
+
+('frozen', 'VBN') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('ice', 'NN') 
+
+('because', 'IN') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('terribly', 'RB') 
+
+('cold', 'JJ') 
+
+('.', '.') 
+
+('Matthewson', 'NNP') 
+
+('was', 'VBD') 
+
+('sure', 'JJ') 
+
+('Buck', 'NNP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('win', 'VB') 
+
+('and', 'CC') 
+
+('said', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('i', 'JJ') 
+
+("'m", 'VBP') 
+
+('paying', 'VBG') 
+
+('another', 'DT') 
+
+('four', 'CD') 
+
+('hundred', 'CD') 
+
+('dollars', 'NNS') 
+
+('!', '.') 
+
+('What', 'WP') 
+
+('about', 'IN') 
+
+('you', 'PRP') 
+
+('?', '.') 
+
+("''", "''") 
+
+('Thornton', 'NNP') 
+
+(',', ',') 
+
+('Hans', 'NNP') 
+
+('and', 'CC') 
+
+('Pete', 'NNP') 
+
+('talked', 'VBD') 
+
+('together', 'RB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('had', 'VBD') 
+
+('only', 'RB') 
+
+('two', 'CD') 
+
+('hundred', 'VBD') 
+
+('dollars', 'NNS') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('added', 'VBD') 
+
+('them', 'PRP') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('thousand', 'CD') 
+
+('dollars', 'NNS') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('felt', 'VBD') 
+
+('the', 'DT') 
+
+('excitement', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('air', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('knew', 'VBD') 
+
+('he', 'PRP') 
+
+('must', 'MD') 
+
+('do', 'VB') 
+
+('something', 'NN') 
+
+('great', 'JJ') 
+
+('for', 'IN') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('in', 'IN') 
+
+('perfect', 'JJ') 
+
+('condition', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('splendid', 'JJ') 
+
+('dog', 'NN') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('sat', 'VBD') 
+
+('down', 'RB') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('snow', 'JJ') 
+
+('next', 'JJ') 
+
+('to', 'TO') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('held', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('head', 'NN') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('hands', 'NNS') 
+
+('and', 'CC') 
+
+('spoke', 'VBD') 
+
+('softly', 'RB') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('ear', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('If', 'IN') 
+
+('you', 'PRP') 
+
+('love', 'VBP') 
+
+('me', 'PRP') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('If', 'IN') 
+
+('you', 'PRP') 
+
+('love', 'VBP') 
+
+('me', 'PRP') 
+
+('.', '.') 
+
+("''", "''") 
+
+('Buck', 'NNP') 
+
+('understood', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('took', 'VBD') 
+
+('Thornton', 'NNP') 
+
+("'s", 'POS') 
+
+('hand', 'NN') 
+
+('between', 'IN') 
+
+('his', 'PRP$') 
+
+('teeth', 'NNS') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('let', 'VB') 
+
+('go', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('often', 'RB') 
+
+('did', 'VBD') 
+
+('this', 'DT') 
+
+('as', 'IN') 
+
+('a', 'DT') 
+
+('sign', 'NN') 
+
+('of', 'IN') 
+
+('his', 'PRP$') 
+
+('love', 'NN') 
+
+('.', '.') 
+
+('Everyone', 'NN') 
+
+('was', 'VBD') 
+
+('silent', 'JJ') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('stood', 'VBD') 
+
+('up', 'RP') 
+
+('and', 'CC') 
+
+('said', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('Ready', 'JJ') 
+
+(',', ',') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+("''", "''") 
+
+('Buck', 'NNP') 
+
+('pulled', 'VBD') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('harness', 'NN') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Right', 'JJ') 
+
+('!', '.') 
+
+("''", "''") 
+
+('cried', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('pulled', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('right', 'NN') 
+
+('and', 'CC') 
+
+('stopped', 'VBD') 
+
+('suddenly', 'RB') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Now', 'RB') 
+
+(',', ',') 
+
+('left', 'VBD') 
+
+('!', '.') 
+
+("''", "''") 
+
+('cried', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('pulled', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('left', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('ice', 'NN') 
+
+('was', 'VBD') 
+
+('breaking', 'VBG') 
+
+('.', '.') 
+
+('``', '``') 
+
+('Now', 'RB') 
+
+(',', ',') 
+
+('mush', 'NN') 
+
+('!', '.') 
+
+("''", "''") 
+
+('Buck', 'NNP') 
+
+('started', 'VBD') 
+
+('to', 'TO') 
+
+('pull', 'VB') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('strong', 'JJ') 
+
+('body', 'NN') 
+
+('pulled', 'VBD') 
+
+('harder', 'JJR') 
+
+('and', 'CC') 
+
+('harder', 'RBR') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('sled', 'JJ') 
+
+('moved', 'VBD') 
+
+('a', 'DT') 
+
+('little', 'JJ') 
+
+('.', '.') 
+
+('Suddenly', 'RB') 
+
+('it', 'PRP') 
+
+('started', 'VBD') 
+
+('to', 'TO') 
+
+('go', 'VB') 
+
+('forward', 'RB') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('snow', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('pulled', 'VBD') 
+
+('it', 'PRP') 
+
+('for', 'IN') 
+
+('one', 'CD') 
+
+('hundred', 'CD') 
+
+('yards', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('winner', 'NN') 
+
+('!', '.') 
+
+('The', 'DT') 
+
+('men', 'NNS') 
+
+('shouted', 'VBD') 
+
+('and', 'CC') 
+
+('threw', 'VBD') 
+
+('their', 'PRP$') 
+
+('hats', 'NNS') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('air', 'NN') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('was', 'VBD') 
+
+('on', 'IN') 
+
+('the', 'DT') 
+
+('snow', 'NN') 
+
+('with', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('took', 'VBD') 
+
+('his', 'PRP$') 
+
+('head', 'NN') 
+
+('and', 'CC') 
+
+('shook', 'NN') 
+
+('it', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('crying', 'VBG') 
+
+('with', 'IN') 
+
+('happiness', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('had', 'VBD') 
+
+('Thornton', 'NNP') 
+
+("'s", 'POS') 
+
+('hand', 'NN') 
+
+('between', 'IN') 
+
+('his', 'PRP$') 
+
+('teeth', 'NNS') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('five', 'CD') 
+
+('minutes', 'NNS') 
+
+('Buck', 'NNP') 
+
+('made', 'VBD') 
+
+('one', 'CD') 
+
+('thousand', 'NN') 
+
+('six', 'CD') 
+
+('hundred', 'CD') 
+
+('dollars', 'NNS') 
+
+('for', 'IN') 
+
+('Thornton', 'NNP') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('friends', 'NNS') 
+
+('.', '.') 
+
+('With', 'IN') 
+
+('this', 'DT') 
+
+('money', 'NN') 
+
+('they', 'PRP') 
+
+('could', 'MD') 
+
+('travel', 'VB') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('east', 'NN') 
+
+('to', 'TO') 
+
+('look', 'VB') 
+
+('for', 'IN') 
+
+('a', 'DT') 
+
+('lost', 'JJ') 
+
+('gold', 'NN') 
+
+('mine', 'NN') 
+
+('.', '.') 
+
+('No', 'DT') 
+
+('one', 'NN') 
+
+('knew', 'VBZ') 
+
+('where', 'WRB') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('mystery', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('three', 'CD') 
+
+('men', 'NNS') 
+
+('with', 'IN') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('six', 'CD') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('started', 'VBD') 
+
+('to', 'TO') 
+
+('go', 'VB') 
+
+('east', 'RB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('traveled', 'VBD') 
+
+('up', 'RP') 
+
+('the', 'DT') 
+
+('Stewart', 'NNP') 
+
+('River', 'NNP') 
+
+('and', 'CC') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('Mackenzie', 'NNP') 
+
+('Mountains', 'NNP') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('afraid', 'JJ') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('wild', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('hunted', 'VBD') 
+
+('his', 'PRP$') 
+
+('food', 'NN') 
+
+('during', 'IN') 
+
+('the', 'DT') 
+
+('day', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('happy', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('loved', 'VBD') 
+
+('hunting', 'NN') 
+
+(',', ',') 
+
+('fishing', 'NN') 
+
+('and', 'CC') 
+
+('traveling', 'VBG') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('camped', 'VBD') 
+
+('in', 'IN') 
+
+('different', 'JJ') 
+
+('places', 'NNS') 
+
+('and', 'CC') 
+
+('looked', 'VBD') 
+
+('for', 'IN') 
+
+('gold', 'NN') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('summer', 'NN') 
+
+('they', 'PRP') 
+
+('built', 'VBP') 
+
+('small', 'JJ') 
+
+('boats', 'NNS') 
+
+('and', 'CC') 
+
+('crossed', 'VBD') 
+
+('mountain', 'NN') 
+
+('lakes', 'NNS') 
+
+('and', 'CC') 
+
+('went', 'VBD') 
+
+('down', 'IN') 
+
+('rivers', 'NNS') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('months', 'NNS') 
+
+('passed', 'VBN') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('continued', 'VBD') 
+
+('to', 'TO') 
+
+('travel', 'VB') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('unknown', 'JJ') 
+
+('country', 'NN') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('winter', 'NN') 
+
+('they', 'PRP') 
+
+('found', 'VBD') 
+
+('an', 'DT') 
+
+('old', 'JJ') 
+
+('cabin', 'NN') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('they', 'PRP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('find', 'VB') 
+
+('the', 'DT') 
+
+('gold', 'NN') 
+
+('mine', 'NN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('spring', 'NN') 
+
+('they', 'PRP') 
+
+('found', 'VBD') 
+
+('a', 'DT') 
+
+('stream', 'NN') 
+
+('with', 'IN') 
+
+('gold', 'NN') 
+
+('in', 'IN') 
+
+('it', 'PRP') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('looked', 'VBD') 
+
+('like', 'IN') 
+
+('yellow', 'JJ') 
+
+('butter', 'NN') 
+
+('.', '.') 
+
+('Every', 'DT') 
+
+('day', 'NN') 
+
+('the', 'DT') 
+
+('men', 'NNS') 
+
+('worked', 'VBN') 
+
+('hard', 'JJ') 
+
+('and', 'CC') 
+
+('found', 'JJ') 
+
+('lots', 'NNS') 
+
+('of', 'IN') 
+
+('gold', 'NN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('put', 'VBD') 
+
+('it', 'PRP') 
+
+('in', 'IN') 
+
+('many', 'JJ') 
+
+('big', 'JJ') 
+
+('bags', 'NNS') 
+
+('.', '.') 
+
+('Each', 'DT') 
+
+('bag', 'NN') 
+
+('had', 'VBD') 
+
+('fifty', 'JJ') 
+
+('pounds', 'NNS') 
+
+('of', 'IN') 
+
+('gold', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('dogs', 'NNS') 
+
+('did', 'VBD') 
+
+('nothing', 'NN') 
+
+('except', 'IN') 
+
+('watch', 'WP') 
+
+('the', 'DT') 
+
+('men', 'NNS') 
+
+('and', 'CC') 
+
+('eat', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('spent', 'VBD') 
+
+('many', 'JJ') 
+
+('hours', 'NNS') 
+
+('sitting', 'VBG') 
+
+('by', 'IN') 
+
+('the', 'DT') 
+
+('fire', 'NN') 
+
+('and', 'CC') 
+
+('dreaming', 'NN') 
+
+('.', '.') 
+
+('Sometimes', 'RB') 
+
+('during', 'IN') 
+
+('the', 'DT') 
+
+('day', 'NN') 
+
+('he', 'PRP') 
+
+('heard', 'VBD') 
+
+('a', 'DT') 
+
+('call', 'NN') 
+
+('from', 'IN') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('listened', 'VBD') 
+
+('and', 'CC') 
+
+('ran', 'VBD') 
+
+('off', 'RP') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('loved', 'VBD') 
+
+('running', 'VBG') 
+
+('under', 'IN') 
+
+('the', 'DT') 
+
+('tall', 'JJ') 
+
+('trees', 'NNS') 
+
+('and', 'CC') 
+
+('looking', 'VBG') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('birds', 'NNS') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('night', 'NN') 
+
+('he', 'PRP') 
+
+('woke', 'VBD') 
+
+('up', 'RP') 
+
+('suddenly', 'RB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('heard', 'VBD') 
+
+('the', 'DT') 
+
+('call', 'NN') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('came', 'VBD') 
+
+('from', 'IN') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('and', 'CC') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('long', 'JJ') 
+
+('howl', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('ran', 'VBD') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('and', 'CC') 
+
+('followed', 'VBD') 
+
+('the', 'DT') 
+
+('sound', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('came', 'VBD') 
+
+('to', 'TO') 
+
+('an', 'DT') 
+
+('open', 'JJ') 
+
+('space', 'NN') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('trees', 'NNS') 
+
+('and', 'CC') 
+
+('saw', 'VBD') 
+
+('a', 'DT') 
+
+('wolf', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('sitting', 'VBG') 
+
+('and', 'CC') 
+
+('his', 'PRP$') 
+
+('nose', 'NN') 
+
+('was', 'VBD') 
+
+('up', 'RB') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('air', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('looking', 'VBG') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('sky', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('walked', 'VBD') 
+
+('towards', 'NNS') 
+
+('him', 'PRP') 
+
+('slowly', 'RB') 
+
+('and', 'CC') 
+
+('silently', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('wolf', 'NN') 
+
+('stopped', 'VBD') 
+
+('howling', 'VBG') 
+
+('and', 'CC') 
+
+('ran', 'VBD') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('followed', 'VBD') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('After', 'IN') 
+
+('some', 'DT') 
+
+('time', 'NN') 
+
+('the', 'DT') 
+
+('wolf', 'NN') 
+
+('stopped', 'VBD') 
+
+('and', 'CC') 
+
+('growled', 'VBD') 
+
+('at', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('afraid', 'JJ') 
+
+('because', 'IN') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('much', 'RB') 
+
+('bigger', 'JJR') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('not', 'RB') 
+
+('want', 'VB') 
+
+('to', 'TO') 
+
+('fight', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('make', 'VB') 
+
+('friends', 'NNS') 
+
+('with', 'IN') 
+
+('the', 'DT') 
+
+('wolf', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('wolf', 'NN') 
+
+('understood', 'NN') 
+
+('and', 'CC') 
+
+('they', 'PRP') 
+
+('touched', 'VBD') 
+
+('noses', 'NNS') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('became', 'VBD') 
+
+('friends', 'NNS') 
+
+('and', 'CC') 
+
+('played', 'VBD') 
+
+('together', 'RB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('ran', 'VBD') 
+
+('for', 'IN') 
+
+('hours', 'NNS') 
+
+('through', 'IN') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('and', 'CC') 
+
+('under', 'IN') 
+
+('the', 'DT') 
+
+('open', 'JJ') 
+
+('sky', 'NN') 
+
+('.', '.') 
+
+('Old', 'NNP') 
+
+('memories', 'NNPS') 
+
+('came', 'VBD') 
+
+('back', 'RB') 
+
+('to', 'TO') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('happy', 'JJ') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('stopped', 'VBD') 
+
+('by', 'IN') 
+
+('a', 'DT') 
+
+('stream', 'NN') 
+
+('to', 'TO') 
+
+('drink', 'VB') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('remembered', 'VBD') 
+
+('John', 'NNP') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('wolf', 'NN') 
+
+('wanted', 'VBD') 
+
+('Buck', 'NNP') 
+
+('to', 'TO') 
+
+('follow', 'VB') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('Buck', 'NNP') 
+
+('turned', 'VBD') 
+
+('and', 'CC') 
+
+('slowly', 'RB') 
+
+('went', 'VBD') 
+
+('back', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('wolf', 'NN') 
+
+('followed', 'VBD') 
+
+('him', 'PRP') 
+
+('for', 'IN') 
+
+('a', 'DT') 
+
+('while', 'NN') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('he', 'PRP') 
+
+('sat', 'VBD') 
+
+('down', 'RB') 
+
+('and', 'CC') 
+
+('howled', 'VBN') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('sad', 'JJ') 
+
+('howl', 'NN') 
+
+('.', '.') 
+
+('Thornton', 'NNP') 
+
+('was', 'VBD') 
+
+('eating', 'VBG') 
+
+('dinner', 'NN') 
+
+('when', 'WRB') 
+
+('Buck', 'NNP') 
+
+('returned', 'VBD') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('jumped', 'VBD') 
+
+('all', 'DT') 
+
+('over', 'IN') 
+
+('Thornton', 'NNP') 
+
+('and', 'CC') 
+
+('licked', 'VBD') 
+
+('his', 'PRP$') 
+
+('face', 'NN') 
+
+('.', '.') 
+
+('For', 'IN') 
+
+('two', 'CD') 
+
+('days', 'NNS') 
+
+('and', 'CC') 
+
+('nights', 'NNS') 
+
+('Buck', 'NNP') 
+
+('never', 'RB') 
+
+('left', 'VBD') 
+
+('camp', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('followed', 'VBD') 
+
+('Thornton', 'NNP') 
+
+('everywhere', 'RB') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('soon', 'RB') 
+
+('Buck', 'NNP') 
+
+('heard', 'VBD') 
+
+('the', 'DT') 
+
+('call', 'NN') 
+
+('again', 'RB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('thought', 'VBD') 
+
+('about', 'IN') 
+
+('his', 'PRP$') 
+
+('wild', 'JJ') 
+
+('brother', 'NN') 
+
+('and', 'CC') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('began', 'VBD') 
+
+('to', 'TO') 
+
+('sleep', 'VB') 
+
+('out', 'RP') 
+
+('at', 'IN') 
+
+('night', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('stayed', 'VBD') 
+
+('away', 'RB') 
+
+('from', 'IN') 
+
+('camp', 'NN') 
+
+('for', 'IN') 
+
+('three', 'CD') 
+
+('or', 'CC') 
+
+('four', 'CD') 
+
+('days', 'NNS') 
+
+('.', '.') 
+
+('Once', 'RB') 
+
+('he', 'PRP') 
+
+('stayed', 'VBD') 
+
+('away', 'RP') 
+
+('for', 'IN') 
+
+('a', 'DT') 
+
+('week', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('looked', 'VBD') 
+
+('for', 'IN') 
+
+('his', 'PRP$') 
+
+('wild', 'JJ') 
+
+('brother', 'NN') 
+
+('but', 'CC') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('find', 'VB') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('fished', 'VBD') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('streams', 'NNS') 
+
+('and', 'CC') 
+
+('killed', 'VBN') 
+
+('animals', 'NNS') 
+
+('for', 'IN') 
+
+('food', 'NN') 
+
+('.', '.') 
+
+('Every', 'NNP') 
+
+('part', 'NN') 
+
+('of', 'IN') 
+
+('his', 'PRP$') 
+
+('body', 'NN') 
+
+('was', 'VBD') 
+
+('alive', 'JJ') 
+
+('and', 'CC') 
+
+('healthy', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('stronger', 'JJR') 
+
+('and', 'CC') 
+
+('faster', 'RBR') 
+
+('than', 'IN') 
+
+('other', 'JJ') 
+
+('dogs', 'NNS') 
+
+('.', '.') 
+
+('There', 'EX') 
+
+('was', 'VBD') 
+
+('so', 'RB') 
+
+('much', 'JJ') 
+
+('energy', 'NN') 
+
+('in', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('day', 'NN') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('going', 'VBG') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('and', 'CC') 
+
+('Thornton', 'NNP') 
+
+('said', 'VBD') 
+
+(',', ',') 
+
+('``', '``') 
+
+('What', 'WP') 
+
+('a', 'DT') 
+
+('fantastic', 'JJ') 
+
+('dog', 'NN') 
+
+('!', '.') 
+
+("''", "''") 
+
+('Hans', 'NNPS') 
+
+('and', 'CC') 
+
+('Pete', 'NNP') 
+
+('agreed', 'VBD') 
+
+('.', '.') 
+
+('Chapter', 'NN') 
+
+('nine', 'CD') 
+
+('The', 'DT') 
+
+('Call', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('Wild', 'NNP') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('fall', 'NN') 
+
+('many', 'JJ') 
+
+('moose', 'RB') 
+
+('came', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('valley', 'NN') 
+
+('because', 'IN') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('warmer', 'JJ') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('hunt', 'VB') 
+
+('a', 'DT') 
+
+('big', 'JJ') 
+
+('moose', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('biggest', 'JJS') 
+
+('moose', 'NN') 
+
+('was', 'VBD') 
+
+('six', 'CD') 
+
+('feet', 'NNS') 
+
+('tall', 'JJ') 
+
+('and', 'CC') 
+
+('had', 'VBD') 
+
+('enormous', 'JJ') 
+
+('antlers', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('much', 'RB') 
+
+('bigger', 'JJR') 
+
+('and', 'CC') 
+
+('stronger', 'JJR') 
+
+('than', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('he', 'PRP') 
+
+('saw', 'VBD') 
+
+('Buck', 'NNP') 
+
+('he', 'PRP') 
+
+('growled', 'VBD') 
+
+('angrily', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('followed', 'VBD') 
+
+('the', 'DT') 
+
+('moose', 'NN') 
+
+('for', 'IN') 
+
+('many', 'JJ') 
+
+('hours', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('clever', 'NN') 
+
+('and', 'CC') 
+
+('thought', 'NN') 
+
+(',', ',') 
+
+('``', '``') 
+
+('must', 'MD') 
+
+('separate', 'VB') 
+
+('him', 'PRP') 
+
+('from', 'IN') 
+
+('his', 'PRP$') 
+
+('group', 'NN') 
+
+('.', '.') 
+
+("''", "''") 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('not', 'RB') 
+
+('easy', 'JJ') 
+
+(',', ',') 
+
+('but', 'CC') 
+
+('by', 'IN') 
+
+('evening', 'VBG') 
+
+('the', 'DT') 
+
+('moose', 'NN') 
+
+('was', 'VBD') 
+
+('away', 'RB') 
+
+('from', 'IN') 
+
+('his', 'PRP$') 
+
+('group', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('started', 'VBD') 
+
+('to', 'TO') 
+
+('attack', 'VB') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Wild', 'JJ') 
+
+('animals', 'NNS') 
+
+('are', 'VBP') 
+
+('patient', 'JJ') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('do', 'VBP') 
+
+('not', 'RB') 
+
+('hurry', 'VB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('wait', 'VBP') 
+
+('for', 'IN') 
+
+('the', 'DT') 
+
+('right', 'JJ') 
+
+('moment', 'NN') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('they', 'PRP') 
+
+('attack', 'VBP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('knew', 'VBD') 
+
+('how', 'WRB') 
+
+('to', 'TO') 
+
+('wait', 'VB') 
+
+('.', '.') 
+
+('For', 'IN') 
+
+('four', 'CD') 
+
+('days', 'NNS') 
+
+('Buck', 'NNP') 
+
+('attacked', 'VBD') 
+
+('and', 'CC') 
+
+('jumped', 'VBD') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('he', 'PRP') 
+
+('danced', 'VBD') 
+
+('in', 'IN') 
+
+('front', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('big', 'JJ') 
+
+('moose', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('never', 'RB') 
+
+('left', 'VBD') 
+
+('him', 'PRP') 
+
+('alone', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('moose', 'NN') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('eat', 'VB') 
+
+(',', ',') 
+
+('drink', 'VB') 
+
+(',', ',') 
+
+('sleep', 'VB') 
+
+('or', 'CC') 
+
+('rest', 'VB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('became', 'VBD') 
+
+('very', 'RB') 
+
+('tired', 'JJ') 
+
+('and', 'CC') 
+
+('very', 'RB') 
+
+('weak', 'JJ') 
+
+('and', 'CC') 
+
+('stopped', 'VBD') 
+
+('for', 'IN') 
+
+('long', 'JJ') 
+
+('periods', 'NNS') 
+
+('so', 'RB') 
+
+('Buck', 'NNP') 
+
+('ate', 'NN') 
+
+(',', ',') 
+
+('drank', 'NN') 
+
+('and', 'CC') 
+
+('rested', 'VBN') 
+
+('.', '.') 
+
+('At', 'IN') 
+
+('the', 'DT') 
+
+('end', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('fourth', 'JJ') 
+
+('day', 'NN') 
+
+('Buck', 'NNP') 
+
+('killed', 'VBD') 
+
+('the', 'DT') 
+
+('big', 'JJ') 
+
+('moose', 'NN') 
+
+('.', '.') 
+
+('For', 'IN') 
+
+('a', 'DT') 
+
+('day', 'NN') 
+
+('and', 'CC') 
+
+('a', 'DT') 
+
+('night', 'NN') 
+
+('he', 'PRP') 
+
+('stayed', 'VBD') 
+
+('by', 'IN') 
+
+('the', 'DT') 
+
+('dead', 'JJ') 
+
+('moose', 'NN') 
+
+('and', 'CC') 
+
+('ate', 'NN') 
+
+('and', 'CC') 
+
+('slept', 'NN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('rested', 'VBN') 
+
+('and', 'CC') 
+
+('strong', 'JJ') 
+
+(',', ',') 
+
+('he', 'PRP') 
+
+('decided', 'VBD') 
+
+('to', 'TO') 
+
+('return', 'VB') 
+
+('to', 'TO') 
+
+('John', 'NNP') 
+
+('Thornton', 'NNP') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('five', 'CD') 
+
+('miles', 'NNS') 
+
+('from', 'IN') 
+
+('camp', 'NN') 
+
+('he', 'PRP') 
+
+('smelled', 'VBD') 
+
+('something', 'NN') 
+
+('strange', 'NN') 
+
+(',', ',') 
+
+('something', 'NN') 
+
+('terrible', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('started', 'VBD') 
+
+('running', 'VBG') 
+
+('fast', 'RB') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('forest', 'NN') 
+
+('was', 'VBD') 
+
+('silent', 'JJ') 
+
+(',', ',') 
+
+('there', 'EX') 
+
+('were', 'VBD') 
+
+('no', 'DT') 
+
+('birds', 'NNS') 
+
+('and', 'CC') 
+
+('no', 'DT') 
+
+('small', 'JJ') 
+
+('animals', 'NNS') 
+
+('.', '.') 
+
+('Near', 'IN') 
+
+('some', 'DT') 
+
+('trees', 'NNS') 
+
+('he', 'PRP') 
+
+('found', 'VBD') 
+
+('the', 'DT') 
+
+('dead', 'JJ') 
+
+('body', 'NN') 
+
+('of', 'IN') 
+
+('Nig', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('had', 'VBD') 
+
+('an', 'DT') 
+
+('arrow', 'NN') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('body', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('found', 'VBD') 
+
+('another', 'DT') 
+
+('sled', 'VBN') 
+
+('dog', 'NN') 
+
+('with', 'IN') 
+
+('an', 'DT') 
+
+('arrow', 'NN') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('neck', 'NN') 
+
+('.', '.') 
+
+('Near', 'IN') 
+
+('the', 'DT') 
+
+('camp', 'NN') 
+
+('Buck', 'NNP') 
+
+('heard', 'NN') 
+
+('voices', 'NNS') 
+
+('singing', 'VBG') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('he', 'PRP') 
+
+('found', 'VBD') 
+
+('Hans', 'NNP') 
+
+("'", 'POS') 
+
+('body', 'NN') 
+
+('with', 'IN') 
+
+('arrows', 'NNS') 
+
+('in', 'IN') 
+
+('his', 'PRP$') 
+
+('back', 'NN') 
+
+('.', '.') 
+
+('a', 'DT') 
+
+('wild', 'JJ') 
+
+(',', ',') 
+
+('terrible', 'JJ') 
+
+('anger', 'NN') 
+
+('grew', 'VBD') 
+
+('in', 'IN') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('control', 'VB') 
+
+('his', 'PRP$') 
+
+('anger', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('saw', 'VBD') 
+
+('the', 'DT') 
+
+('Yeehat', 'NNP') 
+
+('Indians', 'NNPS') 
+
+('dancing', 'VBG') 
+
+('at', 'IN') 
+
+('Thornton', 'NNP') 
+
+("'s", 'POS') 
+
+('camp', 'NN') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('suddenly', 'RB') 
+
+('attacked', 'VBD') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('wanted', 'VBD') 
+
+('to', 'TO') 
+
+('destroy', 'VB') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('faster', 'RBR') 
+
+('than', 'IN') 
+
+('the', 'DT') 
+
+('wind', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('jumped', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('Indians', 'NNPS') 
+
+('with', 'IN') 
+
+('all', 'PDT') 
+
+('his', 'PRP$') 
+
+('strength', 'NN') 
+
+('and', 'CC') 
+
+('anger', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('cut', 'VBD') 
+
+('the', 'DT') 
+
+('throat', 'NN') 
+
+('of', 'IN') 
+
+('two', 'CD') 
+
+('Indians', 'NNS') 
+
+('with', 'IN') 
+
+('his', 'PRP$') 
+
+('sharp', 'JJ') 
+
+('teeth', 'NN') 
+
+('.', '.') 
+
+('Nothing', 'NN') 
+
+('could', 'MD') 
+
+('stop', 'VB') 
+
+('him', 'PRP') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('killed', 'VBD') 
+
+('many', 'JJ') 
+
+('Yeehats', 'NNS') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('like', 'IN') 
+
+('a', 'DT') 
+
+('devil', 'NN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('Indians', 'NNPS') 
+
+('escaped', 'VBD') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('forest', 'JJS') 
+
+('but', 'CC') 
+
+('Buck', 'NNP') 
+
+('followed', 'VBD') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('Buck', 'NNP') 
+
+('returned', 'VBD') 
+
+('to', 'TO') 
+
+('the', 'DT') 
+
+('camp', 'NN') 
+
+('he', 'PRP') 
+
+('found', 'VBD') 
+
+('Pete', 'NNP') 
+
+("'s", 'POS') 
+
+('body', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('followed', 'VBD') 
+
+('Thornton', 'NNP') 
+
+("'s", 'POS') 
+
+('smell', 'NN') 
+
+('to', 'TO') 
+
+('a', 'DT') 
+
+('pool', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('knew', 'VBD') 
+
+('Thornton', 'NNP') 
+
+("'s", 'POS') 
+
+('body', 'NN') 
+
+('was', 'VBD') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('pool', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('stayed', 'VBD') 
+
+('by', 'IN') 
+
+('the', 'DT') 
+
+('pool', 'NN') 
+
+('all', 'DT') 
+
+('day', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('knew', 'VBD') 
+
+('John', 'NNP') 
+
+('Thornton', 'NNP') 
+
+('was', 'VBD') 
+
+('dead', 'JJ') 
+
+('.', '.') 
+
+('Now', 'RB') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('very', 'RB') 
+
+('sad', 'JJ') 
+
+('and', 'CC') 
+
+('alone', 'RB') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('he', 'PRP') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('dead', 'JJ') 
+
+('Yeehats', 'NNPS') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('proud', 'JJ') 
+
+('of', 'IN') 
+
+('himself', 'PRP') 
+
+('.', '.') 
+
+('That', 'DT') 
+
+('night', 'NN') 
+
+('there', 'RB') 
+
+('was', 'VBD') 
+
+('a', 'DT') 
+
+('full', 'JJ') 
+
+('moon', 'NN') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('heard', 'VBD') 
+
+('the', 'DT') 
+
+('sounds', 'NNS') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('forest', 'JJS') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('became', 'VBD') 
+
+('louder', 'RBR') 
+
+('.', '.') 
+
+('It', 'PRP') 
+
+('was', 'VBD') 
+
+('the', 'DT') 
+
+('call', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('wild', 'JJ') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('was', 'VBD') 
+
+('ready', 'JJ') 
+
+('to', 'TO') 
+
+('obey', 'VB') 
+
+('.', '.') 
+
+('John', 'NNP') 
+
+('Thornton', 'NNP') 
+
+('was', 'VBD') 
+
+('dead', 'JJ') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('was', 'VBD') 
+
+('completely', 'RB') 
+
+('free', 'JJ') 
+
+('.', '.') 
+
+('a', 'DT') 
+
+('wolf', 'NN') 
+
+('pack', 'NN') 
+
+('entered', 'VBD') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('valley', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('watched', 'VBD') 
+
+('them', 'PRP') 
+
+('silently', 'RB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('were', 'VBD') 
+
+('afraid', 'JJ') 
+
+('because', 'IN') 
+
+('Buck', 'NNP') 
+
+('was', 'VBD') 
+
+('so', 'RB') 
+
+('big', 'JJ') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('one', 'CD') 
+
+('wolf', 'NN') 
+
+('jumped', 'VBD') 
+
+('at', 'IN') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('he', 'PRP') 
+
+('attacked', 'VBD') 
+
+('and', 'CC') 
+
+('broke', 'VBD') 
+
+('the', 'DT') 
+
+('wolf', 'NN') 
+
+("'s", 'POS') 
+
+('neck', 'NN') 
+
+('.', '.') 
+
+('Three', 'CD') 
+
+('other', 'JJ') 
+
+('wolves', 'NNS') 
+
+('jumped', 'VBD') 
+
+('at', 'IN') 
+
+('him', 'PRP') 
+
+('but', 'CC') 
+
+('he', 'PRP') 
+
+('attacked', 'VBD') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('Finally', 'RB') 
+
+('all', 'PDT') 
+
+('the', 'DT') 
+
+('wolf', 'NN') 
+
+('pack', 'NN') 
+
+('attacked', 'VBD') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('jumped', 'VBD') 
+
+('``', '``') 
+
+('at', 'IN') 
+
+('them', 'PRP') 
+
+('with', 'IN') 
+
+('his', 'PRP$') 
+
+('great', 'JJ') 
+
+('strength', 'NN') 
+
+('and', 'CC') 
+
+('intelligence', 'NN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('could', 'MD') 
+
+('not', 'RB') 
+
+('stop', 'VB') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('After', 'IN') 
+
+('half', 'PDT') 
+
+('an', 'DT') 
+
+('hour', 'NN') 
+
+('the', 'DT') 
+
+('pack', 'NN') 
+
+('went', 'VBD') 
+
+('away', 'RB') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('were', 'VBD') 
+
+('very', 'RB') 
+
+('tired', 'JJ') 
+
+('.', '.') 
+
+('One', 'CD') 
+
+('wolf', 'NN') 
+
+('was', 'VBD') 
+
+('friendly', 'RB') 
+
+('and', 'CC') 
+
+('went', 'VBD') 
+
+('close', 'RB') 
+
+('to', 'TO') 
+
+('Buck', 'NNP') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('remembered', 'VBD') 
+
+('him', 'PRP') 
+
+(',', ',') 
+
+('it', 'PRP') 
+
+('was', 'VBD') 
+
+('his', 'PRP$') 
+
+('wild', 'JJ') 
+
+('brother', 'NN') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('touched', 'VBD') 
+
+('noses', 'NNS') 
+
+('.', '.') 
+
+('Other', 'JJ') 
+
+('wolves', 'NNS') 
+
+('came', 'VBD') 
+
+('to', 'TO') 
+
+('make', 'VB') 
+
+('friends', 'NNS') 
+
+('.', '.') 
+
+('An', 'DT') 
+
+('old', 'JJ') 
+
+('wolf', 'NN') 
+
+('sat', 'VBD') 
+
+('down', 'RB') 
+
+(',', ',') 
+
+('looked', 'VBD') 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('moon', 'NN') 
+
+('and', 'CC') 
+
+('howled', 'VBN') 
+
+('.', '.') 
+
+('The', 'DT') 
+
+('others', 'NNS') 
+
+('sat', 'VBD') 
+
+('down', 'RB') 
+
+('and', 'CC') 
+
+('howled', 'VBD') 
+
+('too', 'RB') 
+
+('.', '.') 
+
+('Buck', 'NNP') 
+
+('did', 'VBD') 
+
+('the', 'DT') 
+
+('same', 'JJ') 
+
+('.', '.') 
+
+('Soon', 'VB') 
+
+('the', 'DT') 
+
+('wolves', 'NNS') 
+
+('were', 'VBD') 
+
+('all', 'DT') 
+
+('around', 'IN') 
+
+('Buck', 'NNP') 
+
+('and', 'CC') 
+
+('smelled', 'VBD') 
+
+('him', 'PRP') 
+
+('.', '.') 
+
+('Then', 'RB') 
+
+('they', 'PRP') 
+
+('ran', 'VBD') 
+
+('into', 'IN') 
+
+('the', 'DT') 
+
+('forest', 'NN') 
+
+('and', 'CC') 
+
+('Buck', 'NNP') 
+
+('ran', 'VBD') 
+
+('with', 'IN') 
+
+('them', 'PRP') 
+
+('.', '.') 
+
+('His', 'PRP$') 
+
+('wild', 'JJ') 
+
+('brother', 'NN') 
+
+('ran', 'NN') 
+
+('by', 'IN') 
+
+('his', 'PRP$') 
+
+('side', 'NN') 
+
+('.', '.') 
+
+('Perhaps', 'RB') 
+
+('this', 'DT') 
+
+('is', 'VBZ') 
+
+('the', 'DT') 
+
+('end', 'NN') 
+
+('of', 'IN') 
+
+('Buck', 'NNP') 
+
+("'s", 'POS') 
+
+('story', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('after', 'IN') 
+
+('a', 'DT') 
+
+('few', 'JJ') 
+
+('years', 'NNS') 
+
+('the', 'DT') 
+
+('Yeehat', 'NNP') 
+
+('Indians', 'NNP') 
+
+('saw', 'VBD') 
+
+('that', 'IN') 
+
+('some', 'DT') 
+
+('wolves', 'NNS') 
+
+('had', 'VBD') 
+
+('brown', 'VBN') 
+
+('in', 'IN') 
+
+('their', 'PRP$') 
+
+('gray', 'JJ') 
+
+('coats', 'NNS') 
+
+('.', '.') 
+
+('They', 'PRP') 
+
+('also', 'RB') 
+
+('saw', 'VBD') 
+
+('a', 'DT') 
+
+('``', '``') 
+
+('Ghost', 'NNP') 
+
+('Dog', 'NNP') 
+
+("''", "''") 
+
+('at', 'IN') 
+
+('the', 'DT') 
+
+('front', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('wolf', 'NN') 
+
+('pack', 'NN') 
+
+('.', '.') 
+
+('When', 'WRB') 
+
+('the', 'DT') 
+
+('Yeehats', 'NNP') 
+
+('follow', 'VBP') 
+
+('the', 'DT') 
+
+('moose', 'NN') 
+
+('they', 'PRP') 
+
+('do', 'VBP') 
+
+('not', 'RB') 
+
+('enter', 'VB') 
+
+('a', 'DT') 
+
+('certain', 'JJ') 
+
+('valley', 'NN') 
+
+('.', '.') 
+
+('In', 'IN') 
+
+('the', 'DT') 
+
+('summer', 'NN') 
+
+('there', 'EX') 
+
+('is', 'VBZ') 
+
+('a', 'DT') 
+
+('visitor', 'NN') 
+
+('in', 'IN') 
+
+('that', 'DT') 
+
+('valley', 'NN') 
+
+(':', ':') 
+
+('a', 'DT') 
+
+('big', 'JJ') 
+
+(',', ',') 
+
+('golden-brown', 'JJ') 
+
+('wolf', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('is', 'VBZ') 
+
+('bigger', 'JJR') 
+
+('than', 'IN') 
+
+('any', 'DT') 
+
+('other', 'JJ') 
+
+('wolf', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('goes', 'VBZ') 
+
+('to', 'TO') 
+
+('a', 'DT') 
+
+('yellow', 'JJ') 
+
+('stream', 'NN') 
+
+(',', ',') 
+
+('stops', 'VBZ') 
+
+('there', 'RB') 
+
+('and', 'CC') 
+
+('then', 'RB') 
+
+('howls', 'NN') 
+
+('.', '.') 
+
+('But', 'CC') 
+
+('he', 'PRP') 
+
+('is', 'VBZ') 
+
+('not', 'RB') 
+
+('always', 'RB') 
+
+('alone', 'RB') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('is', 'VBZ') 
+
+('the', 'DT') 
+
+('leader', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('wolf', 'NN') 
+
+('pack', 'NN') 
+
+('.', '.') 
+
+('He', 'PRP') 
+
+('runs', 'VBZ') 
+
+('in', 'IN') 
+
+('the', 'DT') 
+
+('moonlight', 'NN') 
+
+('and', 'CC') 
+
+('sings', 'VBZ') 
+
+('the', 'DT') 
+
+('song', 'NN') 
+
+('of', 'IN') 
+
+('the', 'DT') 
+
+('pack', 'NN') 
+
+('.', '.') 
+
+('-', ':') 
+
+('the', 'DT') 
+
+('end', 'NN') 
+
+('-', ':') 
+
+('Hope', 'NN') 
+
+('you', 'PRP') 
+
+('have', 'VBP') 
+
+('enjoyed', 'VBN') 
+
+('the', 'DT') 
+
+('reading', 'NN') 
+
+('!', '.') 
+
+('Come', 'NNP') 
+
+('back', 'RB') 
+
+('to', 'TO') 
+
+('http', 'NN') 
+
+(':', ':') 
+
+('//english-e-books.net/', 'JJ') 
+
+('to', 'TO') 
+
+('find', 'VB') 
+
+('more', 'RBR') 
+
+('fascinating', 'JJ') 
+
+('and', 'CC') 
+
+('exciting', 'JJ') 
+
+('stories', 'NNS') 
+
+('!', '.') 
+
