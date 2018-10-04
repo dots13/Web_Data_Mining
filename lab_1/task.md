@@ -1,7 +1,7 @@
 # 1. Data Acquisition - Web Crawler/Scraper
 ## Task
-### Select a web source of your own choice for the non-trivial web crawling task.
-** The resource should contain hundreds/thousands of unique pages to crawl.
++ Select a web source of your own choice for the non-trivial web crawling task.
++ The resource should contain hundreds/thousands of unique pages to crawl.
 ** Each page should contain at least:
 *** Title - e.g. an article title, a product title, …
 *** Main content/text - a main text of the article, a description of the product, …
