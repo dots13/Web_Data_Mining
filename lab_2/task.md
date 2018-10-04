@@ -1,5 +1,5 @@
-#2. Indexing & Document Retrieval
-###Task
+# 2. Indexing & Document Retrieval
+### Task
 + Download an existing IR dataset - Cranfield collection
   + Or you can use already preprocessed data cranfield.zip (d-documents, q-queries, r-relevances (a set of relevant document ids for each query id))
 + Represent each document and query using the Vector Space Model with all following weightings:
