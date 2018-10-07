@@ -1,5 +1,6 @@
 # 1. Data Acquisition - Web Crawler/Scraper
 ## Task
+
 + Select a web source of your own choice for the non-trivial web crawling task.
   + The resource should contain hundreds/thousands of unique pages to crawl.
   + Each page should contain at least:
